@@ -3,10 +3,10 @@ Interactive graphs for rules engine outputs (atomic + business rules).
 
 How to run:
     1) Install deps (once):
-       pip install streamlit plotly pandas
+       pip install -r rules_engine/requirements.txt
 
     2) Start the app from the repo root:
-       streamlit run backend/rules_engine/graph_engine.py
+       streamlit run rules_engine/graph_engine.py
 
 Notes:
     - This app evaluates providers on-the-fly using the same engine logic,
