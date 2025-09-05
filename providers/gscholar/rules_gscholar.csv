@@ -1,0 +1,50 @@
+id,category,label,metric,operator,value_low,value_high,value_exact,unit,window_value,window_unit,weight,is_gate
+GS-1000,Gate,ProfileItem,is_profile,EQ,,,TRUE,none,,,0,TRUE
+GS-1001,Authenticity,Verified Email,has_verified_email,EQ,,,TRUE,none,,,0.05,FALSE
+GS-1002,Authenticity,No Verified Email,has_verified_email,EQ,,,FALSE,none,,,0.05,FALSE
+GS-1003,Authenticity,Photo Present,has_profile_photo,EQ,,,TRUE,none,,,0.03,FALSE
+GS-1004,Authenticity,No Photo,has_profile_photo,EQ,,,FALSE,none,,,0.03,FALSE
+GS-1005,Authenticity,Affiliation Present,affiliation,EXISTS,,,,none,,,0.03,FALSE
+GS-1006,Authenticity,No Affiliation,affiliation,MISSING,,,,none,,,0.03,FALSE
+GS-1007,Authenticity,Homepage Present,homepage_url,EXISTS,,,,none,,,0.03,FALSE
+GS-1008,Authenticity,No Homepage,homepage_url,MISSING,,,,none,,,0.03,FALSE
+GS-2001,Scholarly Impact,Citations All - 0-99,citations_all,BETWEEN,0,99,,count,,,0.07,FALSE
+GS-2002,Scholarly Impact,Citations All - 100-499,citations_all,BETWEEN,100,499,,count,,,0.07,FALSE
+GS-2003,Scholarly Impact,Citations All - 500-1999,citations_all,BETWEEN,500,1999,,count,,,0.07,FALSE
+GS-2004,Scholarly Impact,Citations All - 2000-4999,citations_all,BETWEEN,2000,4999,,count,,,0.07,FALSE
+GS-2005,Scholarly Impact,Citations All - >=5000,citations_all,GTE,5000,,,count,,,0.07,FALSE
+GS-2006,Scholarly Impact,h-index All - <9,h_index_all,LT,,9,,count,,,0.08,FALSE
+GS-2007,Scholarly Impact,h-index All - 10-19,h_index_all,BETWEEN,10,19,,count,,,0.08,FALSE
+GS-2008,Scholarly Impact,h-index All - 20-29,h_index_all,BETWEEN,20,29,,count,,,0.08,FALSE
+GS-2009,Scholarly Impact,h-index All - 30-49,h_index_all,BETWEEN,30,49,,count,,,0.08,FALSE
+GS-2010,Scholarly Impact,h-index All - >=50,h_index_all,GTE,50,,,count,,,0.08,FALSE
+GS-2011,Scholarly Impact,i10-index All - <9,i10_index_all,LT,,9,,count,,,0.06,FALSE
+GS-2012,Scholarly Impact,i10-index All - 10-49,i10_index_all,BETWEEN,10,49,,count,,,0.06,FALSE
+GS-2013,Scholarly Impact,i10-index All - 50-99,i10_index_all,BETWEEN,50,99,,count,,,0.06,FALSE
+GS-2014,Scholarly Impact,i10-index All - 100-199,i10_index_all,BETWEEN,100,199,,count,,,0.06,FALSE
+GS-2015,Scholarly Impact,i10-index All - >=200,i10_index_all,GTE,200,,,count,,,0.06,FALSE
+GS-2016,Scholarly Impact,Citations 5y - <50,citations_5y,LT,,49,,count,,,0.07,FALSE
+GS-2017,Scholarly Impact,Citations 5y - 50-199,citations_5y,BETWEEN,50,199,,count,,,0.07,FALSE
+GS-2018,Scholarly Impact,Citations 5y - 200-499,citations_5y,BETWEEN,200,499,,count,,,0.07,FALSE
+GS-2019,Scholarly Impact,Citations 5y - 500-999,citations_5y,BETWEEN,500,999,,count,,,0.07,FALSE
+GS-2020,Scholarly Impact,Citations 5y - >=1000,citations_5y,GTE,1000,,,count,,,0.07,FALSE
+GS-2021,Scholarly Impact,h-index 5y - <7,h_index_5y,LT,,7,,count,,,0.07,FALSE
+GS-2022,Scholarly Impact,h-index 5y - 8-14,h_index_5y,BETWEEN,8,14,,count,,,0.07,FALSE
+GS-2023,Scholarly Impact,h-index 5y - 15-24,h_index_5y,BETWEEN,15,24,,count,,,0.07,FALSE
+GS-2024,Scholarly Impact,h-index 5y - 25-39,h_index_5y,BETWEEN,25,39,,count,,,0.07,FALSE
+GS-2025,Scholarly Impact,h-index 5y - >=40,h_index_5y,GTE,40,,,count,,,0.07,FALSE
+GS-2026,Scholarly Impact,i10-index 5y - <5,i10_index_5y,LT,,4,,count,,,0.05,FALSE
+GS-2027,Scholarly Impact,i10-index 5y - 5-24,i10_index_5y,BETWEEN,5,24,,count,,,0.05,FALSE
+GS-2028,Scholarly Impact,i10-index 5y - 25-59,i10_index_5y,BETWEEN,25,59,,count,,,0.05,FALSE
+GS-2029,Scholarly Impact,i10-index 5y - 60-119,i10_index_5y,BETWEEN,60,119,,count,,,0.05,FALSE
+GS-2030,Scholarly Impact,i10-index 5y - >=120,i10_index_5y,GTE,120,,,count,,,0.05,FALSE
+GS-3001,Activity,Last Pub <1y,last_pub_age_years,LT,,1,,years,,,0.06,FALSE
+GS-3002,Activity,Last Pub 1-2y,last_pub_age_years,BETWEEN,1,2,,years,,,0.06,FALSE
+GS-3003,Activity,Last Pub 3-5y,last_pub_age_years,BETWEEN,3,5,,years,,,0.06,FALSE
+GS-3004,Activity,Last Pub 6-10y,last_pub_age_years,BETWEEN,6,10,,years,,,0.06,FALSE
+GS-3005,Activity,Last Pub >10y,last_pub_age_years,GT,10,,,years,,,0.06,FALSE
+GS-3006,Activity,Articles - 0,articles_count,EQ,,,0,count,,,0.05,FALSE
+GS-3007,Activity,Articles - 1-9,articles_count,BETWEEN,1,9,,count,,,0.05,FALSE
+GS-3008,Activity,Articles - 10-49,articles_count,BETWEEN,10,49,,count,,,0.05,FALSE
+GS-3009,Activity,Articles - 50-199,articles_count,BETWEEN,50,199,,count,,,0.05,FALSE
+GS-3010,Activity,Articles - >=200,articles_count,GTE,200,,,count,,,0.05,FALSE

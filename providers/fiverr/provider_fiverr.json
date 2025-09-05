@@ -1,0 +1,447 @@
+{
+    "rollouts": {
+      "grizzlies_trader_details_displaying": false,
+      "qualas_new_level_system_consumers_migration": true,
+      "zebras_hourly_rate": true,
+      "starlings_boosting_new_gigs": false,
+      "starlings_fiverr_go_floating_chat": false,
+      "caribou_portfolio_attachment_report_eligibility": false
+    },
+    "seller": {
+      "user": {
+        "id": "85929215",
+        "name": "georgiaeaustin",
+        "isActivationCompleted": true,
+        "joinedAt": 1585571695,
+        "profile": {
+          "displayName": "Georgia Austin"
+        },
+        "address": {
+          "countryName": "United States",
+          "countryCode": "US"
+        },
+        "languages": [
+          {
+            "code": "EN",
+            "level": "NATIVE_OR_BILINGUAL"
+          }
+        ],
+        "localization": {
+          "timezone": "Asia/Manila"
+        },
+        "profileImageUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/9ec80b70d871354bc950ccdbc2c0642a-1727286260269/cee12ba5-311d-442c-b8ad-aa1632894fcc.png"
+      },
+      "isSelfIdentifiedAsAgency": null,
+      "regionalGroupRestrictions": [],
+      "hourlyRate": {
+        "priceInCents": 6500
+      },
+      "approvedGigsCount": 28,
+      "gigs": {
+        "nodes": [
+          {
+            "id": "150582239"
+          }
+        ]
+      },
+      "notableClients": [
+        {
+          "endedAt": null,
+          "startedAt": 1612137600,
+          "description": "I crafted engaging and persuasive product and category descriptions for Nike. Seamlessly blended SEO, highlighted features & performance benefits, and showcased brand innovation, effectively engaging and inspiring the target audience.",
+          "company": {
+            "description": "Nike, Inc. is an American multinational corporation that is engaged in the design, development, manufacturing, and worldwide marketing and sales of footwear, apparel, equipment, accessories, and services. The company is headquartered near Beaverton, Oregon, in the Portland metropolitan area.",
+            "inFortuneList": false,
+            "logoImage": {
+              "previewUrl": {
+                "url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_clients_thumb/v1/attachments/company/logo/b9fb4969c0b21da89c5088f658a81edc-1643199872/61a87d9284d88e25cd784b54.png"
+              }
+            },
+            "name": "Nike",
+            "industry": {
+              "slug": "Consumer Staples"
+            }
+          }
+        }
+      ],
+      "isActive": true,
+      "introVideo": {
+        "url": "https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/v1/video-attachments/seller_intro_video/attachment/366b3816c8151bb487138b4ef59f66c6-1677092690067/IMG_7185"
+      },
+      "oneLinerTitle": "Senior SEO Content Writer",
+      "description": "I am a professionally trained SEO copywriter, editor, and content marketing strategist. \n\nOriginally from the UK, now living in the US, I have over 8 years of experience\u2014working with brands like Nike, Siemens, Toshiba, Tommy Hilfiger, and American Express. \n\nI am available to produce SEO-optimized blogs/articles, website content, social media content, sales copy, LinkedIn content, and much more for you and your business.\n\nMessage me and let's get to work!",
+      "isVerified": true,
+      "isHighlyResponsive": false,
+      "profileBackgroundImage": {
+        "type": "IMAGE",
+        "scanStatus": "PASSED",
+        "fileName": "Expired file",
+        "previewUrl": {
+          "transformation": "SELLER_PROFILE_COVER_WIDE_PREVIEW",
+          "url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_seller_cover_wide/v1/attachments/placeholders/file_no_longer_available.jpg"
+        }
+      },
+      "certifications": [
+        {
+          "receivedFrom": "University of Oxford",
+          "certificationName": "English Language & Literature",
+          "year": 2014
+        }
+      ],
+      "activeEducations": [
+        {
+          "degree": "bachelor of social sciences",
+          "toYear": 2016,
+          "countryCode": "GB",
+          "school": "University of Sussex",
+          "degreeTitle": "BA"
+        },
+        {
+          "degree": "global business",
+          "toYear": 2022,
+          "countryCode": "US",
+          "school": "Harvard Business School",
+          "degreeTitle": "OTHER"
+        }
+      ],
+      "activeStructuredSkills": [
+        {
+          "id": "617fa6480565f07789005d8f",
+          "name": "Digital marketing",
+          "level": "PRO",
+          "verified": false
+        },
+        {
+          "id": "617fa6430565f07789005c35",
+          "name": "Content writing",
+          "level": "PRO",
+          "verified": false
+        },
+        {
+          "id": "617fa66d0565f0778900682d",
+          "name": "Proofreading",
+          "level": "PRO",
+          "verified": false
+        },
+        {
+          "id": "617fa6440565f07789005c4e",
+          "name": "Copy editing",
+          "level": "PRO",
+          "verified": false
+        }
+      ],
+      "gigCategories": [
+        {
+          "categoryId": 3,
+          "subCategoryId": 246,
+          "nestedCategoryId": null
+        },
+        {
+          "categoryId": 5,
+          "subCategoryId": 114,
+          "nestedCategoryId": 2404
+        }
+      ],
+      "isPro": true,
+      "proSubCategories": [
+        {
+          "categoryId": 5,
+          "subCategoryId": 114,
+          "nestedCategoryId": null
+        }
+      ],
+      "portfolios": {
+        "nodes": [
+          {
+            "id": "67367720ddaae70001654f48",
+            "title": "Virgin Australia",
+            "items": {
+              "totalCount": 1,
+              "nodes": [
+                {
+                  "id": "67367720ddaae70001654f4a",
+                  "attachment": {
+                    "metadata": {
+                      "height": 1316,
+                      "width": 2860
+                    },
+                    "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large_non_exp/v1/attachments/project_item/attachment/a800d11c4fea6641dbc25e5415080913-1731622607212/Screenshot%202024-11-14%20at%2019.16.36.png"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "id": "67367a231a6d1a0001ed0ee0",
+            "title": "mmhmm blog content",
+            "items": {
+              "totalCount": 2,
+              "nodes": [
+                {
+                  "id": "67367a231a6d1a0001ed0ee7",
+                  "attachment": {
+                    "metadata": {
+                      "height": 1102,
+                      "width": 1206
+                    },
+                    "previewUrl": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large_non_exp/v1/attachments/project_item/attachment/d15924ceda4a979cd8e87c48418853dd-1731623161480/Screenshot%202024-11-14%20at%2019.20.47.png"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "totalCount": 6
+      },
+      "workExperiences": {
+        "nodes": []
+      },
+      "onlinePresences": [
+        {
+          "platform": "LINKEDIN"
+        }
+      ],
+      "professionalPresences": [],
+      "courses": {
+        "nodes": []
+      },
+      "rating": {
+        "score": 4.9,
+        "count": 8377
+      },
+      "isOnVacation": false,
+      "vacation": null,
+      "achievementLevel": "TOP_RATED_SELLER",
+      "sellerLevel": "LEVEL_TRS",
+      "responseTime": {
+        "inHours": 3
+      },
+      "testimonials": [],
+      "agency": null
+    },
+    "currency": {
+      "name": "USD",
+      "rate": 1,
+      "template": "${{amount}}",
+      "forceRound": true,
+      "forceRoundFromAmount": 1000,
+      "symbol": "$"
+    },
+    "sellerHasProfessions": false,
+    "reviewsData": {
+      "buying_reviews": {
+        "reviews": [
+          {
+            "order_duration": "5 days",
+            "order_duration_en": "5 days",
+            "order_duration_in_days": 5,
+            "order_price_range": "$100-$200",
+            "order_price_range_usd": "$100-$200",
+            "id": "687593eb3010ef1719605ac9",
+            "comment": "I signed up for the \"refresh\" package. Georgia gave me a Word file with a new headline, new about-me section, and rewrites for my three most recent work experiences. I would have liked to see recommendations for what image to put on the top of the profile.\n\nMy LinkedIn profile looks much better after I replaced the text that I had with her edits.\n\nMy recommendation to her would be to explain to clients why she makes the suggestions she makes. It would make the overall product more professional (and probably could command a higher fee.)",
+            "comment_language": "en",
+            "username": "fabianaperera",
+            "reviewer_country_code": "US",
+            "created_at": "2025-07-15T13:42:18",
+            "value": 3.3,
+            "reviewer_country": "United States",
+            "encrypted_order_id": "FO32152B80D87",
+            "seller_response": {
+              "comment": "Thanks for your feedback Fabiana. This does seem like a slightly harsh review when you stated how happy you were in our private chat. Additionally, despite not offering other profile recommendations outside what is already included in my gig, I did those at no extra charge for you. I wouldn\u2019t consider that to be a 3.3* experience; especially when I was more than willing to continue working on this until you were 100% happy (which, to my understanding, you were). In any case, I\u2019m pleased you loved the profile and I\u2019m grateful I got to help you.",
+              "comment_language": "en",
+              "created_at": "2025-07-15T14:00:21"
+            },
+            "score": 0.814808,
+            "repeat_buyer": false,
+            "is_business": false,
+            "gig_id": 285612125,
+            "gig_slug": "write-a-powerful-linkedin-profile",
+            "gig_category": 5,
+            "gig_sub_category": 398,
+            "relevancy_score": 0.5,
+            "price_range_start": 100,
+            "price_range_end": 200,
+            "reviews_count_as_buyer": 2,
+            "is_cancelled_order": false,
+            "original_relevancy_score": 0.5
+          }
+        ],
+        "has_next": true,
+        "total_count": 8377,
+        "reviews_as_seller": true,
+        "filters_counters": {
+          "work_sample": 1,
+          "most_common_industries": {
+            "retail_and_wholesale": 727,
+            "technology": 626,
+            "marketing_or_advertising": 381,
+            "financial_services_or_banking": 371,
+            "medical_or_pharmaceutical": 364,
+            "beauty_and_cosmetics": 242,
+            "art_and_design": 236,
+            "education": 230,
+            "fashion_and_apparel": 220,
+            "real_estate": 182,
+            "food_and_beverage": 154,
+            "services": 147,
+            "construction": 137,
+            "media_or_entertainment": 106,
+            "sports_and_fitness": 104,
+            "leisure_or_lifestyle": 98,
+            "events_planning": 73,
+            "travel_or_tourism": 72,
+            "photography_and_videography": 66,
+            "transportation_or_automotive": 64,
+            "animals_and_pets": 58,
+            "legal": 42,
+            "agriculture": 40,
+            "non_profit": 36,
+            "manufacturing_and_storage": 33,
+            "writing_and_publishing": 30,
+            "gaming": 20,
+            "utilities_or_energy": 19,
+            "kids": 14,
+            "environmental": 12,
+            "other": 603
+          },
+          "business": 2030
+        },
+        "user_id": 85929215,
+        "seller_username": "georgiaeaustin",
+        "star_summary": {
+          "communication_valuation": 4.9,
+          "quality_of_delivery_valuation": 4.9,
+          "value_for_money_valuation": 4.8
+        },
+        "breakdown": [
+          {
+            "average_valuation_value": 1,
+            "count": 21
+          }
+        ],
+        "average_valuation": 4.9,
+        "reviews_snippet": [
+          {
+            "id": "689131398e8eec0592d78f56",
+            "comment": "Working with Georgia has been nothing short of extraordinary. From the very first message, it was clear she wasn't just another copywriter \u2014 she\u2019s the real deal. Friendly, patient, deeply insightful, and razor-sharp with her words, she immediately understood my vision and brought it to life better than I ever imagined.\n\nHer professionalism is unmatched, and her communication was clear, prompt, and always kind. Georgia has a natural talent for connecting with your brand voice and crafting content that truly resonates. She delivers exceptional quality with a turnaround time so fast, you'd think she has a superpower.\nAnd let\u2019s talk value \u2014 honestly, her rates are underpriced for the level of expertise, care, and excellence she brings. Georgia doesn\u2019t just deliver \u2014 she goes above and beyond in every possible way. She took my scattered ideas, brought clarity, structure, and style, and elevated everything with flawless execution.\n\nI would never consider working with anyone else for content again. Georgia is my go-to from now on \u2014 a total gem of a freelancer and an absolute asset to any business. She\u2019s also a proud American citizen, and that pride shows in her strong work ethic and dedication to excellence.\nIf you\u2019re lucky enough to land a spot in her client queue \u2014 don\u2019t hesitate. You\u2019ll be grateful you did. I know I am.\n\nThank you, Georgia. You\u2019re worth every dollar and more.",
+            "comment_language": "en",
+            "username": "bentziong501",
+            "reviewer_country_code": "",
+            "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/624a1054e336ac696b82372217985eb4-2007767171753785984.450136/BBD26EE3-EEA4-4256-A843-91BC07E7C8A7",
+            "created_at": "2025-08-05T14:55:20",
+            "value": 5,
+            "reviewer_country": "",
+            "timestamp": 1754405720
+          }
+        ]
+      },
+      "selling_reviews": {
+        "user_id": 85929215,
+        "reviews": [
+          {
+            "id": "6550e2fa163f3500012c655a",
+            "comment": "In the process of coaching her partner and I see improvements as he seeks to better his communication!",
+            "comment_language": "en",
+            "username": "heng_hui_mei",
+            "reviewer_country_code": "SG",
+            "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/5bed261b757b6158098003c0c0251345-1592502911003/69139356-89c6-4e64-b3af-a28ae8b961c0.JPG",
+            "created_at": "2023-11-12T14:36:42",
+            "value": 5
+          }
+        ],
+        "total_count": null,
+        "average_valuation": null,
+        "reviews_as_seller": false,
+        "has_next": true
+      }
+    },
+    "consultationData": {},
+    "localizationData": {
+      "user_id": 85929215,
+      "currency": "USD",
+      "locale": "en-US",
+      "timezone": "Asia/Manila",
+      "recent_utc_offset": -480
+    },
+    "gigsData": [
+      {
+        "gig_id": 153869181,
+        "category_id": 5,
+        "sub_category_id": 335,
+        "nested_sub_category_id": 0,
+        "is_pro": true,
+        "is_featured": false,
+        "cached_slug": "write-content-for-your-website",
+        "title": "write content for your website",
+        "seller_name": "georgiaeaustin",
+        "seller_id": 85929215,
+        "seller_country": "US",
+        "seller_img": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/9ec80b70d871354bc950ccdbc2c0642a-1727286260269/cee12ba5-311d-442c-b8ad-aa1632894fcc.png",
+        "seller_display_name": "Georgia Austin",
+        "seller_online": false,
+        "status": "APPROVED",
+        "offer_consultation": false,
+        "assets": [
+          {
+            "cloud_img_main_gig": "https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/153869181/original/c264e2e18b06cd4e9939636daf831d7189207370.png",
+            "type": "ImageAsset",
+            "id": "153869181_1"
+          }
+        ],
+        "choice_eligibilities": [
+          {
+            "type": "ALGO_A"
+          }
+        ],
+        "seller_languages": [
+          {
+            "code": "en",
+            "level": 4
+          }
+        ],
+        "recurring_options": null,
+        "metadata": [
+          {
+            "type": "language",
+            "value": [
+              "english",
+              "portuguese"
+            ]
+          },
+          {
+            "type": "content_type",
+            "value": [
+              "landing_page"
+            ]
+          }
+        ],
+        "personalized_pricing_fail": false,
+        "has_recurring_option": false,
+        "buying_review_rating_count": 2261,
+        "buying_review_rating": 4.9,
+        "seller_url": "/georgiaeaustin",
+        "seller_level": "top_rated_seller",
+        "seller_rating": {
+          "count": 8377,
+          "score": 4.923266
+        },
+        "gig_url": "/georgiaeaustin/write-content-for-your-website",
+        "is_seller_unavailable": false,
+        "price_i": 125,
+        "package_i": 1,
+        "extra_fast": false,
+        "num_of_packages": 3,
+        "gigQueryParams": {}
+      }
+    ],
+    "ordersData": {},
+    "sellerRolesData": [],
+    "portfoliosData": [],
+    "isActivationCompleted": false,
+    "floatingChatData": {
+      "isFloatingChatEnabled": false,
+      "showConversationSavedTooltip": false
+    },
+    "isSellerReferralBadge": false
+  }
+  

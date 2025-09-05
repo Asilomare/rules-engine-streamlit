@@ -1,0 +1,10 @@
+I want to implement new code into an existing workflow. The code is developed and working but with local test data, i need to integrate it with the dynamic data fetched in these functions: @sanctions_screener.py 
+@data_aggregator.py @lambda_function.py 
+
+ so replace the static provider_paths with a dynamic passing of data from the data aggregator/sanctions screener
+
+ALSO the CSV files will need to be loaded dynamically. there should be some sort of caching and validation when replacing the cache to ensure the new versions arent faulty before updating and ingesting them. they will be fetched from google sheets, there is one spreadsheet, and individual sheets with consistent naming conventions: a-<provider_id> and br-<provider_id>
+
+here are the files to implement: @rules_engine.py @providers/ 
+
+move the rules engine into the 

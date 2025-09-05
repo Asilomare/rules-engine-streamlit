@@ -1,0 +1,60 @@
+source,id,parentId,priority,match_type,category,businessRuleLabel,likert_value,likert_label,ALL_OF,ANY_OF,NONE_OF,threshold_attr,weight
+Kaggle,9001,,1,profile,Maturity,Account Age Scale,1,Very Low,KG-1010a,,,,-2
+Kaggle,9001,,1,profile,Maturity,Account Age Scale,2,Low,KG-1010b,,,,-1
+Kaggle,9001,,1,profile,Maturity,Account Age Scale,3,Medium,KG-1010c,,,,0
+Kaggle,9001,,1,profile,Maturity,Account Age Scale,4,High,KG-1010d,,,,1
+Kaggle,9001,,1,profile,Maturity,Account Age Scale,5,Very High,KG-1010e,,,,2
+Kaggle,9002,,2,profile,Activity,Recency Scale,1,Very Low,KG-1020e,,,,-2
+Kaggle,9002,,2,profile,Activity,Recency Scale,2,Low,KG-1020d,,,,-1
+Kaggle,9002,,2,profile,Activity,Recency Scale,3,Medium,KG-1020c,,,,0
+Kaggle,9002,,2,profile,Activity,Recency Scale,4,High,KG-1020b,,,,1
+Kaggle,9002,,2,profile,Activity,Recency Scale,5,Very High,KG-1020a,,,,2
+Kaggle,9003,,3,profile,Contribution,Datasets Scale,1,Very Low,KG-1030a,,,,-2
+Kaggle,9003,,3,profile,Contribution,Datasets Scale,2,Low,KG-1030b,,,,-1
+Kaggle,9003,,3,profile,Contribution,Datasets Scale,3,Medium,KG-1030c,,,,0
+Kaggle,9003,,3,profile,Contribution,Datasets Scale,4,High,KG-1030d,,,,1
+Kaggle,9003,,3,profile,Contribution,Datasets Scale,5,Very High,KG-1030e,,,,2
+Kaggle,9004,,4,profile,Contribution,Notebooks Scale,1,Very Low,KG-1031a,,,,-2
+Kaggle,9004,,4,profile,Contribution,Notebooks Scale,2,Low,KG-1031b,,,,-1
+Kaggle,9004,,4,profile,Contribution,Notebooks Scale,3,Medium,KG-1031c,,,,0
+Kaggle,9004,,4,profile,Contribution,Notebooks Scale,4,High,KG-1031d,,,,1
+Kaggle,9004,,4,profile,Contribution,Notebooks Scale,5,Very High,KG-1031e,,,,2
+Kaggle,9005,,5,profile,Contribution,Models Scale,1,Very Low,KG-1033a,,,,-2
+Kaggle,9005,,5,profile,Contribution,Models Scale,2,Low,KG-1033b,,,,-1
+Kaggle,9005,,5,profile,Contribution,Models Scale,3,Medium,KG-1033c,,,,0
+Kaggle,9005,,5,profile,Contribution,Models Scale,4,High,KG-1033d,,,,1
+Kaggle,9005,,5,profile,Contribution,Models Scale,5,Very High,KG-1033e,,,,2
+Kaggle,9006,,6,profile,Community,Discussions Scale,1,Very Low,KG-1032a,,,,-2
+Kaggle,9006,,6,profile,Community,Discussions Scale,2,Low,KG-1032b,,,,-1
+Kaggle,9006,,6,profile,Community,Discussions Scale,3,Medium,KG-1032c,,,,0
+Kaggle,9006,,6,profile,Community,Discussions Scale,4,High,KG-1032d,,,,1
+Kaggle,9006,,6,profile,Community,Discussions Scale,5,Very High,KG-1032e,,,,2
+Kaggle,9007,,7,profile,Authorship,Write-ups Scale,1,Very Low,KG-1035a,,,,-2
+Kaggle,9007,,7,profile,Authorship,Write-ups Scale,2,Low,KG-1035b,,,,-1
+Kaggle,9007,,7,profile,Authorship,Write-ups Scale,3,Medium,KG-1035c,,,,0
+Kaggle,9007,,7,profile,Authorship,Write-ups Scale,4,High,KG-1035d,,,,1
+Kaggle,9007,,7,profile,Authorship,Write-ups Scale,5,Very High,KG-1035e,,,,2
+Kaggle,9008,,8,profile,Reputation,Followers Scale,1,Very Low,KG-1040a,,,,-2
+Kaggle,9008,,8,profile,Reputation,Followers Scale,2,Low,KG-1040b,,,,-1
+Kaggle,9008,,8,profile,Reputation,Followers Scale,3,Medium,KG-1040c,,,,0
+Kaggle,9008,,8,profile,Reputation,Followers Scale,4,High,KG-1040d,,,,1
+Kaggle,9008,,8,profile,Reputation,Followers Scale,5,Very High,KG-1040e,,,,2
+Kaggle,9009,,9,profile,Achievement,Badges Scale,1,Very Low,KG-1050a,,,,-2
+Kaggle,9009,,9,profile,Achievement,Badges Scale,2,Low,KG-1050b,,,,-1
+Kaggle,9009,,9,profile,Achievement,Badges Scale,3,Medium,KG-1050c,,,,0
+Kaggle,9009,,9,profile,Achievement,Badges Scale,4,High,KG-1050d,,,,1
+Kaggle,9009,,9,profile,Achievement,Badges Scale,5,Very High,KG-1050e,,,,2
+Kaggle,9010,,10,profile,Authenticity,Profile Completeness Scale,1,Very Low,KG-1001,,"KG-1002,KG-1003,KG-1004c,KG-1004d",,-2
+Kaggle,9010,,10,profile,Authenticity,Profile Completeness Scale,2,Low,"KG-1001,KG-1002","KG-1004c,KG-1004d",,,-1
+Kaggle,9010,,10,profile,Authenticity,Profile Completeness Scale,3,Medium,"KG-1001,KG-1002,KG-1003",KG-1004a,,,0
+Kaggle,9010,,10,profile,Authenticity,Profile Completeness Scale,4,High,"KG-1001,KG-1002,KG-1003",KG-1004d,,,1
+Kaggle,9010,,10,profile,Authenticity,Profile Completeness Scale,5,Very High,"KG-1001,KG-1002,KG-1003,KG-1004a,KG-1004c",,,,2
+Kaggle,9010,,10,profile,Authenticity,Profile Completeness Scale,5,Very High,"KG-1001,KG-1002,KG-1003,KG-1004a,KG-1004c",,,,2
+Kaggle,9101,,20,profile,Adversarial,Ghost Account,1,Inactive >365d + No Contributions,"KG-1020e,KG-1030a,KG-1031a,KG-1033a",,,,-3
+Kaggle,9102,,21,profile,Adversarial,Empty Profile,1,No Bio + No Avatar + No Social Links,"KG-1002,KG-1003","KG-1004a,KG-1004b,KG-1004c,KG-1004d",,,-2
+Kaggle,9103,,22,profile,Adversarial,Reputation Outlier,1,Followers 0‚Äì10 but High Age >48mo,"KG-1040a,KG-1010d,KG-1010e",,,,-2
+Kaggle,9104,,23,profile,Adversarial,One-Dimensional Contributor,1,Many Notebooks but No Datasets or Models,"KG-1031d,KG-1031e","KG-1030a,KG-1033a",,,-2
+Kaggle,9105,,24,profile,Adversarial,Badge Collector Only,1,Many Badges but No Notebooks/Datasets,"KG-1050d,KG-1050e","KG-1030a,KG-1031a",,,-2
+Kaggle,9106,,25,profile,Adversarial,Dormant Veteran,1,Account Age >49mo but Inactive >180d,"KG-1010e,KG-1020d,KG-1020e",,,,-2
+Kaggle,9107,,26,profile,Adversarial,Discussion Spammer,1,Discussions 500+ but Few Notebooks/Datasets,KG-1032e,"KG-1030a,KG-1031a",,,-3
+Kaggle,9108,,27,profile,Adversarial,Shallow Competitor,1,Competitions Hosted but No Models,"KG-1034b,KG-1034c,KG-1034d,KG-1034e",KG-1033a,,,-2

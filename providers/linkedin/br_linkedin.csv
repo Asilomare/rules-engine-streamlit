@@ -1,0 +1,271 @@
+source,id,parentId,priority,match_type,category,businessRuleLabel,likert_value,likert_label,ALL_OF,ANY_OF,NONE_OF,threshold_attr,weight
+LinkedIn,1000,null,1,profile,Authenticity,Profile Present Scale,1,Very Low,,,LI-1000,,-2
+LinkedIn,1000,null,1,profile,Authenticity,Profile Present Scale,2,Low,,,LI-1000,,-1
+LinkedIn,1000,null,1,profile,Authenticity,Profile Present Scale,3,Medium,LI-1000,,,,0
+LinkedIn,1000,null,1,profile,Authenticity,Profile Present Scale,4,High,LI-1000,,,,1
+LinkedIn,1000,null,1,profile,Authenticity,Profile Present Scale,5,Very High,LI-1000,,,,2
+LinkedIn,1001,null,2,profile,Authenticity,Profile Image Present Scale,1,Very Low,,,LI-1001,,-2
+LinkedIn,1001,null,2,profile,Authenticity,Profile Image Present Scale,2,Low,,,LI-1001,,-1
+LinkedIn,1001,null,2,profile,Authenticity,Profile Image Present Scale,3,Medium,LI-1001,,,,0
+LinkedIn,1001,null,2,profile,Authenticity,Profile Image Present Scale,4,High,LI-1001,,,,1
+LinkedIn,1001,null,2,profile,Authenticity,Profile Image Present Scale,5,Very High,LI-1001,,,,2
+LinkedIn,1002,null,3,profile,Authenticity,About Present Scale,1,Very Low,,,LI-1002,,-2
+LinkedIn,1002,null,3,profile,Authenticity,About Present Scale,2,Low,,,LI-1002,,-1
+LinkedIn,1002,null,3,profile,Authenticity,About Present Scale,3,Medium,LI-1002,,,,0
+LinkedIn,1002,null,3,profile,Authenticity,About Present Scale,4,High,LI-1002,,,,1
+LinkedIn,1002,null,3,profile,Authenticity,About Present Scale,5,Very High,LI-1002,,,,2
+LinkedIn,1003,null,4,profile,Authenticity,Location Present Scale,1,Very Low,,,LI-1003,,-2
+LinkedIn,1003,null,4,profile,Authenticity,Location Present Scale,2,Low,,,LI-1003,,-1
+LinkedIn,1003,null,4,profile,Authenticity,Location Present Scale,3,Medium,LI-1003,,,,0
+LinkedIn,1003,null,4,profile,Authenticity,Location Present Scale,4,High,LI-1003,,,,1
+LinkedIn,1003,null,4,profile,Authenticity,Location Present Scale,5,Very High,LI-1003,,,,2
+LinkedIn,1004,null,5,profile,Authenticity,Country Present Scale,1,Very Low,,,LI-1004,,-2
+LinkedIn,1004,null,5,profile,Authenticity,Country Present Scale,2,Low,,,LI-1004,,-1
+LinkedIn,1004,null,5,profile,Authenticity,Country Present Scale,3,Medium,LI-1004,,,,0
+LinkedIn,1004,null,5,profile,Authenticity,Country Present Scale,4,High,LI-1004,,,,1
+LinkedIn,1004,null,5,profile,Authenticity,Country Present Scale,5,Very High,LI-1004,,,,2
+LinkedIn,1005,null,6,profile,Authenticity,Public Email Present Scale,1,Very Low,,,LI-1005,,-2
+LinkedIn,1005,null,6,profile,Authenticity,Public Email Present Scale,2,Low,,,LI-1005,,-1
+LinkedIn,1005,null,6,profile,Authenticity,Public Email Present Scale,3,Medium,LI-1005,,,,0
+LinkedIn,1005,null,6,profile,Authenticity,Public Email Present Scale,4,High,LI-1005,,,,1
+LinkedIn,1005,null,6,profile,Authenticity,Public Email Present Scale,5,Very High,LI-1005,,,,2
+LinkedIn,1006,null,7,profile,Authenticity,Current Company Present Scale,1,Very Low,,,LI-1006,,-2
+LinkedIn,1006,null,7,profile,Authenticity,Current Company Present Scale,2,Low,,,LI-1006,,-1
+LinkedIn,1006,null,7,profile,Authenticity,Current Company Present Scale,3,Medium,LI-1006,,,,0
+LinkedIn,1006,null,7,profile,Authenticity,Current Company Present Scale,4,High,LI-1006,,,,1
+LinkedIn,1006,null,7,profile,Authenticity,Current Company Present Scale,5,Very High,LI-1006,,,,2
+LinkedIn,1007,null,8,profile,Authenticity,Current Title Present Scale,1,Very Low,,,LI-1007,,-2
+LinkedIn,1007,null,8,profile,Authenticity,Current Title Present Scale,2,Low,,,LI-1007,,-1
+LinkedIn,1007,null,8,profile,Authenticity,Current Title Present Scale,3,Medium,LI-1007,,,,0
+LinkedIn,1007,null,8,profile,Authenticity,Current Title Present Scale,4,High,LI-1007,,,,1
+LinkedIn,1007,null,8,profile,Authenticity,Current Title Present Scale,5,Very High,LI-1007,,,,2
+LinkedIn,1008,null,9,profile,Authenticity,HTTPS Website Present Scale,1,Very Low,,,LI-1008,,-2
+LinkedIn,1008,null,9,profile,Authenticity,HTTPS Website Present Scale,2,Low,,,LI-1008,,-1
+LinkedIn,1008,null,9,profile,Authenticity,HTTPS Website Present Scale,3,Medium,LI-1008,,,,0
+LinkedIn,1008,null,9,profile,Authenticity,HTTPS Website Present Scale,4,High,LI-1008,,,,1
+LinkedIn,1008,null,9,profile,Authenticity,HTTPS Website Present Scale,5,Very High,LI-1008,,,,2
+LinkedIn,1009,null,10,profile,Authenticity,Custom Vanity URL Scale,1,Very Low,,,LI-1009,,-2
+LinkedIn,1009,null,10,profile,Authenticity,Custom Vanity URL Scale,2,Low,,,LI-1009,,-1
+LinkedIn,1009,null,10,profile,Authenticity,Custom Vanity URL Scale,3,Medium,LI-1009,,,,0
+LinkedIn,1009,null,10,profile,Authenticity,Custom Vanity URL Scale,4,High,LI-1009,,,,1
+LinkedIn,1009,null,10,profile,Authenticity,Custom Vanity URL Scale,5,Very High,LI-1009,,,,2
+LinkedIn,1010,null,11,profile,Authenticity,Name vs Username Distinct Scale,1,Very Low,,,LI-1010,,-2
+LinkedIn,1010,null,11,profile,Authenticity,Name vs Username Distinct Scale,2,Low,,,LI-1010,,-1
+LinkedIn,1010,null,11,profile,Authenticity,Name vs Username Distinct Scale,3,Medium,LI-1010,,,,0
+LinkedIn,1010,null,11,profile,Authenticity,Name vs Username Distinct Scale,4,High,LI-1010,,,,1
+LinkedIn,1010,null,11,profile,Authenticity,Name vs Username Distinct Scale,5,Very High,LI-1010,,,,2
+LinkedIn,1011,null,12,profile,Authenticity,Background Photo Present Scale,1,Very Low,,,LI-1002,,-2
+LinkedIn,1011,null,12,profile,Authenticity,Background Photo Present Scale,2,Low,,,LI-1002,,-1
+LinkedIn,1011,null,12,profile,Authenticity,Background Photo Present Scale,3,Medium,LI-1002,,,,0
+LinkedIn,1011,null,12,profile,Authenticity,Background Photo Present Scale,4,High,LI-1002,,,,1
+LinkedIn,1011,null,12,profile,Authenticity,Background Photo Present Scale,5,Very High,LI-1002,,,,2
+LinkedIn,1012,null,13,profile,Authenticity,Public Profile URL Present Scale,1,Very Low,,,LI-1008,,-2
+LinkedIn,1012,null,13,profile,Authenticity,Public Profile URL Present Scale,2,Low,,,LI-1008,,-1
+LinkedIn,1012,null,13,profile,Authenticity,Public Profile URL Present Scale,3,Medium,LI-1008,,,,0
+LinkedIn,1012,null,13,profile,Authenticity,Public Profile URL Present Scale,4,High,LI-1008,,,,1
+LinkedIn,1012,null,13,profile,Authenticity,Public Profile URL Present Scale,5,Very High,LI-1008,,,,2
+LinkedIn,1013,null,14,profile,Authenticity,Company Name Present Scale,1,Very Low,,,LI-2017,,-2
+LinkedIn,1013,null,14,profile,Authenticity,Company Name Present Scale,2,Low,,,LI-2017,,-1
+LinkedIn,1013,null,14,profile,Authenticity,Company Name Present Scale,3,Medium,LI-2017,,,,0
+LinkedIn,1013,null,14,profile,Authenticity,Company Name Present Scale,4,High,LI-2017,,,,1
+LinkedIn,1013,null,14,profile,Authenticity,Company Name Present Scale,5,Very High,LI-2017,,,,2
+LinkedIn,1014,null,15,profile,Authenticity,Company Industry Present Scale,1,Very Low,,,LI-2018,,-2
+LinkedIn,1014,null,15,profile,Authenticity,Company Industry Present Scale,2,Low,,,LI-2018,,-1
+LinkedIn,1014,null,15,profile,Authenticity,Company Industry Present Scale,3,Medium,LI-2018,,,,0
+LinkedIn,1014,null,15,profile,Authenticity,Company Industry Present Scale,4,High,LI-2018,,,,1
+LinkedIn,1014,null,15,profile,Authenticity,Company Industry Present Scale,5,Very High,LI-2018,,,,2
+LinkedIn,1015,null,16,profile,Authenticity,Company Website Present Scale,1,Very Low,,,LI-2019,,-2
+LinkedIn,1015,null,16,profile,Authenticity,Company Website Present Scale,2,Low,,,LI-2019,,-1
+LinkedIn,1015,null,16,profile,Authenticity,Company Website Present Scale,3,Medium,LI-2019,,,,0
+LinkedIn,1015,null,16,profile,Authenticity,Company Website Present Scale,4,High,LI-2019,,,,1
+LinkedIn,1015,null,16,profile,Authenticity,Company Website Present Scale,5,Very High,LI-2019,,,,2
+LinkedIn,1016,null,17,profile,Authenticity,Company Website HTTPS OK Scale,1,Very Low,,,LI-2020,,-2
+LinkedIn,1016,null,17,profile,Authenticity,Company Website HTTPS OK Scale,2,Low,,,LI-2020,,-1
+LinkedIn,1016,null,17,profile,Authenticity,Company Website HTTPS OK Scale,3,Medium,LI-2020,,,,0
+LinkedIn,1016,null,17,profile,Authenticity,Company Website HTTPS OK Scale,4,High,LI-2020,,,,1
+LinkedIn,1016,null,17,profile,Authenticity,Company Website HTTPS OK Scale,5,Very High,LI-2020,,,,2
+LinkedIn,1100,null,20,profile,Authenticity,Headline Length Scale (chars),1,Very Low,LI-1101,,,,-2
+LinkedIn,1100,null,20,profile,Authenticity,Headline Length Scale (chars),2,Low,LI-1102,,,,-1
+LinkedIn,1100,null,20,profile,Authenticity,Headline Length Scale (chars),3,Medium,LI-1103,,,,0
+LinkedIn,1100,null,20,profile,Authenticity,Headline Length Scale (chars),4,High,LI-1104,,,,1
+LinkedIn,1100,null,20,profile,Authenticity,Headline Length Scale (chars),5,Very High,LI-1105,,,,2
+LinkedIn,1200,null,21,profile,Authenticity,About Length Scale (chars),1,Very Low,LI-1201,,,,-2
+LinkedIn,1200,null,21,profile,Authenticity,About Length Scale (chars),2,Low,LI-1202,,,,-1
+LinkedIn,1200,null,21,profile,Authenticity,About Length Scale (chars),3,Medium,LI-1203,,,,0
+LinkedIn,1200,null,21,profile,Authenticity,About Length Scale (chars),4,High,LI-1204,,,,1
+LinkedIn,1200,null,21,profile,Authenticity,About Length Scale (chars),5,Very High,LI-1205,,,,2
+LinkedIn,1300,null,22,profile,Authenticity,Current Role Tenure Scale (months),1,Very Low,LI-1301,,,,-2
+LinkedIn,1300,null,22,profile,Authenticity,Current Role Tenure Scale (months),2,Low,LI-1302,,,,-1
+LinkedIn,1300,null,22,profile,Authenticity,Current Role Tenure Scale (months),3,Medium,LI-1303,,,,0
+LinkedIn,1300,null,22,profile,Authenticity,Current Role Tenure Scale (months),4,High,LI-1304,,,,1
+LinkedIn,1300,null,22,profile,Authenticity,Current Role Tenure Scale (months),5,Very High,LI-1305,,,,2
+LinkedIn,2000,null,30,profile,Capability,Experience Count Scale,1,Very Low,LI-2001,,,,-2
+LinkedIn,2000,null,30,profile,Capability,Experience Count Scale,2,Low,LI-2002,,,,-1
+LinkedIn,2000,null,30,profile,Capability,Experience Count Scale,3,Medium,LI-2003,,,,0
+LinkedIn,2000,null,30,profile,Capability,Experience Count Scale,4,High,LI-2004,,,,1
+LinkedIn,2000,null,30,profile,Capability,Experience Count Scale,5,Very High,LI-2005,,,,2
+LinkedIn,2100,null,31,profile,Capability,Education Count Scale,1,Very Low,LI-2101,,,,-2
+LinkedIn,2100,null,31,profile,Capability,Education Count Scale,2,Low,LI-2102,,,,-1
+LinkedIn,2100,null,31,profile,Capability,Education Count Scale,3,Medium,LI-2103,,,,0
+LinkedIn,2100,null,31,profile,Capability,Education Count Scale,4,High,LI-2104,,,,1
+LinkedIn,2100,null,31,profile,Capability,Education Count Scale,5,Very High,LI-2105,,,,2
+LinkedIn,2200,null,32,profile,Capability,Languages Count Scale,1,Very Low,LI-2201,,,,-2
+LinkedIn,2200,null,32,profile,Capability,Languages Count Scale,2,Low,LI-2202,,,,-1
+LinkedIn,2200,null,32,profile,Capability,Languages Count Scale,3,Medium,LI-2203,,,,0
+LinkedIn,2200,null,32,profile,Capability,Languages Count Scale,4,High,LI-2204,,,,1
+LinkedIn,2200,null,32,profile,Capability,Languages Count Scale,5,Very High,LI-2205,,,,2
+LinkedIn,2300,null,33,profile,Capability,Followers Count Scale,1,Very Low,LI-2301,,,,-2
+LinkedIn,2300,null,33,profile,Capability,Followers Count Scale,2,Low,LI-2302,,,,-1
+LinkedIn,2300,null,33,profile,Capability,Followers Count Scale,3,Medium,LI-2303,,,,0
+LinkedIn,2300,null,33,profile,Capability,Followers Count Scale,4,High,LI-2304,,,,1
+LinkedIn,2300,null,33,profile,Capability,Followers Count Scale,5,Very High,LI-2305,,,,2
+LinkedIn,2400,null,34,profile,Authenticity,Websites Listed Scale,1,Very Low,LI-2401,,,,-2
+LinkedIn,2400,null,34,profile,Authenticity,Websites Listed Scale,2,Low,LI-2402,,,,-1
+LinkedIn,2400,null,34,profile,Authenticity,Websites Listed Scale,3,Medium,LI-2403,,,,0
+LinkedIn,2400,null,34,profile,Authenticity,Websites Listed Scale,4,High,LI-2404,,,,1
+LinkedIn,2400,null,34,profile,Authenticity,Websites Listed Scale,5,Very High,LI-2405,,,,2
+LinkedIn,2500,null,35,profile,Capability,Skills Count Scale,1,Very Low,LI-2004-01,,,,-2
+LinkedIn,2500,null,35,profile,Capability,Skills Count Scale,2,Low,LI-2004-02,,,,-1
+LinkedIn,2500,null,35,profile,Capability,Skills Count Scale,3,Medium,LI-2004-03,,,,0
+LinkedIn,2500,null,35,profile,Capability,Skills Count Scale,4,High,LI-2004-04,,,,1
+LinkedIn,2500,null,35,profile,Capability,Skills Count Scale,5,Very High,LI-2004-05,,,,2
+LinkedIn,2600,null,36,profile,Capability,Honors & Awards Scale,1,Very Low,LI-2006-02,,,,-2
+LinkedIn,2600,null,36,profile,Capability,Honors & Awards Scale,2,Low,LI-2006-03,,,,-1
+LinkedIn,2600,null,36,profile,Capability,Honors & Awards Scale,3,Medium,LI-2006-04,,,,0
+LinkedIn,2600,null,36,profile,Capability,Honors & Awards Scale,4,High,LI-2006-05,,,,1
+LinkedIn,2600,null,36,profile,Capability,Honors & Awards Scale,5,Very High,LI-2006-01,,,,2
+LinkedIn,2700,null,37,profile,Capability,Recommendations Received Scale,1,Very Low,LI-2009-01,,,,-2
+LinkedIn,2700,null,37,profile,Capability,Recommendations Received Scale,2,Low,LI-2009-02,,,,-1
+LinkedIn,2700,null,37,profile,Capability,Recommendations Received Scale,3,Medium,LI-2009-03,,,,0
+LinkedIn,2700,null,37,profile,Capability,Recommendations Received Scale,4,High,LI-2009-04,,,,1
+LinkedIn,2700,null,37,profile,Capability,Recommendations Received Scale,5,Very High,LI-2009-05,,,,2
+LinkedIn,2800,null,38,profile,Capability,Recommendations Given Scale,1,Very Low,LI-2010-01,,,,-2
+LinkedIn,2800,null,38,profile,Capability,Recommendations Given Scale,2,Low,LI-2010-02,,,,-1
+LinkedIn,2800,null,38,profile,Capability,Recommendations Given Scale,3,Medium,LI-2010-03,,,,0
+LinkedIn,2800,null,38,profile,Capability,Recommendations Given Scale,4,High,LI-2010-04,,,,1
+LinkedIn,2800,null,38,profile,Capability,Recommendations Given Scale,5,Very High,LI-2010-05,,,,2
+LinkedIn,2900,null,39,profile,Capability,Top Skill Endorsements Scale,1,Very Low,LI-2011-01,,,,-2
+LinkedIn,2900,null,39,profile,Capability,Top Skill Endorsements Scale,2,Low,LI-2011-02,,,,-1
+LinkedIn,2900,null,39,profile,Capability,Top Skill Endorsements Scale,3,Medium,LI-2011-03,,,,0
+LinkedIn,2900,null,39,profile,Capability,Top Skill Endorsements Scale,4,High,LI-2011-04,,,,1
+LinkedIn,2900,null,39,profile,Capability,Top Skill Endorsements Scale,5,Very High,LI-2011-05,,,,2
+LinkedIn,3000,null,40,profile,Capability,Featured Items Scale,1,Very Low,LI-2016-01,,,,-2
+LinkedIn,3000,null,40,profile,Capability,Featured Items Scale,2,Low,LI-2016-02,,,,-1
+LinkedIn,3000,null,40,profile,Capability,Featured Items Scale,3,Medium,LI-2016-03,,,,0
+LinkedIn,3000,null,40,profile,Capability,Featured Items Scale,4,High,LI-2016-04,,,,1
+LinkedIn,3000,null,40,profile,Capability,Featured Items Scale,5,Very High,LI-2016-05,,,,2
+LinkedIn,3100,null,41,profile,Capability,Total Experience Years Scale,1,Very Low,LI-3001-01,,,,-2
+LinkedIn,3100,null,41,profile,Capability,Total Experience Years Scale,2,Low,LI-3001-02,,,,-1
+LinkedIn,3100,null,41,profile,Capability,Total Experience Years Scale,3,Medium,LI-3001-03,,,,0
+LinkedIn,3100,null,41,profile,Capability,Total Experience Years Scale,4,High,LI-3001-04,,,,1
+LinkedIn,3100,null,41,profile,Capability,Total Experience Years Scale,5,Very High,LI-3001-05,,,,2
+LinkedIn,3200,null,42,profile,Risk,Job Changes (2y) Scale,1,Very Low,LI-3002-05,,,,-2
+LinkedIn,3200,null,42,profile,Risk,Job Changes (2y) Scale,2,Low,LI-3002-04,,,,-1
+LinkedIn,3200,null,42,profile,Risk,Job Changes (2y) Scale,3,Medium,LI-3002-03,,,,0
+LinkedIn,3200,null,42,profile,Risk,Job Changes (2y) Scale,4,High,LI-3002-02,,,,1
+LinkedIn,3200,null,42,profile,Risk,Job Changes (2y) Scale,5,Very High,LI-3002-01,,,,2
+LinkedIn,3300,null,43,profile,Risk,Experience Gap Max Months Scale,1,Very Low,LI-3003-05,,,,-2
+LinkedIn,3300,null,43,profile,Risk,Experience Gap Max Months Scale,2,Low,LI-3003-04,,,,-1
+LinkedIn,3300,null,43,profile,Risk,Experience Gap Max Months Scale,3,Medium,LI-3003-03,,,,0
+LinkedIn,3300,null,43,profile,Risk,Experience Gap Max Months Scale,4,High,LI-3003-02,,,,1
+LinkedIn,3300,null,43,profile,Risk,Experience Gap Max Months Scale,5,Very High,LI-3003-01,,,,2
+LinkedIn,3400,null,44,profile,Capability,Creator Mode Scale,1,Very Low,,,LI-2012,,-2
+LinkedIn,3400,null,44,profile,Capability,Creator Mode Scale,2,Low,,,LI-2012,,-1
+LinkedIn,3400,null,44,profile,Capability,Creator Mode Scale,3,Medium,LI-2012,,,,0
+LinkedIn,3400,null,44,profile,Capability,Creator Mode Scale,4,High,LI-2012,,,,1
+LinkedIn,3400,null,44,profile,Capability,Creator Mode Scale,5,Very High,LI-2012,,,,2
+LinkedIn,3401,null,45,profile,Capability,Open To Work Scale,1,Very Low,,,LI-2013,,-2
+LinkedIn,3401,null,45,profile,Capability,Open To Work Scale,2,Low,,,LI-2013,,-1
+LinkedIn,3401,null,45,profile,Capability,Open To Work Scale,3,Medium,LI-2013,,,,0
+LinkedIn,3401,null,45,profile,Capability,Open To Work Scale,4,High,LI-2013,,,,1
+LinkedIn,3401,null,45,profile,Capability,Open To Work Scale,5,Very High,LI-2013,,,,2
+LinkedIn,3402,null,46,profile,Capability,Provides Services Scale,1,Very Low,,,LI-2014,,-2
+LinkedIn,3402,null,46,profile,Capability,Provides Services Scale,2,Low,,,LI-2014,,-1
+LinkedIn,3402,null,46,profile,Capability,Provides Services Scale,3,Medium,LI-2014,,,,0
+LinkedIn,3402,null,46,profile,Capability,Provides Services Scale,4,High,LI-2014,,,,1
+LinkedIn,3402,null,46,profile,Capability,Provides Services Scale,5,Very High,LI-2014,,,,2
+LinkedIn,3403,null,47,profile,Capability,Premium Badge Scale,1,Very Low,,,LI-2015,,-2
+LinkedIn,3403,null,47,profile,Capability,Premium Badge Scale,2,Low,,,LI-2015,,-1
+LinkedIn,3403,null,47,profile,Capability,Premium Badge Scale,3,Medium,LI-2015,,,,0
+LinkedIn,3403,null,47,profile,Capability,Premium Badge Scale,4,High,LI-2015,,,,1
+LinkedIn,3403,null,47,profile,Capability,Premium Badge Scale,5,Very High,LI-2015,,,,2
+LinkedIn,4001,null,60,profile,Authenticity,Complete & Active Profile,1,Basic,"LI-1000,LI-1001,LI-1003,LI-1004",,,,-2
+LinkedIn,4001,null,60,profile,Authenticity,Complete & Active Profile,2,Good,"LI-1000,LI-1001,LI-1002,LI-1003,LI-1004",,,,-1
+LinkedIn,4001,null,60,profile,Authenticity,Complete & Active Profile,3,Strong,"LI-1000,LI-1001,LI-1002,LI-1003,LI-1004,LI-1102,LI-1202",,,,0
+LinkedIn,4001,null,60,profile,Authenticity,Complete & Active Profile,4,Very Strong,"LI-1000,LI-1001,LI-1002,LI-1003,LI-1004,LI-1103,LI-1203","LI-2302,LI-2303",,,1
+LinkedIn,4001,null,60,profile,Authenticity,Complete & Active Profile,5,Excellent,"LI-1000,LI-1001,LI-1002,LI-1003,LI-1004,LI-1104,LI-1204","LI-2304,LI-2305",,,2
+LinkedIn,4002,null,61,profile,Authenticity,Trusted Company Presence,1,Basic,LI-2017,,,,-2
+LinkedIn,4002,null,61,profile,Authenticity,Trusted Company Presence,2,Good,"LI-2017,LI-2018",,,,-1
+LinkedIn,4002,null,61,profile,Authenticity,Trusted Company Presence,3,Strong,"LI-2017,LI-2018,LI-2019",,,,0
+LinkedIn,4002,null,61,profile,Authenticity,Trusted Company Presence,4,Very Strong,"LI-2017,LI-2018,LI-2019,LI-2020",,,,1
+LinkedIn,4002,null,61,profile,Authenticity,Trusted Company Presence,5,Excellent,"LI-2017,LI-2018,LI-2019,LI-2020","LI-1008,LI-1009",,,2
+LinkedIn,4003,null,62,profile,Capability,Community Signal,1,Emerging,LI-2302,"LI-2009-02,LI-2016-02",,,-2
+LinkedIn,4003,null,62,profile,Capability,Community Signal,2,Growing,LI-2303,"LI-2009-03,LI-2016-03",,,-1
+LinkedIn,4003,null,62,profile,Capability,Community Signal,3,Strong,LI-2304,"LI-2009-04,LI-2016-04",,,0
+LinkedIn,4003,null,62,profile,Capability,Community Signal,4,Very Strong,LI-2304,"LI-2009-05,LI-2016-05",,,1
+LinkedIn,4003,null,62,profile,Capability,Community Signal,5,Elite,LI-2305,"LI-2009-05,LI-2016-05,LI-2011-05",,,2
+LinkedIn,4004,null,63,profile,Risk,Stable Career,1,Basic,"LI-3001-02,LI-3002-03,LI-3003-03",,,,-2
+LinkedIn,4004,null,63,profile,Risk,Stable Career,2,Good,"LI-3001-03,LI-3002-02,LI-3003-03",,,,-1
+LinkedIn,4004,null,63,profile,Risk,Stable Career,3,Strong,"LI-3001-04,LI-3002-02,LI-3003-02",,,,0
+LinkedIn,4004,null,63,profile,Risk,Stable Career,4,Very Strong,"LI-3001-04,LI-3002-01,LI-3003-02",,,,1
+LinkedIn,4004,null,63,profile,Risk,Stable Career,5,Excellent,"LI-3001-05,LI-3002-01,LI-3003-01",,,,2
+LinkedIn,4005,null,64,profile,Capability,Builder Signals,1,Emerging,"LI-2004-02,LI-2011-02","LI-2014,LI-2012",,,-2
+LinkedIn,4005,null,64,profile,Capability,Builder Signals,2,Growing,"LI-2004-03,LI-2011-03","LI-2014,LI-2012",,,-1
+LinkedIn,4005,null,64,profile,Capability,Builder Signals,3,Strong,"LI-2004-04,LI-2011-04","LI-2014,LI-2012",,,0
+LinkedIn,4005,null,64,profile,Capability,Builder Signals,4,Very Strong,"LI-2004-05,LI-2011-04","LI-2014,LI-2012",,,1
+LinkedIn,4005,null,64,profile,Capability,Builder Signals,5,Elite,"LI-2004-05,LI-2011-05","LI-2014,LI-2012",,,2
+LinkedIn,6001,null,60,profile,Adversarial,Sparse Profile,1,Very Low,"LI-1101,LI-1201,LI-2001",,,,-2
+LinkedIn,6001,null,60,profile,Adversarial,Sparse Profile,2,Low,"LI-1102,LI-1202,LI-2002",,,,-1
+LinkedIn,6001,null,60,profile,Adversarial,Sparse Profile,3,Medium,"LI-1103,LI-1203,LI-2003",,,,0
+LinkedIn,6001,null,60,profile,Adversarial,Sparse Profile,4,High,"LI-1104,LI-1204,LI-2004",,,,1
+LinkedIn,6001,null,60,profile,Adversarial,Sparse Profile,5,Very High,"LI-1105,LI-1205,LI-2005",,,,2
+LinkedIn,6002,null,61,profile,Adversarial,Low Network Credibility,1,Very Low,"LI-2301,LI-2011-01",,,,-2
+LinkedIn,6002,null,61,profile,Adversarial,Low Network Credibility,2,Low,"LI-2302,LI-2011-02",,,,-1
+LinkedIn,6002,null,61,profile,Adversarial,Low Network Credibility,3,Medium,"LI-2303,LI-2011-03",,,,0
+LinkedIn,6002,null,61,profile,Adversarial,Low Network Credibility,4,High,"LI-2304,LI-2011-04",,,,1
+LinkedIn,6002,null,61,profile,Adversarial,Low Network Credibility,5,Very High,"LI-2305,LI-2011-05",,,,2
+LinkedIn,6003,null,62,profile,Adversarial,Career Stability Risk,1,Very Low,"LI-3002-05,LI-3003-05",,,,-2
+LinkedIn,6003,null,62,profile,Adversarial,Career Stability Risk,2,Low,"LI-3002-04,LI-3003-04",,,,-1
+LinkedIn,6003,null,62,profile,Adversarial,Career Stability Risk,3,Medium,"LI-3002-03,LI-3003-03",,,,0
+LinkedIn,6003,null,62,profile,Adversarial,Career Stability Risk,4,High,"LI-3002-02,LI-3003-02",,,,1
+LinkedIn,6003,null,62,profile,Adversarial,Career Stability Risk,5,Very High,"LI-3002-01,LI-3003-01",,,,2
+LinkedIn,6004,null,63,profile,Adversarial,Low Portfolio Evidence,1,Very Low,"LI-2016-01,LI-2009-01",,,,-2
+LinkedIn,6004,null,63,profile,Adversarial,Low Portfolio Evidence,2,Low,"LI-2016-02,LI-2009-02",,,,-1
+LinkedIn,6004,null,63,profile,Adversarial,Low Portfolio Evidence,3,Medium,"LI-2016-03,LI-2009-03",,,,0
+LinkedIn,6004,null,63,profile,Adversarial,Low Portfolio Evidence,4,High,"LI-2016-04,LI-2009-04",,,,1
+LinkedIn,6004,null,63,profile,Adversarial,Low Portfolio Evidence,5,Very High,"LI-2016-05,LI-2009-05",,,,2
+LinkedIn,6005,null,64,profile,Adversarial,Professional Signals Completeness,1,Very Low,"LI-2401,LI-2201",,,,-2
+LinkedIn,6005,null,64,profile,Adversarial,Professional Signals Completeness,2,Low,"LI-2402,LI-2202",,,,-1
+LinkedIn,6005,null,64,profile,Adversarial,Professional Signals Completeness,3,Medium,"LI-2403,LI-2203",,,,0
+LinkedIn,6005,null,64,profile,Adversarial,Professional Signals Completeness,4,High,"LI-2404,LI-2204",,,,1
+LinkedIn,6005,null,64,profile,Adversarial,Professional Signals Completeness,5,Very High,"LI-2405,LI-2205",,,,2
+LinkedIn,6006,null,65,profile,Adversarial,Blank Profile,1,Very Low,"LI-1004-F,LI-1008-F",,,,-2
+LinkedIn,6006,null,65,profile,Adversarial,Blank Profile,2,Low,"LI-1001-F,LI-1004-F",,,,-1
+LinkedIn,6006,null,65,profile,Adversarial,Blank Profile,3,Medium,"LI-1001-F,LI-1004-F,LI-1006-F",,,,0
+LinkedIn,6006,null,65,profile,Adversarial,Blank Profile,4,High,"LI-1001-F,LI-1004-F,LI-1006-F,LI-2017-F",,,,1
+LinkedIn,6006,null,65,profile,Adversarial,Blank Profile,5,Very High,"LI-1001-F,LI-1004-F,LI-1006-F,LI-2017-F,LI-2018-F",,,,2
+LinkedIn,6007,null,66,profile,Adversarial,Incomplete Professional Identity,1,Very Low,"LI-2017-F,LI-2018-F",,,,-2
+LinkedIn,6007,null,66,profile,Adversarial,Incomplete Professional Identity,2,Low,"LI-2017-F,LI-1006-F",,,,-1
+LinkedIn,6007,null,66,profile,Adversarial,Incomplete Professional Identity,3,Medium,"LI-2017-F,LI-2018-F,LI-1006-F",,,,0
+LinkedIn,6007,null,66,profile,Adversarial,Incomplete Professional Identity,4,High,"LI-2017-F,LI-2018-F,LI-2019-F",,,,1
+LinkedIn,6007,null,66,profile,Adversarial,Incomplete Professional Identity,5,Very High,"LI-2017-F,LI-2018-F,LI-2019-F,LI-2020-F",,,,2
+LinkedIn,6008,null,67,profile,Adversarial,Community Engagement Gap,1,Very Low,"LI-2010-01,LI-2301",,,,-2
+LinkedIn,6008,null,67,profile,Adversarial,Community Engagement Gap,2,Low,"LI-2010-02,LI-2302",,,,-1
+LinkedIn,6008,null,67,profile,Adversarial,Community Engagement Gap,3,Medium,"LI-2010-03,LI-2303",,,,0
+LinkedIn,6008,null,67,profile,Adversarial,Community Engagement Gap,4,High,"LI-2010-04,LI-2304",,,,1
+LinkedIn,6008,null,67,profile,Adversarial,Community Engagement Gap,5,Very High,"LI-2010-05,LI-2305",,,,2
+LinkedIn,6009,null,68,profile,Adversarial,Education & Skills Thinness,1,Very Low,"LI-2101,LI-2004-01",,,,-2
+LinkedIn,6009,null,68,profile,Adversarial,Education & Skills Thinness,2,Low,"LI-2102,LI-2004-02",,,,-1
+LinkedIn,6009,null,68,profile,Adversarial,Education & Skills Thinness,3,Medium,"LI-2103,LI-2004-03",,,,0
+LinkedIn,6009,null,68,profile,Adversarial,Education & Skills Thinness,4,High,"LI-2104,LI-2004-04",,,,1
+LinkedIn,6009,null,68,profile,Adversarial,Education & Skills Thinness,5,Very High,"LI-2105,LI-2004-05",,,,2
+LinkedIn,6010,null,69,profile,Adversarial,Headline Substance Risk,1,Very Low,"LI-1101,LI-2001",,,,-2
+LinkedIn,6010,null,69,profile,Adversarial,Headline Substance Risk,2,Low,"LI-1102,LI-2002",,,,-1
+LinkedIn,6010,null,69,profile,Adversarial,Headline Substance Risk,3,Medium,"LI-1103,LI-2003",,,,0
+LinkedIn,6010,null,69,profile,Adversarial,Headline Substance Risk,4,High,"LI-1104,LI-2004",,,,1
+LinkedIn,6010,null,69,profile,Adversarial,Headline Substance Risk,5,Very High,"LI-1105,LI-2005",,,,2
+LinkedIn,6011,null,70,profile,Adversarial,Web Presence Risk,1,Very Low,"LI-2401,LI-1008-F",,,,-2
+LinkedIn,6011,null,70,profile,Adversarial,Web Presence Risk,2,Low,"LI-2402,LI-2020-F",,,,-1
+LinkedIn,6011,null,70,profile,Adversarial,Web Presence Risk,3,Medium,"LI-2403,LI-2020-F",,,,0
+LinkedIn,6011,null,70,profile,Adversarial,Web Presence Risk,4,High,"LI-2404,LI-2020-F",,,,1
+LinkedIn,6011,null,70,profile,Adversarial,Web Presence Risk,5,Very High,"LI-2405,LI-2020-F",,,,2

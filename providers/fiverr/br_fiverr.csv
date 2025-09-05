@@ -1,0 +1,136 @@
+source,id,parentId,priority,match_type,category,businessRuleLabel,likert_value,likert_label,ALL_OF,ANY_OF,NONE_OF,threshold_attr,weight
+Fiverr,4001,null,1,profile,Professional,Languages Count Scale,1,Very Low,FV-2010a,,,,-2
+Fiverr,4001,null,1,profile,Professional,Languages Count Scale,2,Low,FV-2010b,,,,-1
+Fiverr,4001,null,1,profile,Professional,Languages Count Scale,3,Medium,FV-2010c,,,,0
+Fiverr,4001,null,1,profile,Professional,Languages Count Scale,4,High,FV-2010d,,,,1
+Fiverr,4001,null,1,profile,Professional,Languages Count Scale,5,Very High,FV-2010e,,,,2
+Fiverr,4002,null,2,profile,Professional,Skills Count Scale,1,Very Low,FV-2011a,,,,-2
+Fiverr,4002,null,2,profile,Professional,Skills Count Scale,2,Low,FV-2011b,,,,-1
+Fiverr,4002,null,2,profile,Professional,Skills Count Scale,3,Medium,FV-2011c,,,,0
+Fiverr,4002,null,2,profile,Professional,Skills Count Scale,4,High,FV-2011d,,,,1
+Fiverr,4002,null,2,profile,Professional,Skills Count Scale,5,Very High,FV-2011e,,,,2
+Fiverr,4003,null,3,profile,Professional,Certifications Count Scale,1,Very Low,FV-2012a,,,,-2
+Fiverr,4003,null,3,profile,Professional,Certifications Count Scale,2,Low,FV-2012b,,,,-1
+Fiverr,4003,null,3,profile,Professional,Certifications Count Scale,3,Medium,FV-2012c,,,,0
+Fiverr,4003,null,3,profile,Professional,Certifications Count Scale,4,High,FV-2012d,,,,1
+Fiverr,4003,null,3,profile,Professional,Certifications Count Scale,5,Very High,FV-2012e,,,,2
+Fiverr,4004,null,4,profile,Professional,Educations Count Scale,1,Very Low,FV-2013a,,,,-2
+Fiverr,4004,null,4,profile,Professional,Educations Count Scale,2,Low,FV-2013b,,,,-1
+Fiverr,4004,null,4,profile,Professional,Educations Count Scale,3,Medium,FV-2013c,,,,0
+Fiverr,4004,null,4,profile,Professional,Educations Count Scale,4,High,FV-2013d,,,,1
+Fiverr,4004,null,4,profile,Professional,Educations Count Scale,5,Very High,FV-2013e,,,,2
+Fiverr,4005,null,5,profile,Commerce,Hourly Rate Scale,1,Very Low,FV-2020a,,,,-2
+Fiverr,4005,null,5,profile,Commerce,Hourly Rate Scale,2,Low,FV-2020b,,,,-1
+Fiverr,4005,null,5,profile,Commerce,Hourly Rate Scale,3,Medium,FV-2020c,,,,0
+Fiverr,4005,null,5,profile,Commerce,Hourly Rate Scale,4,High,FV-2020d,,,,1
+Fiverr,4005,null,5,profile,Commerce,Hourly Rate Scale,5,Very High,FV-2020e,,,,2
+Fiverr,4006,null,6,profile,Supply,Approved Gigs Scale,1,Very Low,FV-2030a,,,,-2
+Fiverr,4006,null,6,profile,Supply,Approved Gigs Scale,2,Low,FV-2030b,,,,-1
+Fiverr,4006,null,6,profile,Supply,Approved Gigs Scale,3,Medium,FV-2030c,,,,0
+Fiverr,4006,null,6,profile,Supply,Approved Gigs Scale,4,High,FV-2030d,,,,1
+Fiverr,4006,null,6,profile,Supply,Approved Gigs Scale,5,Very High,FV-2030e,,,,2
+Fiverr,4007,null,7,profile,Portfolio,Portfolio Projects Scale,1,Very Low,FV-2040a,,,,-2
+Fiverr,4007,null,7,profile,Portfolio,Portfolio Projects Scale,2,Low,FV-2040b,,,,-1
+Fiverr,4007,null,7,profile,Portfolio,Portfolio Projects Scale,3,Medium,FV-2040c,,,,0
+Fiverr,4007,null,7,profile,Portfolio,Portfolio Projects Scale,4,High,FV-2040d,,,,1
+Fiverr,4007,null,7,profile,Portfolio,Portfolio Projects Scale,5,Very High,FV-2040e,,,,2
+Fiverr,4008,null,8,profile,Reputation,Rating Score Scale,1,Very Low,FV-2050a,,,,-2
+Fiverr,4008,null,8,profile,Reputation,Rating Score Scale,2,Low,FV-2050b,,,,-1
+Fiverr,4008,null,8,profile,Reputation,Rating Score Scale,3,Medium,FV-2050c,,,,0
+Fiverr,4008,null,8,profile,Reputation,Rating Score Scale,4,High,FV-2050d,,,,1
+Fiverr,4008,null,8,profile,Reputation,Rating Score Scale,5,Very High,FV-2050e,,,,2
+Fiverr,4009,null,9,profile,Reputation,Rating Count Scale,1,Very Low,FV-2051a,,,,-2
+Fiverr,4009,null,9,profile,Reputation,Rating Count Scale,2,Low,FV-2051b,,,,-1
+Fiverr,4009,null,9,profile,Reputation,Rating Count Scale,3,Medium,FV-2051c,,,,0
+Fiverr,4009,null,9,profile,Reputation,Rating Count Scale,4,High,FV-2051d,,,,1
+Fiverr,4009,null,9,profile,Reputation,Rating Count Scale,5,Very High,FV-2051e,,,,2
+Fiverr,4010,null,10,profile,Responsiveness,Response Time Scale,1,Very Low,FV-2052e,,,,-2
+Fiverr,4010,null,10,profile,Responsiveness,Response Time Scale,2,Low,FV-2052d,,,,-1
+Fiverr,4010,null,10,profile,Responsiveness,Response Time Scale,3,Medium,FV-2052c,,,,0
+Fiverr,4010,null,10,profile,Responsiveness,Response Time Scale,4,High,FV-2052b,,,,1
+Fiverr,4010,null,10,profile,Responsiveness,Response Time Scale,5,Very High,FV-2052a,,,,2
+Fiverr,4011,null,11,profile,Reputation,Buyer Reviews Total Scale,1,Very Low,FV-2070a,,,,-2
+Fiverr,4011,null,11,profile,Reputation,Buyer Reviews Total Scale,2,Low,FV-2070b,,,,-1
+Fiverr,4011,null,11,profile,Reputation,Buyer Reviews Total Scale,3,Medium,FV-2070c,,,,0
+Fiverr,4011,null,11,profile,Reputation,Buyer Reviews Total Scale,4,High,FV-2070d,,,,1
+Fiverr,4011,null,11,profile,Reputation,Buyer Reviews Total Scale,5,Very High,FV-2070e,,,,2
+Fiverr,4012,null,12,profile,Reputation,Buyer Average Rating Scale,1,Very Low,FV-2071a,,,,-2
+Fiverr,4012,null,12,profile,Reputation,Buyer Average Rating Scale,2,Low,FV-2071b,,,,-1
+Fiverr,4012,null,12,profile,Reputation,Buyer Average Rating Scale,3,Medium,FV-2071c,,,,0
+Fiverr,4012,null,12,profile,Reputation,Buyer Average Rating Scale,4,High,FV-2071d,,,,1
+Fiverr,4012,null,12,profile,Reputation,Buyer Average Rating Scale,5,Very High,FV-2071e,,,,2
+Fiverr,4100,null,20,profile,Authenticity,Profile Activated Scale,1,Very Low,,,FV-2001,,-2
+Fiverr,4100,null,20,profile,Authenticity,Profile Activated Scale,2,Low,,,FV-2001,,-1
+Fiverr,4100,null,20,profile,Authenticity,Profile Activated Scale,3,Medium,FV-2001,,,,0
+Fiverr,4100,null,20,profile,Authenticity,Profile Activated Scale,4,High,FV-2001,,,,1
+Fiverr,4100,null,20,profile,Authenticity,Profile Activated Scale,5,Very High,FV-2001,,,,2
+Fiverr,4101,null,21,profile,Authenticity,Profile Image Present Scale,1,Very Low,,,FV-2002,,-2
+Fiverr,4101,null,21,profile,Authenticity,Profile Image Present Scale,2,Low,,,FV-2002,,-1
+Fiverr,4101,null,21,profile,Authenticity,Profile Image Present Scale,3,Medium,FV-2002,,,,0
+Fiverr,4101,null,21,profile,Authenticity,Profile Image Present Scale,4,High,FV-2002,,,,1
+Fiverr,4101,null,21,profile,Authenticity,Profile Image Present Scale,5,Very High,FV-2002,,,,2
+Fiverr,4102,null,22,profile,Authenticity,Verified Seller Scale,1,Very Low,,,FV-2003,,-2
+Fiverr,4102,null,22,profile,Authenticity,Verified Seller Scale,2,Low,,,FV-2003,,-1
+Fiverr,4102,null,22,profile,Authenticity,Verified Seller Scale,3,Medium,FV-2003,,,,0
+Fiverr,4102,null,22,profile,Authenticity,Verified Seller Scale,4,High,FV-2003,,,,1
+Fiverr,4102,null,22,profile,Authenticity,Verified Seller Scale,5,Very High,FV-2003,,,,2
+Fiverr,4103,null,23,profile,Authenticity,Notable Clients Present Scale,1,Very Low,,,FV-2004,,-2
+Fiverr,4103,null,23,profile,Authenticity,Notable Clients Present Scale,2,Low,,,FV-2004,,-1
+Fiverr,4103,null,23,profile,Authenticity,Notable Clients Present Scale,3,Medium,FV-2004,,,,0
+Fiverr,4103,null,23,profile,Authenticity,Notable Clients Present Scale,4,High,FV-2004,,,,1
+Fiverr,4103,null,23,profile,Authenticity,Notable Clients Present Scale,5,Very High,FV-2004,,,,2
+Fiverr,4104,null,24,profile,Authenticity,Intro Video Present Scale,1,Very Low,,,FV-2005,,-2
+Fiverr,4104,null,24,profile,Authenticity,Intro Video Present Scale,2,Low,,,FV-2005,,-1
+Fiverr,4104,null,24,profile,Authenticity,Intro Video Present Scale,3,Medium,FV-2005,,,,0
+Fiverr,4104,null,24,profile,Authenticity,Intro Video Present Scale,4,High,FV-2005,,,,1
+Fiverr,4104,null,24,profile,Authenticity,Intro Video Present Scale,5,Very High,FV-2005,,,,2
+Fiverr,4105,null,25,profile,Status,Seller Active Scale,1,Very Low,,,FV-2060,,-2
+Fiverr,4105,null,25,profile,Status,Seller Active Scale,2,Low,,,FV-2060,,-1
+Fiverr,4105,null,25,profile,Status,Seller Active Scale,3,Medium,FV-2060,,,,0
+Fiverr,4105,null,25,profile,Status,Seller Active Scale,4,High,FV-2060,,,,1
+Fiverr,4105,null,25,profile,Status,Seller Active Scale,5,Very High,FV-2060,,,,2
+Fiverr,4106,null,26,profile,Status,Vacation Mode Scale,1,Very Low,FV-2061,,,,-2
+Fiverr,4106,null,26,profile,Status,Vacation Mode Scale,2,Low,FV-2061,,,,-1
+Fiverr,4106,null,26,profile,Status,Vacation Mode Scale,3,Medium,FV-2061,,,,0
+Fiverr,4106,null,26,profile,Status,Vacation Mode Scale,4,High,,,FV-2061,,1
+Fiverr,4106,null,26,profile,Status,Vacation Mode Scale,5,Very High,,,FV-2061,,2
+Fiverr,5001,null,50,profile,Reputation,Trusted Seller,1,Basic,"FV-2001,FV-2002",,,,-2
+Fiverr,5001,null,50,profile,Reputation,Trusted Seller,2,Verified,"FV-2001,FV-2002,FV-2003",,,,-1
+Fiverr,5001,null,50,profile,Reputation,Trusted Seller,3,Established,"FV-2001,FV-2002,FV-2003,FV-2050b",,,,0
+Fiverr,5001,null,50,profile,Reputation,Trusted Seller,4,Strong,"FV-2001,FV-2002,FV-2003,FV-2050c",,,,1
+Fiverr,5001,null,50,profile,Reputation,Trusted Seller,5,Top-tier,"FV-2001,FV-2002,FV-2003,FV-2050e",,,,2
+Fiverr,5002,null,51,profile,Professional,Diversified Professional,1,Entry,"FV-2010b,FV-2011b",,,,-2
+Fiverr,5002,null,51,profile,Professional,Diversified Professional,2,Basic,"FV-2010c,FV-2011c",,,,-1
+Fiverr,5002,null,51,profile,Professional,Diversified Professional,3,Developing,"FV-2010d,FV-2011d",,,,0
+Fiverr,5002,null,51,profile,Professional,Diversified Professional,4,Advanced,"FV-2010e,FV-2011e,FV-2012c",,,,1
+Fiverr,5002,null,51,profile,Professional,Diversified Professional,5,Expert,"FV-2010e,FV-2011e,FV-2012e,FV-2013c",,,,2
+Fiverr,5003,null,52,profile,Responsiveness,Responsive Partner,1,Very Slow,FV-2052e,,,,-2
+Fiverr,5003,null,52,profile,Responsiveness,Responsive Partner,2,Slow,FV-2052d,,,,-1
+Fiverr,5003,null,52,profile,Responsiveness,Responsive Partner,3,Moderate,FV-2052c,,,,0
+Fiverr,5003,null,52,profile,Responsiveness,Responsive Partner,4,Fast,FV-2052b,,,,1
+Fiverr,5003,null,52,profile,Responsiveness,Responsive Partner,5,Very Fast,FV-2052a,,,,2
+Fiverr,6001,null,60,profile,Adversarial,Inactive Seller,1,Very Low,"FV-2001=FALSE,FV-2061=TRUE,FV-2030a",,,,-2
+Fiverr,6001,null,60,profile,Adversarial,Inactive Seller,2,Low,"FV-2001=TRUE,FV-2061=TRUE,FV-2030a",,,,-1
+Fiverr,6001,null,60,profile,Adversarial,Inactive Seller,3,Medium,"FV-2001=TRUE,FV-2030b",,,,0
+Fiverr,6001,null,60,profile,Adversarial,Inactive Seller,4,High,"FV-2001=TRUE,FV-2030c",,,,1
+Fiverr,6001,null,60,profile,Adversarial,Inactive Seller,5,Very High,"FV-2001=TRUE,FV-2030d,FV-2060=TRUE",,,,2
+Fiverr,6002,null,61,profile,Adversarial,Low Credibility Seller,1,Very Low,"FV-2002=FALSE,FV-2005=FALSE,FV-2050a",,,,-2
+Fiverr,6002,null,61,profile,Adversarial,Low Credibility Seller,2,Low,"FV-2002=TRUE,FV-2050b",,,,-1
+Fiverr,6002,null,61,profile,Adversarial,Low Credibility Seller,3,Medium,"FV-2002=TRUE,FV-2005=TRUE,FV-2050c",,,,0
+Fiverr,6002,null,61,profile,Adversarial,Low Credibility Seller,4,High,"FV-2002=TRUE,FV-2005=TRUE,FV-2004=TRUE,FV-2050d",,,,1
+Fiverr,6002,null,61,profile,Adversarial,Low Credibility Seller,5,Very High,"FV-2002=TRUE,FV-2005=TRUE,FV-2004=TRUE,FV-2050e",,,,2
+Fiverr,6003,null,62,profile,Adversarial,Slow Responder,1,Very Low,FV-2052e,,,,-2
+Fiverr,6003,null,62,profile,Adversarial,Slow Responder,2,Low,FV-2052d,,,,-1
+Fiverr,6003,null,62,profile,Adversarial,Slow Responder,3,Medium,FV-2052c,,,,0
+Fiverr,6003,null,62,profile,Adversarial,Slow Responder,4,High,FV-2052b,,,,1
+Fiverr,6003,null,62,profile,Adversarial,Slow Responder,5,Very High,FV-2052a,,,,2
+Fiverr,6004,null,63,profile,Adversarial,Reputation Risk,1,Very Low,"FV-2050a,FV-2051a",,,,-2
+Fiverr,6004,null,63,profile,Adversarial,Reputation Risk,2,Low,"FV-2050b,FV-2051b",,,,-1
+Fiverr,6004,null,63,profile,Adversarial,Reputation Risk,3,Medium,"FV-2050c,FV-2051c",,,,0
+Fiverr,6004,null,63,profile,Adversarial,Reputation Risk,4,High,"FV-2050d,FV-2051d",,,,1
+Fiverr,6004,null,63,profile,Adversarial,Reputation Risk,5,Very High,"FV-2050e,FV-2051e",,,,2
+Fiverr,6005,null,64,profile,Adversarial,Pricing Outlier,1,Very Low,"FV-2020a,FV-2020b",,,,-2
+Fiverr,6005,null,64,profile,Adversarial,Pricing Outlier,2,Low,FV-2020c,,,,-1
+Fiverr,6005,null,64,profile,Adversarial,Pricing Outlier,3,Medium,FV-2020d,,,,0
+Fiverr,6005,null,64,profile,Adversarial,Pricing Outlier,4,High,FV-2020e,,,,1
+Fiverr,6005,null,64,profile,Adversarial,Pricing Outlier,5,Very High,FV-2020e,,,,2

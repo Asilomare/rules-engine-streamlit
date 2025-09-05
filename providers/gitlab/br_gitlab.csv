@@ -1,0 +1,51 @@
+source,id,parentId,priority,match_type,category,businessRuleLabel,likert_value,likert_label,ALL_OF,ANY_OF,NONE_OF,threshold_attr,weight
+GitLab,8001,null,1,profile,Capability,Projects Count Scale,1,Very Low,GL-2000,,,,-2
+GitLab,8001,null,1,profile,Capability,Projects Count Scale,2,Low,GL-2001,,,,-1
+GitLab,8001,null,1,profile,Capability,Projects Count Scale,3,Medium,GL-2002,,,,0
+GitLab,8001,null,1,profile,Capability,Projects Count Scale,4,High,GL-2003,,,,1
+GitLab,8001,null,1,profile,Capability,Projects Count Scale,5,Very High,GL-2004,,,,2
+GitLab,8002,null,2,profile,Capability,Total Stars Scale,1,Very Low,GL-2100,,,,-2
+GitLab,8002,null,2,profile,Capability,Total Stars Scale,2,Low,GL-2101,,,,-1
+GitLab,8002,null,2,profile,Capability,Total Stars Scale,3,High,GL-2102,,,,1
+GitLab,8002,null,2,profile,Capability,Total Stars Scale,4,Very High,GL-2103,,,,2
+GitLab,8003,null,3,profile,Capability,Total Forks Scale,1,Low,GL-2200,,,,-1
+GitLab,8003,null,3,profile,Capability,Total Forks Scale,2,High,GL-2201,,,,1
+GitLab,8004,null,4,profile,Risk,Activity Recency Scale,4,Recent,GL-3001,,,,1
+GitLab,8004,null,4,profile,Risk,Activity Recency Scale,1,Stale,GL-3002,,,,-2
+GitLab,8005,null,5,profile,Authenticity,Any Public Project Present,1,Present,GL-1000,,,,1
+GitLab,8005,null,5,profile,Authenticity,Any README Present,1,Present,GL-1001,,,,1
+GitLab,8005,null,5,profile,Authenticity,CI Enabled,1,Present,GL-3000,,,,1
+GitLab,8100,null,10,profile,Reputation,Trusted Maintainer,5,Top-tier,"GL-1000,GL-1001,GL-3000,GL-3001",,,,2
+GitLab,8100,null,10,profile,Reputation,Trusted Maintainer,4,Strong,"GL-1000,GL-3000,GL-3001",,,,1
+GitLab,8100,null,10,profile,Reputation,Trusted Maintainer,3,Established,"GL-1000,GL-3001",,,,0
+GitLab,8100,null,10,profile,Reputation,Trusted Maintainer,2,Developing,GL-1000,,,,-1
+GitLab,8100,null,10,profile,Reputation,Trusted Maintainer,1,Entry,,,GL-1000,,-2
+GitLab,8101,null,11,profile,Activity,Active Builder,5,Very High,"GL-3001,GL-2003,GL-2102",,,,2
+GitLab,8101,null,11,profile,Activity,Active Builder,4,High,"GL-3001,GL-2002,GL-2101",,,,1
+GitLab,8101,null,11,profile,Activity,Active Builder,3,Medium,"GL-3001,GL-2001",,,,0
+GitLab,8101,null,11,profile,Activity,Active Builder,2,Low,"GL-3002,GL-2001",,,,-1
+GitLab,8101,null,11,profile,Activity,Active Builder,1,Very Low,"GL-3002,GL-2000",,,,-2
+GitLab,8102,null,12,profile,Capability,Portfolio Depth,5,Very High,"GL-2004,GL-2103",,,,2
+GitLab,8102,null,12,profile,Capability,Portfolio Depth,4,High,"GL-2003,GL-2102",,,,1
+GitLab,8102,null,12,profile,Capability,Portfolio Depth,3,Medium,"GL-2002,GL-2101",,,,0
+GitLab,8102,null,12,profile,Capability,Portfolio Depth,2,Low,"GL-2001,GL-2100",,,,-1
+GitLab,8102,null,12,profile,Capability,Portfolio Depth,1,Very Low,"GL-2000,GL-2100",,,,-2
+GitLab,8200,null,20,profile,Adversarial,Dormant Project Owner,5,Very High,"GL-3002,GL-2000",,,,2
+GitLab,8200,null,20,profile,Adversarial,Dormant Project Owner,4,High,"GL-3002,GL-2001",,,,1
+GitLab,8200,null,20,profile,Adversarial,Dormant Project Owner,3,Medium,"GL-3002,GL-2002",,,,0
+GitLab,8200,null,20,profile,Adversarial,Dormant Project Owner,2,Low,"GL-3001,GL-2001",,,,-1
+GitLab,8200,null,20,profile,Adversarial,Dormant Project Owner,1,Very Low,"GL-3001,GL-2003",,,,-2
+GitLab,8201,null,21,profile,Adversarial,Low Credibility Signal,5,Very High,"GL-2100,GL-2200",,,,2
+GitLab,8201,null,21,profile,Adversarial,Low Credibility Signal,4,High,"GL-2101,GL-2200",,,,1
+GitLab,8201,null,21,profile,Adversarial,Low Credibility Signal,3,Medium,"GL-2101,GL-2201",,,,0
+GitLab,8201,null,21,profile,Adversarial,Low Credibility Signal,2,Low,"GL-2102,GL-2201",,,,-1
+GitLab,8201,null,21,profile,Adversarial,Low Credibility Signal,1,Very Low,"GL-2103,GL-2201",,,,-2
+GitLab,8202,null,22,profile,Adversarial,CI Risk Signal,5,Very High,GL-3002,,GL-3000,,2
+GitLab,8202,null,22,profile,Adversarial,CI Risk Signal,3,Medium,,,GL-3000,,0
+GitLab,8202,null,22,profile,Adversarial,CI Risk Signal,1,Very Low,"GL-3001,GL-3000",,,,-2
+GitLab,8203,null,23,profile,Adversarial,README Authenticity Signal,5,Very High,,,GL-1001,,2
+GitLab,8203,null,23,profile,Adversarial,README Authenticity Signal,3,Medium,GL-1001,,,,0
+GitLab,8203,null,23,profile,Adversarial,README Authenticity Signal,1,Very Low,"GL-1001,GL-3001",,,,-2
+GitLab,8204,null,24,profile,Adversarial,Public Presence Signal,5,Very High,,,GL-1000,,2
+GitLab,8204,null,24,profile,Adversarial,Public Presence Signal,3,Medium,GL-1000,,,,0
+GitLab,8204,null,24,profile,Adversarial,Public Presence Signal,1,Very Low,"GL-1000,GL-3001",,,,-2

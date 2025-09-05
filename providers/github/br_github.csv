@@ -1,0 +1,201 @@
+source,id,parentId,priority,match_type,category,businessRuleLabel,likert_value,likert_label,ALL_OF,ANY_OF,NONE_OF,threshold_attr,weight
+GitHub,3001,null,1,profile,Maturity,Public Repos Scale,1,Very Low,GH-3001,,,,-2
+GitHub,3001,null,1,profile,Maturity,Public Repos Scale,2,Low,GH-3002,,,,-1
+GitHub,3001,null,1,profile,Maturity,Public Repos Scale,3,Medium,GH-3003,,,,0
+GitHub,3001,null,1,profile,Maturity,Public Repos Scale,4,High,GH-3004,,,,1
+GitHub,3001,null,1,profile,Maturity,Public Repos Scale,5,Very High,GH-3005,,,,2
+GitHub,3010,null,2,profile,Contribution,Non-Fork Ratio Scale,1,Very Low,GH-3010,,,,-2
+GitHub,3010,null,2,profile,Contribution,Non-Fork Ratio Scale,2,Low,GH-3011,,,,-1
+GitHub,3010,null,2,profile,Contribution,Non-Fork Ratio Scale,3,Medium,GH-3012,,,,0
+GitHub,3010,null,2,profile,Contribution,Non-Fork Ratio Scale,4,High,GH-3013,,,,1
+GitHub,3010,null,2,profile,Contribution,Non-Fork Ratio Scale,5,Very High,GH-3014,,,,2
+GitHub,3020,null,3,profile,Activity,Recent Repos Pushed Scale (90d),1,Very Low,GH-3020,,,,-2
+GitHub,3020,null,3,profile,Activity,Recent Repos Pushed Scale (90d),2,Low,GH-3021,,,,-1
+GitHub,3020,null,3,profile,Activity,Recent Repos Pushed Scale (90d),3,Medium,GH-3022,,,,0
+GitHub,3020,null,3,profile,Activity,Recent Repos Pushed Scale (90d),4,High,GH-3023,,,,1
+GitHub,3020,null,3,profile,Activity,Recent Repos Pushed Scale (90d),5,Very High,GH-3024,,,,2
+GitHub,3030,null,4,profile,Reputation,Stars Total Scale,1,Very Low,GH-3030,,,,-2
+GitHub,3030,null,4,profile,Reputation,Stars Total Scale,2,Low,GH-3031,,,,-1
+GitHub,3030,null,4,profile,Reputation,Stars Total Scale,3,Medium,GH-3032,,,,0
+GitHub,3030,null,4,profile,Reputation,Stars Total Scale,4,High,GH-3033,,,,1
+GitHub,3030,null,4,profile,Reputation,Stars Total Scale,5,Very High,GH-3034,,,,2
+GitHub,3040,null,5,profile,Reputation,Max Repo Stars Scale,1,Very Low,GH-3040,,,,-2
+GitHub,3040,null,5,profile,Reputation,Max Repo Stars Scale,2,Low,GH-3041,,,,-1
+GitHub,3040,null,5,profile,Reputation,Max Repo Stars Scale,3,Medium,GH-3042,,,,0
+GitHub,3040,null,5,profile,Reputation,Max Repo Stars Scale,4,High,GH-3043,,,,1
+GitHub,3040,null,5,profile,Reputation,Max Repo Stars Scale,5,Very High,GH-3044,,,,2
+GitHub,3050,null,6,profile,Breadth,Language Diversity Scale,1,Very Low,GH-3050,,,,-2
+GitHub,3050,null,6,profile,Breadth,Language Diversity Scale,2,Low,GH-3051,,,,-1
+GitHub,3050,null,6,profile,Breadth,Language Diversity Scale,3,Medium,GH-3052,,,,0
+GitHub,3050,null,6,profile,Breadth,Language Diversity Scale,4,High,GH-3053,,,,1
+GitHub,3050,null,6,profile,Breadth,Language Diversity Scale,5,Very High,GH-3054,,,,2
+GitHub,3060,null,7,profile,Activity,Commits by Author Scale (90d),1,Very Low,GH-3060,,,,-2
+GitHub,3060,null,7,profile,Activity,Commits by Author Scale (90d),2,Low,GH-3061,,,,-1
+GitHub,3060,null,7,profile,Activity,Commits by Author Scale (90d),3,Medium,GH-3062,,,,0
+GitHub,3060,null,7,profile,Activity,Commits by Author Scale (90d),4,High,GH-3063,,,,1
+GitHub,3060,null,7,profile,Activity,Commits by Author Scale (90d),5,Very High,GH-3064,,,,2
+GitHub,3070,null,8,profile,Collaboration,PR/Issue Involvement Scale (180d),1,Very Low,GH-3070,,,,-2
+GitHub,3070,null,8,profile,Collaboration,PR/Issue Involvement Scale (180d),2,Low,GH-3071,,,,-1
+GitHub,3070,null,8,profile,Collaboration,PR/Issue Involvement Scale (180d),3,Medium,GH-3072,,,,0
+GitHub,3070,null,8,profile,Collaboration,PR/Issue Involvement Scale (180d),4,High,GH-3073,,,,1
+GitHub,3070,null,8,profile,Collaboration,PR/Issue Involvement Scale (180d),5,Very High,GH-3074,,,,2
+GitHub,3080,null,9,profile,Authorship,Authored Items Scale (365d),1,Very Low,GH-3080,,,,-2
+GitHub,3080,null,9,profile,Authorship,Authored Items Scale (365d),2,Low,GH-3081,,,,-1
+GitHub,3080,null,9,profile,Authorship,Authored Items Scale (365d),3,Medium,GH-3082,,,,0
+GitHub,3080,null,9,profile,Authorship,Authored Items Scale (365d),4,High,GH-3083,,,,1
+GitHub,3080,null,9,profile,Authorship,Authored Items Scale (365d),5,Very High,GH-3084,,,,2
+GitHub,3090,null,10,profile,Maintenance,Owner Repos Updated Scale (365d),1,Very Low,GH-3090,,,,-2
+GitHub,3090,null,10,profile,Maintenance,Owner Repos Updated Scale (365d),2,Low,GH-3091,,,,-1
+GitHub,3090,null,10,profile,Maintenance,Owner Repos Updated Scale (365d),3,Medium,GH-3092,,,,0
+GitHub,3090,null,10,profile,Maintenance,Owner Repos Updated Scale (365d),4,High,GH-3093,,,,1
+GitHub,3090,null,10,profile,Maintenance,Owner Repos Updated Scale (365d),5,Very High,GH-3094,,,,2
+GitHub,3100,null,11,profile,Code Footprint,Indexed Code Files Scale,1,Very Low,GH-3100,,,,-2
+GitHub,3100,null,11,profile,Code Footprint,Indexed Code Files Scale,2,Low,GH-3100,,,,-1
+GitHub,3100,null,11,profile,Code Footprint,Indexed Code Files Scale,3,Medium,GH-3101,,,,0
+GitHub,3100,null,11,profile,Code Footprint,Indexed Code Files Scale,4,High,GH-3102,,,,1
+GitHub,3100,null,11,profile,Code Footprint,Indexed Code Files Scale,5,Very High,GH-3102,,,,2
+GitHub,3110,null,12,profile,Tenure,Account Age Scale (days),1,Very Low,GH-3110,,,,-2
+GitHub,3110,null,12,profile,Tenure,Account Age Scale (days),2,Low,GH-3111,,,,-1
+GitHub,3110,null,12,profile,Tenure,Account Age Scale (days),3,Medium,GH-3112,,,,0
+GitHub,3110,null,12,profile,Tenure,Account Age Scale (days),4,High,GH-3113,,,,1
+GitHub,3110,null,12,profile,Tenure,Account Age Scale (days),5,Very High,GH-3114,,,,2
+GitHub,3120,null,13,profile,Social,Followers Scale,1,Very Low,GH-3120,,,,-2
+GitHub,3120,null,13,profile,Social,Followers Scale,2,Low,GH-3121,,,,-1
+GitHub,3120,null,13,profile,Social,Followers Scale,3,Medium,GH-3122,,,,0
+GitHub,3120,null,13,profile,Social,Followers Scale,4,High,GH-3123,,,,1
+GitHub,3120,null,13,profile,Social,Followers Scale,5,Very High,GH-3124,,,,2
+GitHub,3130,null,14,profile,Reputation,Public Gists Scale,1,Very Low,GH-3130,,,,-2
+GitHub,3130,null,14,profile,Reputation,Public Gists Scale,2,Low,GH-3131,,,,-1
+GitHub,3130,null,14,profile,Reputation,Public Gists Scale,3,Medium,GH-3132,,,,0
+GitHub,3130,null,14,profile,Reputation,Public Gists Scale,4,High,GH-3133,,,,1
+GitHub,3130,null,14,profile,Reputation,Public Gists Scale,5,Very High,GH-3134,,,,2
+GitHub,3140,null,15,profile,Hygiene,License Coverage Scale (%),1,Very Low,GH-3140,,,,-2
+GitHub,3140,null,15,profile,Hygiene,License Coverage Scale (%),2,Low,GH-3141,,,,-1
+GitHub,3140,null,15,profile,Hygiene,License Coverage Scale (%),3,Medium,GH-3142,,,,0
+GitHub,3140,null,15,profile,Hygiene,License Coverage Scale (%),4,High,GH-3143,,,,1
+GitHub,3140,null,15,profile,Hygiene,License Coverage Scale (%),5,Very High,GH-3144,,,,2
+GitHub,3150,null,16,profile,Hygiene,Release Coverage Scale (%),1,Very Low,GH-3150,,,,-2
+GitHub,3150,null,16,profile,Hygiene,Release Coverage Scale (%),2,Low,GH-3151,,,,-1
+GitHub,3150,null,16,profile,Hygiene,Release Coverage Scale (%),3,Medium,GH-3152,,,,0
+GitHub,3150,null,16,profile,Hygiene,Release Coverage Scale (%),4,High,GH-3153,,,,1
+GitHub,3150,null,16,profile,Hygiene,Release Coverage Scale (%),5,Very High,GH-3154,,,,2
+GitHub,3160,null,17,profile,Activity,Active Days Scale (90d),1,Very Low,GH-3160,,,,-2
+GitHub,3160,null,17,profile,Activity,Active Days Scale (90d),2,Low,GH-3161,,,,-1
+GitHub,3160,null,17,profile,Activity,Active Days Scale (90d),3,Medium,GH-3162,,,,0
+GitHub,3160,null,17,profile,Activity,Active Days Scale (90d),4,High,GH-3163,,,,1
+GitHub,3160,null,17,profile,Activity,Active Days Scale (90d),5,Very High,GH-3164,,,,2
+GitHub,3000,null,0,profile,Authenticity,Profile Reachable Scale,1,Very Low,,,GH-3000,,-2
+GitHub,3000,null,0,profile,Authenticity,Profile Reachable Scale,2,Low,,,GH-3000,,-1
+GitHub,3000,null,0,profile,Authenticity,Profile Reachable Scale,3,Medium,GH-3000,,,,0
+GitHub,3000,null,0,profile,Authenticity,Profile Reachable Scale,4,High,GH-3000,,,,1
+GitHub,3000,null,0,profile,Authenticity,Profile Reachable Scale,5,Very High,GH-3000,,,,2
+GitHub,4001,null,50,profile,Engagement,Champion Maintainer,1,Emerging,"GH-3021,GH-3061",,"GH-3020,GH-3060",,-2
+GitHub,4001,null,50,profile,Engagement,Champion Maintainer,2,Growing,"GH-3022,GH-3062",,"GH-3020,GH-3060",,-1
+GitHub,4001,null,50,profile,Engagement,Champion Maintainer,3,Strong,"GH-3023,GH-3063",GH-3092,"GH-3020,GH-3060",,0
+GitHub,4001,null,50,profile,Engagement,Champion Maintainer,4,Leader,"GH-3024,GH-3064",GH-3093,"GH-3020,GH-3060",,1
+GitHub,4001,null,50,profile,Engagement,Champion Maintainer,5,Elite,"GH-3024,GH-3064,GH-3094","GH-3073,GH-3074","GH-3020,GH-3060",,2
+GitHub,4002,null,51,profile,Influence,Thought Leader,1,Emerging,"GH-3031,GH-3041","GH-3121,GH-3131",,,-2
+GitHub,4002,null,51,profile,Influence,Thought Leader,2,Growing,"GH-3032,GH-3042","GH-3122,GH-3132",,,-1
+GitHub,4002,null,51,profile,Influence,Thought Leader,3,Recognized,"GH-3033,GH-3043","GH-3123,GH-3133",,,0
+GitHub,4002,null,51,profile,Influence,Thought Leader,4,Leader,"GH-3034,GH-3043","GH-3123,GH-3133,GH-3134",,,1
+GitHub,4002,null,51,profile,Influence,Thought Leader,5,Elite,"GH-3034,GH-3044","GH-3124,GH-3134",,,2
+GitHub,4003,null,52,profile,Reliability,Sustained Contributor,1,Occasional,"GH-3021,GH-3061",GH-3071,"GH-3020,GH-3060",,-2
+GitHub,4003,null,52,profile,Reliability,Sustained Contributor,2,Regular,"GH-3022,GH-3062",GH-3072,"GH-3020,GH-3060",,-1
+GitHub,4003,null,52,profile,Reliability,Sustained Contributor,3,Consistent,"GH-3023,GH-3063",GH-3073,,,0
+GitHub,4003,null,52,profile,Reliability,Sustained Contributor,4,Highly Consistent,"GH-3023,GH-3063",GH-3074,,,1
+GitHub,4003,null,52,profile,Reliability,Sustained Contributor,5,Exceptional,"GH-3024,GH-3064",GH-3074,,,2
+GitHub,4004,null,53,profile,Quality,Quality Steward,1,Basic,"GH-3141,GH-3151",GH-3091,"GH-3140,GH-3150",,-2
+GitHub,4004,null,53,profile,Quality,Quality Steward,2,Sound,"GH-3142,GH-3152",GH-3092,"GH-3140,GH-3150",,-1
+GitHub,4004,null,53,profile,Quality,Quality Steward,3,Good,"GH-3143,GH-3153",GH-3093,,,0
+GitHub,4004,null,53,profile,Quality,Quality Steward,4,Strong,"GH-3144,GH-3153","GH-3093,GH-3094",,,1
+GitHub,4004,null,53,profile,Quality,Quality Steward,5,Exemplary,"GH-3144,GH-3154",GH-3094,,,2
+GitHub,4005,null,54,profile,Community,Bridge Builder,1,Low,"GH-3071,GH-3081",,,,-2
+GitHub,4005,null,54,profile,Community,Bridge Builder,2,Moderate,"GH-3072,GH-3082",,,,-1
+GitHub,4005,null,54,profile,Community,Bridge Builder,3,High,"GH-3073,GH-3083",,,,0
+GitHub,4005,null,54,profile,Community,Bridge Builder,4,Very High,"GH-3074,GH-3083",,,,1
+GitHub,4005,null,54,profile,Community,Bridge Builder,5,Hub,"GH-3074,GH-3084",,,,2
+GitHub,4006,null,55,profile,Specialization,Niche Specialist,1,Low,"GH-3050,GH-3041",,,,-2
+GitHub,4006,null,55,profile,Specialization,Niche Specialist,2,Focused,"GH-3050,GH-3042",,,,-1
+GitHub,4006,null,55,profile,Specialization,Niche Specialist,3,Recognized,"GH-3050,GH-3043",,,,0
+GitHub,4006,null,55,profile,Specialization,Niche Specialist,4,Broadly Recognized,"GH-3051,GH-3043",,,,1
+GitHub,4006,null,55,profile,Specialization,Niche Specialist,5,Top-tier,"GH-3051,GH-3044",,,,2
+GitHub,4007,null,56,profile,Tenure,Established Maintainer,1,Emerging,"GH-3113,GH-3091",,,,-2
+GitHub,4007,null,56,profile,Tenure,Established Maintainer,2,Growing,"GH-3113,GH-3092",,,,-1
+GitHub,4007,null,56,profile,Tenure,Established Maintainer,3,Established,"GH-3114,GH-3092",,,,0
+GitHub,4007,null,56,profile,Tenure,Established Maintainer,4,Strong,"GH-3114,GH-3093",,,,1
+GitHub,4007,null,56,profile,Tenure,Established Maintainer,5,Veteran,"GH-3114,GH-3094",,,,2
+GitHub,4008,null,57,profile,Hygiene,Well-Managed Owner,1,Basic,"GH-3091,GH-3141,GH-3151",,,,-2
+GitHub,4008,null,57,profile,Hygiene,Well-Managed Owner,2,Sound,"GH-3092,GH-3142,GH-3152",,,,-1
+GitHub,4008,null,57,profile,Hygiene,Well-Managed Owner,3,Good,"GH-3093,GH-3143,GH-3153",,,,0
+GitHub,4008,null,57,profile,Hygiene,Well-Managed Owner,4,Strong,"GH-3093,GH-3144,GH-3153",,,,1
+GitHub,4008,null,57,profile,Hygiene,Well-Managed Owner,5,Exemplary,"GH-3094,GH-3144,GH-3154",,,,2
+GitHub,4009,null,58,profile,Engagement,Quiet Newcomer,1,Occasional,GH-3111,,"GH-3023,GH-3062,GH-3162",,-2
+GitHub,4009,null,58,profile,Engagement,Quiet Newcomer,2,Quiet,"GH-3111,GH-3021",,"GH-3023,GH-3062,GH-3162",,-1
+GitHub,4009,null,58,profile,Engagement,Quiet Newcomer,3,Very Quiet,"GH-3111,GH-3021,GH-3061",,,,0
+GitHub,4009,null,58,profile,Engagement,Quiet Newcomer,4,Dormant,"GH-3111,GH-3020,GH-3060",,,,1
+GitHub,4009,null,58,profile,Engagement,Quiet Newcomer,5,Brand New & Dormant,"GH-3110,GH-3020,GH-3060",,,,2
+GitHub,4010,null,59,profile,Engagement,Established but Quiet,1,Occasional,"GH-3114,GH-3021",,"GH-3023,GH-3062,GH-3162",,-2
+GitHub,4010,null,59,profile,Engagement,Established but Quiet,2,Quiet,"GH-3114,GH-3020",,,,-1
+GitHub,4010,null,59,profile,Engagement,Established but Quiet,3,Very Quiet,"GH-3114,GH-3020,GH-3060",,,,0
+GitHub,4010,null,59,profile,Engagement,Established but Quiet,4,Dormant Owner,"GH-3114,GH-3020,GH-3060",GH-3090,,,1
+GitHub,4010,null,59,profile,Engagement,Established but Quiet,5,Fully Dormant,"GH-3114,GH-3020,GH-3060,GH-3090",,,,2
+GitHub,4011,null,60,profile,Social,Social Ghost,1,Low,GH-3120,,,,-2
+GitHub,4011,null,60,profile,Social,Social Ghost,2,Very Low,"GH-3120,GH-3030",,,,-1
+GitHub,4011,null,60,profile,Social,Social Ghost,3,Minimal,"GH-3120,GH-3030,GH-3040",,,,0
+GitHub,4011,null,60,profile,Social,Social Ghost,4,Near None,GH-3120,,"GH-3122,GH-3123,GH-3124",,1
+GitHub,4011,null,60,profile,Social,Social Ghost,5,None,GH-3120,,"GH-3121,GH-3122,GH-3123,GH-3124",,2
+GitHub,4012,null,61,profile,Maturity,Fork-Only User,1,Balanced,GH-3011,,,,-2
+GitHub,4012,null,61,profile,Maturity,Fork-Only User,2,Skewed,GH-3010,,,,-1
+GitHub,4012,null,61,profile,Maturity,Fork-Only User,3,Fork-Heavy,GH-3010,,"GH-3012,GH-3013,GH-3014",,0
+GitHub,4012,null,61,profile,Maturity,Fork-Only User,4,Mostly Forks,GH-3010,,,,1
+GitHub,4012,null,61,profile,Maturity,Fork-Only User,5,Fork-Only,GH-3010,,,,2
+GitHub,4013,null,62,profile,Engagement,Dormant Account,1,Inactive Repos,GH-3020,,,,-2
+GitHub,4013,null,62,profile,Engagement,Dormant Account,2,No Commits,GH-3060,,,,-1
+GitHub,4013,null,62,profile,Engagement,Dormant Account,3,Double Dormant,"GH-3020,GH-3060",,,,0
+GitHub,4013,null,62,profile,Engagement,Dormant Account,4,Strong Dormancy,"GH-3020,GH-3060",,"GH-3021,GH-3061",,1
+GitHub,4013,null,62,profile,Engagement,Dormant Account,5,Full Dormancy,"GH-3020,GH-3060",,"GH-3021,GH-3061,GH-3161",,2
+GitHub,4014,null,63,profile,Code Footprint,Empty Profile,1,No Files,GH-3100,,,,-2
+GitHub,4014,null,63,profile,Code Footprint,Empty Profile,2,No Files & No Stars,"GH-3100,GH-3030",,,,-1
+GitHub,4014,null,63,profile,Code Footprint,Empty Profile,3,"No Files, No Stars, No Followers","GH-3100,GH-3030,GH-3120",,,,0
+GitHub,4014,null,63,profile,Code Footprint,Empty Profile,4,Truly Empty,GH-3100,,"GH-3101,GH-3102",,1
+GitHub,4014,null,63,profile,Code Footprint,Empty Profile,5,Empty,GH-3100,,,,2
+GitHub,7000,null,60,profile,Adversarial,Empty Profile,1,Very Low,"GH-3001,GH-3020,GH-3060",,,,-2
+GitHub,7000,null,60,profile,Adversarial,Empty Profile,2,Low,"GH-3002,GH-3021",,,,-1
+GitHub,7000,null,60,profile,Adversarial,Empty Profile,3,Medium,"GH-3003,GH-3022",,,,0
+GitHub,7000,null,60,profile,Adversarial,Empty Profile,4,High,"GH-3004,GH-3023,GH-3062",,,,1
+GitHub,7000,null,60,profile,Adversarial,Empty Profile,5,Very High,"GH-3005,GH-3024,GH-3063",,,,2
+GitHub,7001,null,61,profile,Adversarial,Inactive Coder,1,Very Low,"GH-3060,GH-3160",,,,-2
+GitHub,7001,null,61,profile,Adversarial,Inactive Coder,2,Low,"GH-3061,GH-3161",,,,-1
+GitHub,7001,null,61,profile,Adversarial,Inactive Coder,3,Medium,"GH-3062,GH-3162",,,,0
+GitHub,7001,null,61,profile,Adversarial,Inactive Coder,4,High,"GH-3063,GH-3163",,,,1
+GitHub,7001,null,61,profile,Adversarial,Inactive Coder,5,Very High,"GH-3064,GH-3164",,,,2
+GitHub,7002,null,62,profile,Adversarial,Fork Farmer,1,Very Low,"GH-3010,GH-3001",,,,-2
+GitHub,7002,null,62,profile,Adversarial,Fork Farmer,2,Low,"GH-3011,GH-3002",,,,-1
+GitHub,7002,null,62,profile,Adversarial,Fork Farmer,3,Medium,"GH-3012,GH-3003",,,,0
+GitHub,7002,null,62,profile,Adversarial,Fork Farmer,4,High,"GH-3013,GH-3004",,,,1
+GitHub,7002,null,62,profile,Adversarial,Fork Farmer,5,Very High,"GH-3014,GH-3005",,,,2
+GitHub,7003,null,63,profile,Adversarial,Starless,1,Very Low,"GH-3030,GH-3040",,,,-2
+GitHub,7003,null,63,profile,Adversarial,Starless,2,Low,"GH-3031,GH-3041",,,,-1
+GitHub,7003,null,63,profile,Adversarial,Starless,3,Medium,"GH-3032,GH-3042",,,,0
+GitHub,7003,null,63,profile,Adversarial,Starless,4,High,"GH-3033,GH-3043",,,,1
+GitHub,7003,null,63,profile,Adversarial,Starless,5,Very High,"GH-3034,GH-3044",,,,2
+GitHub,7004,null,64,profile,Adversarial,License Dodger,1,Very Low,"GH-3140,GH-3150",,,,-2
+GitHub,7004,null,64,profile,Adversarial,License Dodger,2,Low,"GH-3141,GH-3151",,,,-1
+GitHub,7004,null,64,profile,Adversarial,License Dodger,3,Medium,"GH-3142,GH-3152",,,,0
+GitHub,7004,null,64,profile,Adversarial,License Dodger,4,High,"GH-3143,GH-3153",,,,1
+GitHub,7004,null,64,profile,Adversarial,License Dodger,5,Very High,"GH-3144,GH-3154",,,,2
+GitHub,7005,null,65,profile,Adversarial,One-Language Dev,1,Very Low,GH-3050,,,,-2
+GitHub,7005,null,65,profile,Adversarial,One-Language Dev,2,Low,GH-3051,,,,-1
+GitHub,7005,null,65,profile,Adversarial,One-Language Dev,3,Medium,GH-3052,,,,0
+GitHub,7005,null,65,profile,Adversarial,One-Language Dev,4,High,GH-3053,,,,1
+GitHub,7005,null,65,profile,Adversarial,One-Language Dev,5,Very High,GH-3054,,,,2
+GitHub,7006,null,66,profile,Adversarial,Ghost Account,1,Very Low,"GH-3110,GH-3120",,,,-2
+GitHub,7006,null,66,profile,Adversarial,Ghost Account,2,Low,"GH-3111,GH-3121",,,,-1
+GitHub,7006,null,66,profile,Adversarial,Ghost Account,3,Medium,"GH-3112,GH-3122",,,,0
+GitHub,7006,null,66,profile,Adversarial,Ghost Account,4,High,"GH-3113,GH-3123",,,,1
+GitHub,7006,null,66,profile,Adversarial,Ghost Account,5,Very High,"GH-3114,GH-3124",,,,2
+GitHub,7007,null,67,profile,Adversarial,Silent Observer,1,Very Low,"GH-3070,GH-3080",,,,-2
+GitHub,7007,null,67,profile,Adversarial,Silent Observer,2,Low,"GH-3071,GH-3081",,,,-1
+GitHub,7007,null,67,profile,Adversarial,Silent Observer,3,Medium,"GH-3072,GH-3082",,,,0
+GitHub,7007,null,67,profile,Adversarial,Silent Observer,4,High,"GH-3073,GH-3083",,,,1
+GitHub,7007,null,67,profile,Adversarial,Silent Observer,5,Very High,"GH-3074,GH-3084",,,,2

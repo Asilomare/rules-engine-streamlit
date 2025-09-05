@@ -1,0 +1,18 @@
+id,category,label,metric,operator,value_low,value_high,value_exact,unit,window_value,window_unit,weight,is_gate
+GL-1000,Authenticity,Any Public Project,any_public_project,EXISTS,,,,boolean,,,0.05,FALSE
+GL-1001,Authenticity,Any README Present,any_readme_present,EXISTS,,,,boolean,,,0.03,FALSE
+GL-2000,Capability,Projects (0),projects_count,RANGE,0,0,,count,,,-0.03,FALSE
+GL-2001,Capability,Projects (1-2),projects_count,RANGE,1,2,,count,,,-0.01,FALSE
+GL-2002,Capability,Projects (3-5),projects_count,RANGE,3,5,,count,,,0.02,FALSE
+GL-2003,Capability,Projects (6-10),projects_count,RANGE,6,10,,count,,,0.03,FALSE
+GL-2004,Capability,Projects (11+),projects_count,RANGE,11,1000000,,count,,,0.04,FALSE
+GL-2100,Capability,Total Stars (0-9),total_star_count,RANGE,0,9,,count,,,-0.02,FALSE
+GL-2101,Capability,Total Stars (10-49),total_star_count,RANGE,10,49,,count,,,0.02,FALSE
+GL-2102,Capability,Total Stars (50-99),total_star_count,RANGE,50,99,,count,,,0.04,FALSE
+GL-2103,Capability,Total Stars (100+),total_star_count,RANGE,100,1000000,,count,,,0.05,FALSE
+GL-2200,Capability,Total Forks (0-49),total_forks_count,RANGE,0,49,,count,,,-0.01,FALSE
+GL-2201,Capability,Total Forks (50+),total_forks_count,RANGE,50,1000000,,count,,,0.03,FALSE
+GL-3000,Risk,Has CI Enabled,has_ci_enabled,EXISTS,,,,boolean,,,0.03,FALSE
+GL-3001,Risk,Recent Activity (<=65d),last_activity_days_since,RANGE,0,365,,days,,,0.03,FALSE
+GL-3002,Risk,Stale Activity (>65d),last_activity_days_since,RANGE,366,1000000,,days,,,-0.04,FALSE
+

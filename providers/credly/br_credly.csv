@@ -1,0 +1,136 @@
+source,id,parentId,priority,match_type,category,businessRuleLabel,likert_value,likert_label,ALL_OF,ANY_OF,NONE_OF,threshold_attr,weight
+Credly,2001,null,1,profile,Technical,Badge Count Scale,1,Very Low,CR-1001,,,,-2
+Credly,2001,null,1,profile,Technical,Badge Count Scale,2,Low,CR-1002,,,,-1
+Credly,2001,null,1,profile,Technical,Badge Count Scale,3,Medium,CR-1003,,,,0
+Credly,2001,null,1,profile,Technical,Badge Count Scale,4,High,CR-1004,,,,1
+Credly,2001,null,1,profile,Technical,Badge Count Scale,5,Very High,CR-1005,,,,2
+Credly,2002,null,2,profile,Technical,Latest Badge Recency Scale,1,Very Low,CR-1014,,,,-2
+Credly,2002,null,2,profile,Technical,Latest Badge Recency Scale,2,Low,CR-1013,,,,-1
+Credly,2002,null,2,profile,Technical,Latest Badge Recency Scale,3,Medium,CR-1012,,,,0
+Credly,2002,null,2,profile,Technical,Latest Badge Recency Scale,4,High,CR-1011,,,,1
+Credly,2002,null,2,profile,Technical,Latest Badge Recency Scale,5,Very High,CR-1010,,,,2
+Credly,2003,null,3,profile,Authenticity,Issuer Diversity Scale,1,Very Low,CR-1020,,,,-2
+Credly,2003,null,3,profile,Authenticity,Issuer Diversity Scale,2,Low,CR-1021,,,,-1
+Credly,2003,null,3,profile,Authenticity,Issuer Diversity Scale,3,Medium,CR-1022,,,,0
+Credly,2003,null,3,profile,Authenticity,Issuer Diversity Scale,4,High,CR-1023,,,,1
+Credly,2003,null,3,profile,Authenticity,Issuer Diversity Scale,5,Very High,CR-1024,,,,2
+Credly,2004,null,4,profile,Risk,Expired Badges Scale,1,Very Low,CR-1034,,,,-2
+Credly,2004,null,4,profile,Risk,Expired Badges Scale,2,Low,CR-1033,,,,-1
+Credly,2004,null,4,profile,Risk,Expired Badges Scale,3,Medium,CR-1032,,,,0
+Credly,2004,null,4,profile,Risk,Expired Badges Scale,4,High,CR-1031,,,,1
+Credly,2004,null,4,profile,Risk,Expired Badges Scale,5,Very High,CR-1030,,,,2
+Credly,2005,null,5,profile,Risk,Revoked Badges Scale,1,Very Low,CR-1044,,,,-2
+Credly,2005,null,5,profile,Risk,Revoked Badges Scale,2,Low,CR-1043,,,,-1
+Credly,2005,null,5,profile,Risk,Revoked Badges Scale,3,Medium,CR-1042,,,,0
+Credly,2005,null,5,profile,Risk,Revoked Badges Scale,4,High,CR-1041,,,,1
+Credly,2005,null,5,profile,Risk,Revoked Badges Scale,5,Very High,CR-1040,,,,2
+Credly,2006,null,6,profile,Technical,Unique Skills Scale,1,Very Low,CR-1050,,,,-2
+Credly,2006,null,6,profile,Technical,Unique Skills Scale,2,Low,CR-1051,,,,-1
+Credly,2006,null,6,profile,Technical,Unique Skills Scale,3,Medium,CR-1052,,,,0
+Credly,2006,null,6,profile,Technical,Unique Skills Scale,4,High,CR-1053,,,,1
+Credly,2006,null,6,profile,Technical,Unique Skills Scale,5,Very High,CR-1054,,,,2
+Credly,2007,null,7,profile,Authenticity,Evidence Coverage Scale,1,Very Low,CR-1060,,,,-2
+Credly,2007,null,7,profile,Authenticity,Evidence Coverage Scale,2,Low,CR-1061,,,,-1
+Credly,2007,null,7,profile,Authenticity,Evidence Coverage Scale,3,Medium,CR-1062,,,,0
+Credly,2007,null,7,profile,Authenticity,Evidence Coverage Scale,4,High,CR-1063,,,,1
+Credly,2007,null,7,profile,Authenticity,Evidence Coverage Scale,5,Very High,CR-1064,,,,2
+Credly,2100,null,20,profile,Authenticity,Badge Image Present Scale,1,Very Low,,,CR-1070,,-2
+Credly,2100,null,20,profile,Authenticity,Badge Image Present Scale,2,Low,,,CR-1070,,-1
+Credly,2100,null,20,profile,Authenticity,Badge Image Present Scale,3,Medium,CR-1070,,,,0
+Credly,2100,null,20,profile,Authenticity,Badge Image Present Scale,4,High,CR-1070,,,,1
+Credly,2100,null,20,profile,Authenticity,Badge Image Present Scale,5,Very High,CR-1070,,,,2
+Credly,2101,null,21,profile,Authenticity,Issuer Present Scale,1,Very Low,,,CR-1071,,-2
+Credly,2101,null,21,profile,Authenticity,Issuer Present Scale,2,Low,,,CR-1071,,-1
+Credly,2101,null,21,profile,Authenticity,Issuer Present Scale,3,Medium,CR-1071,,,,0
+Credly,2101,null,21,profile,Authenticity,Issuer Present Scale,4,High,CR-1071,,,,1
+Credly,2101,null,21,profile,Authenticity,Issuer Present Scale,5,Very High,CR-1071,,,,2
+Credly,2102,null,22,profile,Authenticity,Issue Date Present Scale,1,Very Low,,,CR-1072,,-2
+Credly,2102,null,22,profile,Authenticity,Issue Date Present Scale,2,Low,,,CR-1072,,-1
+Credly,2102,null,22,profile,Authenticity,Issue Date Present Scale,3,Medium,CR-1072,,,,0
+Credly,2102,null,22,profile,Authenticity,Issue Date Present Scale,4,High,CR-1072,,,,1
+Credly,2102,null,22,profile,Authenticity,Issue Date Present Scale,5,Very High,CR-1072,,,,2
+Credly,2103,null,23,profile,Risk,Badge Expired Flag Scale,1,Very Low,CR-1080,,,,-2
+Credly,2103,null,23,profile,Risk,Badge Expired Flag Scale,2,Low,CR-1080,,,,-1
+Credly,2103,null,23,profile,Risk,Badge Expired Flag Scale,3,Medium,CR-1080,,,,0
+Credly,2103,null,23,profile,Risk,Badge Expired Flag Scale,4,High,,,CR-1080,,1
+Credly,2103,null,23,profile,Risk,Badge Expired Flag Scale,5,Very High,,,CR-1080,,2
+Credly,2104,null,24,profile,Risk,Badge Revoked Flag Scale,1,Very Low,CR-1081,,,,-2
+Credly,2104,null,24,profile,Risk,Badge Revoked Flag Scale,2,Low,CR-1081,,,,-1
+Credly,2104,null,24,profile,Risk,Badge Revoked Flag Scale,3,Medium,CR-1081,,,,0
+Credly,2104,null,24,profile,Risk,Badge Revoked Flag Scale,4,High,,,CR-1081,,1
+Credly,2104,null,24,profile,Risk,Badge Revoked Flag Scale,5,Very High,,,CR-1081,,2
+Credly,2105,null,25,profile,Risk,Issue Date in the Future Flag Scale,1,Very Low,CR-1082,,,,-2
+Credly,2105,null,25,profile,Risk,Issue Date in the Future Flag Scale,2,Low,CR-1082,,,,-1
+Credly,2105,null,25,profile,Risk,Issue Date in the Future Flag Scale,3,Medium,CR-1082,,,,0
+Credly,2105,null,25,profile,Risk,Issue Date in the Future Flag Scale,4,High,,,CR-1082,,1
+Credly,2105,null,25,profile,Risk,Issue Date in the Future Flag Scale,5,Very High,,,CR-1082,,2
+Credly,2106,null,26,profile,Risk,Expiry Before Issue Date Flag Scale,1,Very Low,CR-1083,,,,-2
+Credly,2106,null,26,profile,Risk,Expiry Before Issue Date Flag Scale,2,Low,CR-1083,,,,-1
+Credly,2106,null,26,profile,Risk,Expiry Before Issue Date Flag Scale,3,Medium,CR-1083,,,,0
+Credly,2106,null,26,profile,Risk,Expiry Before Issue Date Flag Scale,4,High,,,CR-1083,,1
+Credly,2106,null,26,profile,Risk,Expiry Before Issue Date Flag Scale,5,Very High,,,CR-1083,,2
+Credly,3001,null,50,profile,Quality,Credentialed Professional,1,Basic,"CR-1002,CR-1013,CR-1061",,"CR-1080,CR-1081",,-2
+Credly,3001,null,50,profile,Quality,Credentialed Professional,2,Sound,"CR-1003,CR-1012,CR-1062",,"CR-1080,CR-1081,CR-1082",,-1
+Credly,3001,null,50,profile,Quality,Credentialed Professional,3,Good,"CR-1004,CR-1011,CR-1063",,"CR-1080,CR-1081,CR-1082,CR-1083",,0
+Credly,3001,null,50,profile,Quality,Credentialed Professional,4,Strong,"CR-1005,CR-1011,CR-1064","CR-1022,CR-1023","CR-1080,CR-1081,CR-1082,CR-1083",,1
+Credly,3001,null,50,profile,Quality,Credentialed Professional,5,Exemplary,"CR-1006,CR-1010,CR-1064","CR-1023,CR-1024","CR-1080,CR-1081,CR-1082,CR-1083",,2
+Credly,3002,null,51,profile,Authenticity,Diverse & Current,1,Low,"CR-1021,CR-1013,CR-1051",,,,-2
+Credly,3002,null,51,profile,Authenticity,Diverse & Current,2,Moderate,"CR-1022,CR-1012,CR-1052",,,,-1
+Credly,3002,null,51,profile,Authenticity,Diverse & Current,3,High,"CR-1023,CR-1011,CR-1053",,,,0
+Credly,3002,null,51,profile,Authenticity,Diverse & Current,4,Very High,"CR-1023,CR-1011,CR-1054",,,,1
+Credly,3002,null,51,profile,Authenticity,Diverse & Current,5,Excellent,"CR-1024,CR-1010,CR-1055",,,,2
+Credly,3003,null,52,profile,Risk,Risky Record,1,Some Issues,CR-1031,"CR-1041,CR-1080",,,-2
+Credly,3003,null,52,profile,Risk,Risky Record,2,Elevated,CR-1032,"CR-1042,CR-1080,CR-1083",,,-1
+Credly,3003,null,52,profile,Risk,Risky Record,3,High,CR-1033,"CR-1042,CR-1080,CR-1081,CR-1083",,,0
+Credly,3003,null,52,profile,Risk,Risky Record,4,Very High,CR-1034,"CR-1043,CR-1080,CR-1081,CR-1082,CR-1083",,,1
+Credly,3003,null,52,profile,Risk,Risky Record,5,Critical,"CR-1034,CR-1044","CR-1080,CR-1081,CR-1082,CR-1083",,,2
+Credly,3004,null,53,profile,Authenticity,Verified Profile Completeness,1,Basic,"CR-1070,CR-1071",,,,-2
+Credly,3004,null,53,profile,Authenticity,Verified Profile Completeness,2,Good,"CR-1070,CR-1071,CR-1072",,,,-1
+Credly,3004,null,53,profile,Authenticity,Verified Profile Completeness,3,Strong,"CR-1070,CR-1071,CR-1072,CR-1061",,,,0
+Credly,3004,null,53,profile,Authenticity,Verified Profile Completeness,4,Very Strong,"CR-1070,CR-1071,CR-1072,CR-1063",,,,1
+Credly,3004,null,53,profile,Authenticity,Verified Profile Completeness,5,Excellent,"CR-1070,CR-1071,CR-1072,CR-1064",,"CR-1080,CR-1081,CR-1082,CR-1083",,2
+Credly,3005,null,54,profile,Quality,Quality Over Quantity,1,Emerging,"CR-1002,CR-1012,CR-1062","CR-1021,CR-1022",,,-2
+Credly,3005,null,54,profile,Quality,Quality Over Quantity,2,Good,"CR-1003,CR-1011,CR-1063","CR-1022,CR-1023",,,-1
+Credly,3005,null,54,profile,Quality,Quality Over Quantity,3,Very Good,"CR-1003,CR-1010,CR-1064","CR-1022,CR-1023",,,0
+Credly,3005,null,54,profile,Quality,Quality Over Quantity,4,Excellent,"CR-1004,CR-1010,CR-1064","CR-1023,CR-1024",,,1
+Credly,3005,null,54,profile,Quality,Quality Over Quantity,5,Top-tier,"CR-1005,CR-1010,CR-1064","CR-1023,CR-1024",,,2
+Credly,7001,null,80,profile,Adversarial,Credential Thinness,1,Very Low,"CR-1001,CR-1050,CR-1060",,,,-2
+Credly,7001,null,80,profile,Adversarial,Credential Thinness,2,Low,"CR-1002,CR-1051,CR-1061",,,,-1
+Credly,7001,null,80,profile,Adversarial,Credential Thinness,3,Medium,"CR-1003,CR-1052,CR-1062",,,,0
+Credly,7001,null,80,profile,Adversarial,Credential Thinness,4,High,"CR-1004,CR-1053,CR-1063",,,,1
+Credly,7001,null,80,profile,Adversarial,Credential Thinness,5,Very High,"CR-1006,CR-1055,CR-1064",,,,2
+Credly,7002,null,81,profile,Adversarial,Portfolio Freshness Risk,1,Very Low,"CR-1014,CR-1034",,,,-2
+Credly,7002,null,81,profile,Adversarial,Portfolio Freshness Risk,2,Low,"CR-1013,CR-1033",,,,-1
+Credly,7002,null,81,profile,Adversarial,Portfolio Freshness Risk,3,Medium,"CR-1012,CR-1032",,,,0
+Credly,7002,null,81,profile,Adversarial,Portfolio Freshness Risk,4,High,"CR-1011,CR-1031",,,,1
+Credly,7002,null,81,profile,Adversarial,Portfolio Freshness Risk,5,Very High,"CR-1010,CR-1030",,,,2
+Credly,7003,null,82,profile,Adversarial,Revocation Risk,1,Very Low,"CR-1044,CR-1002",,,,-2
+Credly,7003,null,82,profile,Adversarial,Revocation Risk,2,Low,"CR-1043,CR-1003",,,,-1
+Credly,7003,null,82,profile,Adversarial,Revocation Risk,3,Medium,"CR-1042,CR-1004",,,,0
+Credly,7003,null,82,profile,Adversarial,Revocation Risk,4,High,"CR-1041,CR-1005",,,,1
+Credly,7003,null,82,profile,Adversarial,Revocation Risk,5,Very High,"CR-1040,CR-1006",,,,2
+Credly,7004,null,83,profile,Adversarial,Single-Issuer Dependence,1,Very Low,"CR-1020,CR-1006",,,,-2
+Credly,7004,null,83,profile,Adversarial,Single-Issuer Dependence,2,Low,"CR-1021,CR-1005",,,,-1
+Credly,7004,null,83,profile,Adversarial,Single-Issuer Dependence,3,Medium,"CR-1022,CR-1004",,,,0
+Credly,7004,null,83,profile,Adversarial,Single-Issuer Dependence,4,High,"CR-1023,CR-1003",,,,1
+Credly,7004,null,83,profile,Adversarial,Single-Issuer Dependence,5,Very High,"CR-1024,CR-1002",,,,2
+Credly,7005,null,84,profile,Adversarial,Evidence Completeness,1,Very Low,CR-1060,,"CR-1070,CR-1071,CR-1072",,-2
+Credly,7005,null,84,profile,Adversarial,Evidence Completeness,2,Low,CR-1061,,"CR-1071,CR-1072",,-1
+Credly,7005,null,84,profile,Adversarial,Evidence Completeness,3,Medium,"CR-1062,CR-1070",,,,0
+Credly,7005,null,84,profile,Adversarial,Evidence Completeness,4,High,"CR-1063,CR-1070,CR-1071,CR-1072",,,,1
+Credly,7005,null,84,profile,Adversarial,Evidence Completeness,5,Very High,"CR-1064,CR-1070,CR-1071,CR-1072",,,,2
+Credly,7006,null,85,profile,Adversarial,Data Integrity Risk,1,Very Low,"CR-1082,CR-1083","CR-1081,CR-1034",,,-2
+Credly,7006,null,85,profile,Adversarial,Data Integrity Risk,2,Low,CR-1033,"CR-1082,CR-1083",,,-1
+Credly,7006,null,85,profile,Adversarial,Data Integrity Risk,3,Medium,CR-1032,CR-1081,,,0
+Credly,7006,null,85,profile,Adversarial,Data Integrity Risk,4,High,CR-1031,,"CR-1082,CR-1083,CR-1081",,1
+Credly,7006,null,85,profile,Adversarial,Data Integrity Risk,5,Very High,"CR-1030,CR-1040",,"CR-1082,CR-1083,CR-1081",,2
+Credly,7007,null,86,profile,Adversarial,Skill Breadth Risk,1,Very Low,"CR-1050,CR-1001",,,,-2
+Credly,7007,null,86,profile,Adversarial,Skill Breadth Risk,2,Low,"CR-1051,CR-1002",,,,-1
+Credly,7007,null,86,profile,Adversarial,Skill Breadth Risk,3,Medium,"CR-1052,CR-1003",,,,0
+Credly,7007,null,86,profile,Adversarial,Skill Breadth Risk,4,High,"CR-1053,CR-1004",,,,1
+Credly,7007,null,86,profile,Adversarial,Skill Breadth Risk,5,Very High,"CR-1055,CR-1006",,,,2
+Credly,7008,null,87,profile,Adversarial,Recency & Velocity,1,Very Low,"CR-1014,CR-1001",,,,-2
+Credly,7008,null,87,profile,Adversarial,Recency & Velocity,2,Low,"CR-1013,CR-1002",,,,-1
+Credly,7008,null,87,profile,Adversarial,Recency & Velocity,3,Medium,"CR-1012,CR-1003",,,,0
+Credly,7008,null,87,profile,Adversarial,Recency & Velocity,4,High,"CR-1011,CR-1004",,,,1
+Credly,7008,null,87,profile,Adversarial,Recency & Velocity,5,Very High,"CR-1010,CR-1005,CR-1006",,,,2

@@ -1,0 +1,66 @@
+source,id,parentId,priority,match_type,category,businessRuleLabel,likert_value,likert_label,ALL_OF,ANY_OF,NONE_OF,threshold_attr,weight
+GoogleScholar,4001,,10,profile,Authenticity,Profile Completeness,1,Very Low,"GS-1002,GS-1004","GS-1006,GS-1008",,,-2
+GoogleScholar,4001,,10,profile,Authenticity,Profile Completeness,2,Low,GS-1001,"GS-1004,GS-1006,GS-1008",,,-1
+GoogleScholar,4001,,10,profile,Authenticity,Profile Completeness,3,Medium,"GS-1001,GS-1003","GS-1006,GS-1008",,,0
+GoogleScholar,4001,,10,profile,Authenticity,Profile Completeness,4,High,"GS-1001,GS-1003,GS-1005",,"GS-1004,GS-1006,GS-1008",,1
+GoogleScholar,4001,,10,profile,Authenticity,Profile Completeness,5,Very High,"GS-1001,GS-1003,GS-1005,GS-1007",,"GS-1002,GS-1004,GS-1006,GS-1008",,2
+GoogleScholar,4002,,20,profile,Scholarly Impact,Citation Strength,1,Very Low,"GS-2001,GS-2016",,,,-2
+GoogleScholar,4002,,20,profile,Scholarly Impact,Citation Strength,2,Low,"GS-2002,GS-2017",,,,-1
+GoogleScholar,4002,,20,profile,Scholarly Impact,Citation Strength,3,Medium,"GS-2003,GS-2018",,,,0
+GoogleScholar,4002,,20,profile,Scholarly Impact,Citation Strength,4,High,"GS-2004,GS-2019",,,,1
+GoogleScholar,4002,,20,profile,Scholarly Impact,Citation Strength,5,Very High,"GS-2005,GS-2020",,,,2
+GoogleScholar,4003,,21,profile,Scholarly Impact,H-Index Strength,1,Very Low,"GS-2006,GS-2021",,,,-2
+GoogleScholar,4003,,21,profile,Scholarly Impact,H-Index Strength,2,Low,"GS-2007,GS-2022",,,,-1
+GoogleScholar,4003,,21,profile,Scholarly Impact,H-Index Strength,3,Medium,"GS-2008,GS-2023",,,,0
+GoogleScholar,4003,,21,profile,Scholarly Impact,H-Index Strength,4,High,"GS-2009,GS-2024",,,,1
+GoogleScholar,4003,,21,profile,Scholarly Impact,H-Index Strength,5,Very High,"GS-2010,GS-2025",,,,2
+GoogleScholar,4004,,22,profile,Scholarly Impact,i10-Index Strength,1,Very Low,"GS-2011,GS-2026",,,,-2
+GoogleScholar,4004,,22,profile,Scholarly Impact,i10-Index Strength,2,Low,"GS-2012,GS-2027",,,,-1
+GoogleScholar,4004,,22,profile,Scholarly Impact,i10-Index Strength,3,Medium,"GS-2013,GS-2028",,,,0
+GoogleScholar,4004,,22,profile,Scholarly Impact,i10-Index Strength,4,High,"GS-2014,GS-2029",,,,1
+GoogleScholar,4004,,22,profile,Scholarly Impact,i10-Index Strength,5,Very High,"GS-2015,GS-2030",,,,2
+GoogleScholar,4005,,30,profile,Activity,Publication Recency,1,Very Low,GS-3005,,,,-2
+GoogleScholar,4005,,30,profile,Activity,Publication Recency,2,Low,GS-3004,,,,-1
+GoogleScholar,4005,,30,profile,Activity,Publication Recency,3,Medium,GS-3003,,,,0
+GoogleScholar,4005,,30,profile,Activity,Publication Recency,4,High,GS-3002,,,,1
+GoogleScholar,4005,,30,profile,Activity,Publication Recency,5,Very High,GS-3001,,,,2
+GoogleScholar,4006,,31,profile,Activity,Publication Volume,1,Very Low,GS-3006,,,,-2
+GoogleScholar,4006,,31,profile,Activity,Publication Volume,2,Low,GS-3007,,,,-1
+GoogleScholar,4006,,31,profile,Activity,Publication Volume,3,Medium,GS-3008,,,,0
+GoogleScholar,4006,,31,profile,Activity,Publication Volume,4,High,GS-3009,,,,1
+GoogleScholar,4006,,31,profile,Activity,Publication Volume,5,Very High,GS-3010,,,,2
+GoogleScholar,4007,,40,profile,Composite,Scholarly Reputation,1,Dormant Scholar,"GS-1002,GS-1004,GS-3006,GS-3005,GS-2001,GS-2006,GS-2011",,,,-2
+GoogleScholar,4007,,40,profile,Composite,Scholarly Reputation,2,Emerging Scholar,"GS-1001,GS-3007,GS-2002,GS-2007,GS-2012",,,,-1
+GoogleScholar,4007,,40,profile,Composite,Scholarly Reputation,3,Established Scholar,"GS-1001,GS-3008,GS-2003,GS-2008,GS-2013",,,,0
+GoogleScholar,4007,,40,profile,Composite,Scholarly Reputation,4,Leading Scholar,"GS-1001,GS-3009,GS-2004,GS-2009,GS-2014",,,,1
+GoogleScholar,4007,,40,profile,Composite,Scholarly Reputation,5,Top Cited Scholar,"GS-1001,GS-3010,GS-2005,GS-2010,GS-2015",,,,2
+GoogleScholar,4008,,50,profile,Adversarial,Suspicious Profile,1,High Risk,"GS-1002,GS-1004,GS-1006,GS-1008,GS-3006",,,,-2
+GoogleScholar,4008,,50,profile,Adversarial,Suspicious Profile,2,Elevated Risk,"GS-1002,GS-1006,GS-3007",,,,-1
+GoogleScholar,4008,,50,profile,Adversarial,Suspicious Profile,3,Some Concerns,"GS-1001,GS-3008",,,,0
+GoogleScholar,4008,,50,profile,Adversarial,Suspicious Profile,4,Low Risk,"GS-1001,GS-3009",,,,1
+GoogleScholar,4008,,50,profile,Adversarial,Suspicious Profile,5,Very Low Risk,"GS-1001,GS-3010",,,,2
+GoogleScholar,5001,,60,profile,Composite,Balanced Impact,1,Unbalanced - Very Low,"GS-2001,GS-2006,GS-2011",,,,-2
+GoogleScholar,5001,,60,profile,Composite,Balanced Impact,2,Unbalanced - Low,"GS-2002,GS-2007,GS-2012",,,,-1
+GoogleScholar,5001,,60,profile,Composite,Balanced Impact,3,Balanced Medium,"GS-2003,GS-2008,GS-2013",,,,0
+GoogleScholar,5001,,60,profile,Composite,Balanced Impact,4,Balanced High,"GS-2004,GS-2009,GS-2014",,,,1
+GoogleScholar,5001,,60,profile,Composite,Balanced Impact,5,Balanced Very High,"GS-2005,GS-2010,GS-2015",,,,2
+GoogleScholar,5002,,61,profile,Composite,Emerging Impact,1,Very Low,"GS-2016,GS-2021",,,,-2
+GoogleScholar,5002,,61,profile,Composite,Emerging Impact,2,Low,"GS-2017,GS-2022",,,,-1
+GoogleScholar,5002,,61,profile,Composite,Emerging Impact,3,Medium,"GS-2018,GS-2023",,,,0
+GoogleScholar,5002,,61,profile,Composite,Emerging Impact,4,High,"GS-2019,GS-2024",,,,1
+GoogleScholar,5002,,61,profile,Composite,Emerging Impact,5,Very High,"GS-2020,GS-2025",,,,2
+GoogleScholar,5003,,62,profile,Composite,Peaked Scholar,1,Declining Strongly,"GS-2005,GS-2010,GS-2016",,,,-2
+GoogleScholar,5003,,62,profile,Composite,Peaked Scholar,2,Declining,"GS-2004,GS-2009,GS-2017",,,,-1
+GoogleScholar,5003,,62,profile,Composite,Peaked Scholar,3,Mixed,"GS-2003,GS-2008,GS-2018",,,,0
+GoogleScholar,5003,,62,profile,Composite,Peaked Scholar,4,Still Active,"GS-2002,GS-2007,GS-2019",,,,1
+GoogleScholar,5003,,62,profile,Composite,Peaked Scholar,5,Recently Peaked,"GS-2001,GS-2006,GS-2020",,,,2
+GoogleScholar,5004,,63,profile,Composite,Inactive but Impactful,1,Obscure & Inactive,"GS-2001,GS-3005",,,,-2
+GoogleScholar,5004,,63,profile,Composite,Inactive but Impactful,2,Low Impact & Inactive,"GS-2002,GS-3005",,,,-1
+GoogleScholar,5004,,63,profile,Composite,Inactive but Impactful,3,Medium Impact & Inactive,"GS-2003,GS-3005",,,,0
+GoogleScholar,5004,,63,profile,Composite,Inactive but Impactful,4,High Impact & Inactive,"GS-2004,GS-3005",,,,1
+GoogleScholar,5004,,63,profile,Composite,Inactive but Impactful,5,Very High Impact but Inactive,"GS-2005,GS-3005",,,,2
+GoogleScholar,5005,,64,profile,Composite,Depth vs Breadth,1,"Many Papers, Few Citations","GS-3010,GS-2002",,,,-2
+GoogleScholar,5005,,64,profile,Composite,Depth vs Breadth,2,"Some Papers, Few Citations","GS-3008,GS-2002",,,,-1
+GoogleScholar,5005,,64,profile,Composite,Depth vs Breadth,3,Balanced,"GS-3008,GS-2003",,,,0
+GoogleScholar,5005,,64,profile,Composite,Depth vs Breadth,4,"Few Papers, Strong Citations","GS-3007,GS-2004",,,,1
+GoogleScholar,5005,,64,profile,Composite,Depth vs Breadth,5,"Few Papers, Very Strong Citations","GS-3007,GS-2005",,,,2

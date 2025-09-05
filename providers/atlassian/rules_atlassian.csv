@@ -1,0 +1,31 @@
+id,category,label,metric,operator,value_low,value_high,value_exact,unit,window_value,window_unit,weight,is_gate
+AT-3000,Authenticity,Issues Data Present,issues_present,EXISTS,,,,boolean,,,0.04,FALSE
+AT-3010,Activity,Issues Created (0 in 90d),recent_issues_created_count,RANGE,0,0,,count,90,days,0,FALSE
+AT-3011,Activity,Issues Created (1–2 in 90d),recent_issues_created_count,RANGE,1,2,,count,90,days,0.02,FALSE
+AT-3012,Activity,Issues Created (3–5 in 90d),recent_issues_created_count,RANGE,3,5,,count,90,days,0.04,FALSE
+AT-3013,Activity,Issues Created (6–10 in 90d),recent_issues_created_count,RANGE,6,10,,count,90,days,0.06,FALSE
+AT-3014,Activity,Issues Created (11+ in 90d),recent_issues_created_count,RANGE,11,1000000,,count,90,days,0.08,FALSE
+AT-3020,Activity,Issues Updated (0 in 90d),recent_issues_updated_count,RANGE,0,0,,count,90,days,0,FALSE
+AT-3021,Activity,Issues Updated (1–4 in 90d),recent_issues_updated_count,RANGE,1,4,,count,90,days,0.02,FALSE
+AT-3022,Activity,Issues Updated (5–14 in 90d),recent_issues_updated_count,RANGE,5,14,,count,90,days,0.04,FALSE
+AT-3023,Activity,Issues Updated (15–39 in 90d),recent_issues_updated_count,RANGE,15,39,,count,90,days,0.06,FALSE
+AT-3024,Activity,Issues Updated (40+ in 90d),recent_issues_updated_count,RANGE,40,1000000,,count,90,days,0.08,FALSE
+AT-3030,Collaboration,Total Comments (0),comments_total_count,RANGE,0,0,,count,,,0,FALSE
+AT-3031,Collaboration,Total Comments (1–9),comments_total_count,RANGE,1,9,,count,,,0.02,FALSE
+AT-3032,Collaboration,Total Comments (10–49),comments_total_count,RANGE,10,49,,count,,,0.04,FALSE
+AT-3033,Collaboration,Total Comments (50–199),comments_total_count,RANGE,50,199,,count,,,0.06,FALSE
+AT-3034,Collaboration,Total Comments (200+),comments_total_count,RANGE,200,1000000,,count,,,0.08,FALSE
+AT-3040,Delivery,Total Worklogs (0),worklogs_total_count,RANGE,0,0,,count,,,0,FALSE
+AT-3041,Delivery,Total Worklogs (1–9),worklogs_total_count,RANGE,1,9,,count,,,0.02,FALSE
+AT-3042,Delivery,Total Worklogs (10–49),worklogs_total_count,RANGE,10,49,,count,,,0.04,FALSE
+AT-3043,Delivery,Total Worklogs (50–199),worklogs_total_count,RANGE,50,199,,count,,,0.06,FALSE
+AT-3044,Delivery,Total Worklogs (200+),worklogs_total_count,RANGE,200,1000000,,count,,,0.08,FALSE
+AT-3050,Breadth,Distinct Projects (1),projects_distinct_count,RANGE,1,1,,count,,,0.02,FALSE
+AT-3051,Breadth,Distinct Projects (2–3),projects_distinct_count,RANGE,2,3,,count,,,0.04,FALSE
+AT-3052,Breadth,Distinct Projects (4+),projects_distinct_count,RANGE,4,1000000,,count,,,0.06,FALSE
+AT-3060,Activity,Changelog Entries (0),changelog_entries_count,RANGE,0,0,,count,,,0,FALSE
+AT-3061,Activity,Changelog Entries (1–9),changelog_entries_count,RANGE,1,9,,count,,,0.02,FALSE
+AT-3062,Activity,Changelog Entries (10–49),changelog_entries_count,RANGE,10,49,,count,,,0.04,FALSE
+AT-3063,Activity,Changelog Entries (50–199),changelog_entries_count,RANGE,50,199,,count,,,0.06,FALSE
+AT-3064,Activity,Changelog Entries (200+),changelog_entries_count,RANGE,200,1000000,,count,,,0.08,FALSE
+

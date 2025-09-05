@@ -1,0 +1,59 @@
+id,category,label,metric,operator,value_low,value_high,value_exact,unit,window_value,window_unit,weight,is_gate
+KG-1001,Authenticity,Profile Present,profile_present,EXISTS,,,,boolean,,,0.02,FALSE
+KG-1002,Authenticity,Avatar Present,avatar_present,EXISTS,,,,boolean,,,0.01,FALSE
+KG-1003,Authenticity,Bio Present,bio_present,EXISTS,,,,boolean,,,0.01,FALSE
+KG-1004a,Authenticity,GitHub Username Present,github_username_present,EXISTS,,,,boolean,,,0.01,FALSE
+KG-1004b,Authenticity,Twitter Username Present,twitter_username_present,EXISTS,,,,boolean,,,0.01,FALSE
+KG-1004c,Authenticity,LinkedIn URL Present,linkedin_url_present,EXISTS,,,,boolean,,,0.01,FALSE
+KG-1004d,Authenticity,Website URL Present,website_url_present,EXISTS,,,,boolean,,,0.01,FALSE
+KG-1010a,Maturity,Account Age (0–6 months),account_age_months,RANGE,0,6,,months,,,0.00,FALSE
+KG-1010b,Maturity,Account Age (7–12 months),account_age_months,RANGE,7,12,,months,,,0.01,FALSE
+KG-1010c,Maturity,Account Age (13–24 months),account_age_months,RANGE,13,24,,months,,,0.02,FALSE
+KG-1010d,Maturity,Account Age (25–48 months),account_age_months,RANGE,25,48,,months,,,0.03,FALSE
+KG-1010e,Maturity,Account Age (49+ months),account_age_months,RANGE,49,1000,,months,,,0.04,FALSE
+KG-1020a,Activity,Last Active (≤30 days),last_active_days,RANGE,0,30,,days,,,0.04,FALSE
+KG-1020b,Activity,Last Active (31–90 days),last_active_days,RANGE,31,90,,days,,,0.03,FALSE
+KG-1020c,Activity,Last Active (91–180 days),last_active_days,RANGE,91,180,,days,,,0.01,FALSE
+KG-1020d,Activity,Last Active (181–365 days),last_active_days,RANGE,181,365,,days,,,0.00,FALSE
+KG-1020e,Activity,Last Active (>365 days),last_active_days,RANGE,366,5000,,days,,,-0.02,FALSE
+KG-1030a,Contribution,Datasets (0),datasets_count,RANGE,0,0,,count,,,0.00,FALSE
+KG-1030b,Contribution,Datasets (1–2),datasets_count,RANGE,1,2,,count,,,0.01,FALSE
+KG-1030c,Contribution,Datasets (3–5),datasets_count,RANGE,3,5,,count,,,0.02,FALSE
+KG-1030d,Contribution,Datasets (6–10),datasets_count,RANGE,6,10,,count,,,0.03,FALSE
+KG-1030e,Contribution,Datasets (11+),datasets_count,RANGE,11,1000,,count,,,0.05,FALSE
+KG-1031a,Contribution,Notebooks (0),notebooks_count,RANGE,0,0,,count,,,0.00,FALSE
+KG-1031b,Contribution,Notebooks (1–2),notebooks_count,RANGE,1,2,,count,,,0.01,FALSE
+KG-1031c,Contribution,Notebooks (3–5),notebooks_count,RANGE,3,5,,count,,,0.02,FALSE
+KG-1031d,Contribution,Notebooks (6–10),notebooks_count,RANGE,6,10,,count,,,0.03,FALSE
+KG-1031e,Contribution,Notebooks (11+),notebooks_count,RANGE,11,1000,,count,,,0.05,FALSE
+KG-1032a,Contribution,Discussions (0–10),discussions_count,RANGE,0,10,,count,,,0.00,FALSE
+KG-1032b,Contribution,Discussions (11–50),discussions_count,RANGE,11,50,,count,,,0.01,FALSE
+KG-1032c,Contribution,Discussions (51–200),discussions_count,RANGE,51,200,,count,,,0.02,FALSE
+KG-1032d,Contribution,Discussions (201–500),discussions_count,RANGE,201,500,,count,,,0.03,FALSE
+KG-1032e,Contribution,Discussions (501+),discussions_count,RANGE,501,100000,,count,,,0.05,FALSE
+KG-1033a,Contribution,Models (0),models_count,RANGE,0,0,,count,,,0.00,FALSE
+KG-1033b,Contribution,Models (1–2),models_count,RANGE,1,2,,count,,,0.01,FALSE
+KG-1033c,Contribution,Models (3–5),models_count,RANGE,3,5,,count,,,0.02,FALSE
+KG-1033d,Contribution,Models (6–10),models_count,RANGE,6,10,,count,,,0.03,FALSE
+KG-1033e,Contribution,Models (11+),models_count,RANGE,11,1000,,count,,,0.05,FALSE
+KG-1034a,Contribution,Hosted Competitions (0),hosted_competitions_count,RANGE,0,0,,count,,,0.00,FALSE
+KG-1034b,Contribution,Hosted Competitions (1),hosted_competitions_count,RANGE,1,1,,count,,,0.02,FALSE
+KG-1034c,Contribution,Hosted Competitions (2–3),hosted_competitions_count,RANGE,2,3,,count,,,0.03,FALSE
+KG-1034d,Contribution,Hosted Competitions (4–5),hosted_competitions_count,RANGE,4,5,,count,,,0.04,FALSE
+KG-1034e,Contribution,Hosted Competitions (6+),hosted_competitions_count,RANGE,6,1000,,count,,,0.06,FALSE
+KG-1035a,Contribution,Write-ups (0),writeups_count,RANGE,0,0,,count,,,0.00,FALSE
+KG-1035b,Contribution,Write-ups (1–2),writeups_count,RANGE,1,2,,count,,,0.01,FALSE
+KG-1035c,Contribution,Write-ups (3–5),writeups_count,RANGE,3,5,,count,,,0.02,FALSE
+KG-1035d,Contribution,Write-ups (6–10),writeups_count,RANGE,6,10,,count,,,0.03,FALSE
+KG-1035e,Contribution,Write-ups (11+),writeups_count,RANGE,11,1000,,count,,,0.04,FALSE
+KG-1040a,Reputation,Followers (0–10),followers_count,RANGE,0,10,,count,,,0.00,FALSE
+KG-1040b,Reputation,Followers (11–50),followers_count,RANGE,11,50,,count,,,0.01,FALSE
+KG-1040c,Reputation,Followers (51–200),followers_count,RANGE,51,200,,count,,,0.02,FALSE
+KG-1040d,Reputation,Followers (201–1000),followers_count,RANGE,201,1000,,count,,,0.03,FALSE
+KG-1040e,Reputation,Followers (1001+),followers_count,RANGE,1001,1000000,,count,,,0.05,FALSE
+KG-1050a,Achievement,Badges (0),badges_count,RANGE,0,0,,count,,,0.00,FALSE
+KG-1050b,Achievement,Badges (1–2),badges_count,RANGE,1,2,,count,,,0.01,FALSE
+KG-1050c,Achievement,Badges (3–5),badges_count,RANGE,3,5,,count,,,0.02,FALSE
+KG-1050d,Achievement,Badges (6–10),badges_count,RANGE,6,10,,count,,,0.03,FALSE
+KG-1050e,Achievement,Badges (11+),badges_count,RANGE,11,1000,,count,,,0.05,FALSE
+KG-1060,Achievement,Rare Badge Present,rare_badge_present,EXISTS,,,,boolean,,,0.05,FALSE

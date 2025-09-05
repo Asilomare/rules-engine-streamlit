@@ -1,0 +1,464 @@
+{
+    "linkedinUrl": "https://www.linkedin.com/in/harrisondoliver/",
+    "firstName": "Harrison",
+    "lastName": "Oliver",
+    "fullName": "Harrison Oliver",
+    "headline": "Technical Founder | Safeguarding American Innovation, One Developer at a Time",
+    "connections": 607,
+    "followers": 620,
+    "email": null,
+    "mobileNumber": null,
+    "jobTitle": "Founder",
+    "companyName": null,
+    "companyIndustry": null,
+    "companyWebsite": null,
+    "companyLinkedin": null,
+    "companyFoundedIn": null,
+    "companySize": null,
+    "currentJobDuration": "5 mos",
+    "currentJobDurationInYrs": 0.42,
+    "topSkillsByEndorsements": null,
+    "addressCountryOnly": null,
+    "addressWithCountry": null,
+    "addressWithoutCountry": null,
+    "profilePic": null,
+    "profilePicHighQuality": null,
+    "about": "I co-founded Know Your Developer™ (KYD), a developer trust platform that aggregates data from disparate open and permissioned sources to generate trust scores—portable, provable, and private. It helps companies verify technical talent based on real-world signals, not résumés or gamed tests—and empowers developers to own and share a verified record of their credibility.",
+    "publicIdentifier": "harrisondoliver",
+    "openConnection": null,
+    "urn": "ACoAAEBxDjoBjtJmOGRDWdQqPEz25jhzPJh5QPQ",
+    "experiences": [
+      {
+        "companyId": "107698117",
+        "companyUrn": "urn:li:fsd_company:107698117",
+        "companyLink1": "https://www.linkedin.com/company/107698117/",
+        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGFy9fTsOuLjQ/company-logo_100_100/B4EZi9e.Q6GYAQ-/0/1755525670265/knowyourdeveloper_logo?e=1759968000&v=beta&t=hN4hd7Ewq-UOAmnGhG3wQKmZ-va4TxD0dod97UFISn4",
+        "title": "Founder",
+        "subtitle": "Know Your Developer",
+        "caption": "May 2025 - Present · 5 mos",
+        "metadata": "United States · Hybrid",
+        "breakdown": false,
+        "subComponents": [
+          {
+            "description": [
+              {
+                "type": "textComponent",
+                "text": "Leading development for KYD™, a trust intelligence platform that assesses developer credibility, risk, and AI usage across public data sources. Spearheading system architecture, proprietary scoring algorithms, and secure data ingestion pipelines. Driving innovation in developer verification, compliance tooling, and AI accountability to support organizations operating in high-stakes, regulated environments."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "companyId": "82027817",
+        "companyUrn": "urn:li:fsd_company:82027817",
+        "companyLink1": "https://www.linkedin.com/company/82027817/",
+        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGmaK-FNvEq2A/company-logo_200_200/company-logo_200_200/0/1697664700151/simplify_d_logo?e=1759968000&v=beta&t=WfZx5R0JMytnzg3CG8OohycEGtr5RCcrI6MpPXqR7yM",
+        "title": "Cloud Architect and Developer",
+        "subtitle": "Simplify'd · Full-time",
+        "caption": "Aug 2022 - Jul 2025 · 3 yrs",
+        "metadata": "Hybrid",
+        "breakdown": false,
+        "subComponents": [
+          {
+            "description": [
+              {
+                "type": "textComponent",
+                "text": "𝗔𝗱𝗮𝗽𝘁𝗶𝘃𝗲 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝘁 𝗔𝗴𝗲𝗻𝘁: Developed an adaptive, event-driven agent automating end-to-end invoice ingestion, validation, and processing across diverse formats; natively integrates custom MCP servers, existing AWS services, and data pipelines, continuously refining itself through real-time analytics, unit testing, and client feedback to minimize manual intervention, enhance accuracy, and optimize throughput.\n\n𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝗲𝗱 𝗮𝗻𝗱 𝗱𝗲𝗽𝗹𝗼𝘆𝗲𝗱 𝗮 𝘀𝗲𝗿𝘃𝗲𝗿𝗹𝗲𝘀𝘀, 𝗔𝗜-𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗲𝗱 𝗱𝗼𝗰𝘂𝗺𝗲𝗻𝘁 𝗽𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺 using Python, AWS Lambda, and CDK—transforming unstructured client data into ERP-ready formats with automated QA and human-in-the-loop reviews.\n\n𝗗𝗿𝗼𝘃𝗲 𝗰𝗹𝗼𝘂𝗱-𝗻𝗮𝘁𝗶𝘃𝗲 𝗮𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 𝘀𝘁𝗿𝗮𝘁𝗲𝗴𝘆 using decoupled components (AWS SQS, task schedulers) to enable independent scaling, throughput resilience, and real-time operational visibility across high-volume workflows.\n\n𝗕𝘂𝗶𝗹𝘁 𝘀𝗲𝗰𝘂𝗿𝗲, 𝘀𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗥𝗘𝗦𝗧 𝗔𝗣𝗜𝘀 𝗮𝗻𝗱 𝗼𝗿𝗰𝗵𝗲𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻 𝗹𝗮𝘆𝗲𝗿𝘀 to support client integrations, third-party systems, and internal workflow management—enabling outcome-driven exception handling and pipeline optimization.\n\n𝗗𝗲𝗹𝗶𝘃𝗲𝗿𝗲𝗱 𝗿𝗮𝗽𝗶𝗱 𝘃𝗮𝗹𝘂𝗲 𝗰𝗿𝗲𝗮𝘁𝗶𝗼𝗻 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗿𝗲𝘂𝘀𝗮𝗯𝗹𝗲 𝗠𝗟 𝗰𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀, including an Accounts Payable automation pipeline that cut manual effort by 90% and a portable internal library for accelerated client onboarding.\n\n𝗔𝗰𝘁𝗲𝗱 𝗮𝘀 𝗮 𝘁𝗿𝘂𝘀𝘁𝗲𝗱 𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗮𝗱𝘃𝗶𝘀𝗼𝗿 𝘁𝗼 𝗲𝘅𝗲𝗰𝘂𝘁𝗶𝘃𝗲 𝘀𝘁𝗮𝗸𝗲𝗵𝗼𝗹𝗱𝗲𝗿𝘀, translating cloud, data, and AI opportunities into actionable strategies and leading cross-functional teams in execution with an entrepreneurial mindset."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "companyId": "89204006",
+        "companyUrn": "urn:li:fsd_company:89204006",
+        "companyLink1": "https://www.linkedin.com/company/89204006/",
+        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG6HFkQKcJQMw/company-logo_200_200/company-logo_200_200/0/1728697602846/athlete_squared_logo?e=1759968000&v=beta&t=-L2M7Ms5pwE1J9_XYRVWpxnnvO4kSEIgiSyF8AF67JU",
+        "title": "Full Stack Developer",
+        "subtitle": "Athlete Squared · Full-time",
+        "caption": "Jun 2023 - Apr 2024 · 11 mos",
+        "metadata": "Hybrid",
+        "breakdown": false,
+        "subComponents": [
+          {
+            "description": [
+              {
+                "type": "textComponent",
+                "text": "𝗗𝗲𝘀𝗶𝗴𝗻𝗲𝗱 𝗮𝗻𝗱 𝗶𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁𝗲𝗱 𝘁𝗵𝗲 𝗰𝗹𝗼𝘂𝗱-𝗻𝗮𝘁𝗶𝘃𝗲 𝗮𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 for Athlete Squared, enabling a secure, scalable, and resilient platform that supported 100% uptime at launch and scaled to support 10,000+ user sessions in early adoption.\n\n𝗗𝗶𝗿𝗲𝗰𝘁𝗲𝗱 𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗱𝗲𝗹𝗶𝘃𝗲𝗿𝘆 𝗼𝗳 𝘁𝗵𝗲 𝘃𝟭 𝗽𝗿𝗼𝗱𝘂𝗰𝘁 across application, data, mobile, and UX layers, achieving MVP launch in under 5 months from concept to production.\n\n𝗕𝘂𝗶𝗹𝘁 𝗮𝗻𝗱 𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗲𝗱 𝗰𝗼𝗿𝗲 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺 𝗳𝗲𝗮𝘁𝘂𝗿𝗲𝘀 including subscription billing, payment processing, a personalized recommendation engine, and creator-facing content tools, contributing to 40% user engagement growth in the first month.\n\n𝗕𝗮𝗹𝗮𝗻𝗰𝗲𝗱 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗹𝗲𝗮𝗱𝗲𝗿𝘀𝗵𝗶𝗽 𝘄𝗶𝘁𝗵 𝗵𝗮𝗻𝗱𝘀-𝗼𝗻 𝗰𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀, accelerating delivery velocity by 30% through streamlined collaboration across backend, frontend, and product teams."
+              },
+              {
+                "type": "mediaComponent",
+                "text": "Athlete Squared | Sports Training Videos From Your Favorite Athletes",
+                "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4D27AQFq8eGXQjuijw/articleshare-shrink_800/articleshare-shrink_800/0/1725506357551?e=1757379600&v=beta&t=DfX1-HdhgLamLhTad2Des-t0Pm8DZl9sedT8T61IM80"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "companyLink1": "https://www.linkedin.com/search/results/all/?keywords=Freelance",
+        "title": "Full Stack/AWS Cloud Engineer Freelance",
+        "subtitle": "Freelance",
+        "caption": "Jan 2021 - Aug 2022 · 1 yr 8 mos",
+        "breakdown": false,
+        "subComponents": [
+          {
+            "description": [
+              {
+                "type": "textComponent",
+                "text": "𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗱 𝗣𝘆𝘁𝗵𝗼𝗻-𝗯𝗮𝘀𝗲𝗱 𝘄𝗲𝗯 𝘀𝗰𝗿𝗮𝗽𝗲𝗿𝘀 to extract job listings and competitor data, gaining proficiency in HTML parsing, HTTP protocols, and automation using tools like BeautifulSoup and Selenium.\n\n𝗘𝘃𝗼𝗹𝘃𝗲𝗱 𝘀𝗰𝗿𝗮𝗽𝗶𝗻𝗴 𝘀𝗰𝗿𝗶𝗽𝘁𝘀 𝗶𝗻𝘁𝗼 𝗰𝗹𝗼𝘂𝗱-𝗯𝗮𝘀𝗲𝗱 𝗱𝗮𝘁𝗮 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀, using AWS Lambda, S3, and CloudWatch to support scheduled ingestion, error handling, and structured storage of high-volume job and competitive intelligence data.\n\n𝗘𝗮𝗿𝗻𝗲𝗱 𝘁𝗵𝗲 𝗔𝗪𝗦 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗔𝘀𝘀𝗼𝗰𝗶𝗮𝘁𝗲 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 by applying cloud development best practices to real-world projects—demonstrating skills in event-driven architecture, serverless deployment, and scalable data processing."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "updates": [],
+    "skills": [
+      {
+        "title": "Web Design",
+        "subComponents": [
+          {
+            "description": [
+              {
+                "type": "insightComponent",
+                "text": "Marketing Websites I've Built"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Next.js",
+        "subComponents": [
+          {
+            "description": [
+              {
+                "type": "insightComponent",
+                "text": "Marketing Websites I've Built"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Tailwind CSS",
+        "subComponents": [
+          {
+            "description": [
+              {
+                "type": "insightComponent",
+                "text": "Marketing Websites I've Built"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Digital Marketing",
+        "subComponents": [
+          {
+            "description": [
+              {
+                "type": "insightComponent",
+                "text": "Marketing Websites I've Built"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Search Engine Optimization (SEO)",
+        "subComponents": [
+          {
+            "description": [
+              {
+                "type": "insightComponent",
+                "text": "Marketing Websites I've Built"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Amazon Web Services (AWS)",
+        "subComponents": [
+          {
+            "description": [
+              {
+                "type": "insightComponent",
+                "text": "Multi‑Stage AWS Serverless Infrastructure CDK - Automated Canary CI/CD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "AWS CloudFormation",
+        "subComponents": [
+          {
+            "description": [
+              {
+                "type": "insightComponent",
+                "text": "Multi‑Stage AWS Serverless Infrastructure CDK - Automated Canary CI/CD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "AWS CDK",
+        "subComponents": [
+          {
+            "description": [
+              {
+                "type": "insightComponent",
+                "text": "Multi‑Stage AWS Serverless Infrastructure CDK - Automated Canary CI/CD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "CI/CD",
+        "subComponents": [
+          {
+            "description": [
+              {
+                "type": "insightComponent",
+                "text": "Multi‑Stage AWS Serverless Infrastructure CDK - Automated Canary CI/CD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Project Management",
+        "subComponents": [
+          {
+            "description": [
+              {
+                "type": "insightComponent",
+                "text": "2 experiences across Simplify'd and 1 other company"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Python (Programming Language)",
+        "subComponents": [
+          {
+            "description": [
+              {
+                "type": "insightComponent",
+                "text": "3 experiences across Simplify'd and 2 other companies"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Amazon Bedrock",
+        "subComponents": [
+          {
+            "description": [
+              {
+                "type": "insightComponent",
+                "text": "3 experiences across Simplify'd and 2 other companies"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Extract, Transform, Load (ETL)",
+        "subComponents": [
+          {
+            "description": [
+              {
+                "type": "insightComponent",
+                "text": "3 experiences across Simplify'd and 2 other companies"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Kubernetes",
+        "subComponents": [
+          {
+            "description": [
+              {
+                "type": "insightComponent",
+                "text": "3 experiences across Simplify'd and 2 other companies"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "DevOps",
+        "subComponents": [
+          {
+            "description": [
+              {
+                "type": "insightComponent",
+                "text": "3 experiences across Simplify'd and 2 other companies"
+              },
+              {
+                "type": "insightComponent",
+                "text": "Multi‑Stage AWS Serverless Infrastructure CDK - Automated Canary CI/CD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Prompt Engineering",
+        "subComponents": [
+          {
+            "description": [
+              {
+                "type": "insightComponent",
+                "text": "3 experiences across Simplify'd and 2 other companies"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Amazon SQS",
+        "subComponents": [
+          {
+            "description": [
+              {
+                "type": "insightComponent",
+                "text": "3 experiences across Simplify'd and 2 other companies"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Amazon Textract",
+        "subComponents": [
+          {
+            "description": []
+          }
+        ]
+      },
+      {
+        "title": "Amazon Relational Database Service (RDS)",
+        "subComponents": [
+          {
+            "description": [
+              {
+                "type": "insightComponent",
+                "text": "3 experiences across Simplify'd and 2 other companies"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Amazon Dynamodb",
+        "subComponents": [
+          {
+            "description": [
+              {
+                "type": "insightComponent",
+                "text": "3 experiences across Simplify'd and 2 other companies"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "profilePicAllDimensions": [],
+    "educations": [],
+    "licenseAndCertificates": [
+      {
+        "companyId": "2382910",
+        "companyUrn": "urn:li:fsd_company:2382910",
+        "companyLink1": "https://www.linkedin.com/company/2382910/",
+        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_400_400/B4EZgOay6gHEAg-/0/1752588562343/amazon_web_services_logo?e=1759968000&v=beta&t=pF_RhTFQIbrWl5q7tyP5OZZVigVCJ_D09MD_lQ6UHYY",
+        "title": "Amazon Web Services Solutions Architect - Associate",
+        "subtitle": "Amazon Web Services (AWS)",
+        "caption": "Issued Dec 2022 · Expires Jul 2026",
+        "breakdown": false,
+        "subComponents": [
+          {
+            "description": []
+          }
+        ]
+      },
+      {
+        "companyId": "2382910",
+        "companyUrn": "urn:li:fsd_company:2382910",
+        "companyLink1": "https://www.linkedin.com/company/2382910/",
+        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_400_400/B4EZgOay6gHEAg-/0/1752588562343/amazon_web_services_logo?e=1759968000&v=beta&t=pF_RhTFQIbrWl5q7tyP5OZZVigVCJ_D09MD_lQ6UHYY",
+        "title": "Amazon Web Services Cloud Practitioner",
+        "subtitle": "Amazon Web Services (AWS)",
+        "caption": "Issued Aug 2022 · Expired Aug 2023",
+        "breakdown": false,
+        "subComponents": [
+          {
+            "description": []
+          }
+        ]
+      }
+    ],
+    "honorsAndAwards": [],
+    "languages": [],
+    "volunteerAndAwards": [],
+    "verifications": [],
+    "promos": [],
+    "highlights": [],
+    "projects": [
+      {
+        "title": "Multi‑Stage AWS Serverless Infrastructure CDK - Automated Canary CI/CD",
+        "subtitle": "Jan 2024 - Mar 2025",
+        "breakdown": false,
+        "subComponents": [
+          {
+            "description": [
+              {
+                "type": "textComponent",
+                "text": "Designed and built end‑to‑end AWS infrastructure for a production SaaS using CDK (Python). Multi‑stage (zeta→prod) strategy with immutable IaC, least‑privilege IAM, parameterized config, and reusable Lambda layers. CI/CD via CodePipeline with automated canary tests gating promotions, PR fan‑out across repos, and safe business‑hours deploys. Scalable stack: API Gateway/Lambda, DynamoDB, OpenSearch, S3, CloudFront, Cognito, and CloudWatch. Outcome: reliable, auditable, zero‑drift releases."
+              },
+              {
+                "type": "mediaComponent",
+                "text": "Hurd App",
+                "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4E27AQF2XM_R9RvZdQ/articleshare-shrink_1280_800/B4EZj2D7fgGwAQ-/0/1756474882376?e=1757379600&v=beta&t=IG49ymPY8sVUZYAU9jCZy8HphbqrZksa2ERIPZH_Pxs"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Marketing Websites I've Built",
+        "subtitle": "Jan 2023 - Jan 2025",
+        "breakdown": false,
+        "subComponents": [
+          {
+            "description": [
+              {
+                "type": "textComponent",
+                "text": "Here's a collection of marketing websites I've created for different clients. They're all pure front-end builds with a focus on clean, modern design."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publications": [],
+    "patents": [],
+    "courses": [],
+    "testScores": [],
+    "organizations": [],
+    "volunteerCauses": [],
+    "interests": [],
+    "recommendations": []
+  }

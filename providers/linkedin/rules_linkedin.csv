@@ -1,0 +1,121 @@
+id,category,label,metric,operator,value_low,value_high,value_exact,unit,window_value,window_unit,weight,is_gate
+LI-1000,Authenticity,Profile Present,profile_present,EXISTS,,,,boolean,,,0.04,FALSE
+LI-1001,Authenticity,Profile Image Present,profile_image_present,EXISTS,,,,boolean,,,0.03,FALSE
+LI-1002,Authenticity,About Present,about_present,EXISTS,,,,boolean,,,0.02,FALSE
+LI-1003,Authenticity,Location Present,location_present,EXISTS,,,,boolean,,,0.02,FALSE
+LI-1004,Authenticity,Country Present,country_present,EXISTS,,,,boolean,,,0.02,FALSE
+LI-1005,Authenticity,Public Email Present,public_email_present,EXISTS,,,,boolean,,,0.02,FALSE
+LI-1006,Authenticity,Current Company Present,current_company_present,EXISTS,,,,boolean,,,0.04,FALSE
+LI-1007,Authenticity,Current Title Present,current_title_present,EXISTS,,,,boolean,,,0.04,FALSE
+LI-1008,Authenticity,HTTPS Website Present,has_https_website,EXISTS,,,,boolean,,,0.02,FALSE
+LI-1009,Authenticity,Custom Vanity URL,public_profile_custom_slug,EXISTS,,,,boolean,,,0.02,FALSE
+LI-1010,Authenticity,Name vs Username Distinct,name_username_distinct,EXISTS,,,,boolean,,,0.02,FALSE
+LI-1101,Authenticity,Headline Length (0–19),headline_length_chars,RANGE,0,19,,chars,,, -0.03,FALSE
+LI-1102,Authenticity,Headline Length (20–60),headline_length_chars,RANGE,20,60,,chars,,,-0.01,FALSE
+LI-1103,Authenticity,Headline Length (61–120),headline_length_chars,RANGE,61,120,,chars,,,0.02,FALSE
+LI-1104,Authenticity,Headline Length (121–180),headline_length_chars,RANGE,121,180,,chars,,,0.03,FALSE
+LI-1105,Authenticity,Headline Length (181+),headline_length_chars,RANGE,181,1000000,,chars,,,0.03,FALSE
+LI-1201,Authenticity,About Length (0–99),about_length_chars,RANGE,0,99,,chars,,,-0.02,FALSE
+LI-1202,Authenticity,About Length (100–299),about_length_chars,RANGE,100,299,,chars,,,0.00,FALSE
+LI-1203,Authenticity,About Length (300–799),about_length_chars,RANGE,300,799,,chars,,,0.03,FALSE
+LI-1204,Authenticity,About Length (800–1499),about_length_chars,RANGE,800,1499,,chars,,,0.04,FALSE
+LI-1205,Authenticity,About Length (1500+),about_length_chars,RANGE,1500,1000000,,chars,,,0.05,FALSE
+LI-1301,Authenticity,Current Role Tenure (0–2 mo),current_role_tenure_months,RANGE,0,2,,months,,,-0.03,FALSE
+LI-1302,Authenticity,Current Role Tenure (3–12 mo),current_role_tenure_months,RANGE,3,12,,months,,,-0.01,FALSE
+LI-1303,Authenticity,Current Role Tenure (13–24 mo),current_role_tenure_months,RANGE,13,24,,months,,,0.01,FALSE
+LI-1304,Authenticity,Current Role Tenure (25–36 mo),current_role_tenure_months,RANGE,25,36,,months,,,0.02,FALSE
+LI-1305,Authenticity,Current Role Tenure (37+ mo),current_role_tenure_months,RANGE,37,1000000,,months,,,0.03,FALSE
+LI-2001,Capability,Experience Count (0),experience_count,RANGE,0,0,,count,,,-0.04,FALSE
+LI-2002,Capability,Experience Count (1–2),experience_count,RANGE,1,2,,count,,,-0.01,FALSE
+LI-2003,Capability,Experience Count (3–5),experience_count,RANGE,3,5,,count,,,0.02,FALSE
+LI-2004,Capability,Experience Count (6–10),experience_count,RANGE,6,10,,count,,,0.03,FALSE
+LI-2005,Capability,Experience Count (11+),experience_count,RANGE,11,1000000,,count,,,0.04,FALSE
+LI-2101,Capability,Education Count (0),education_count,RANGE,0,0,,count,,,0.00,FALSE
+LI-2102,Capability,Education Count (1),education_count,RANGE,1,1,,count,,,0.01,FALSE
+LI-2103,Capability,Education Count (2–3),education_count,RANGE,2,3,,count,,,0.02,FALSE
+LI-2104,Capability,Education Count (4–5),education_count,RANGE,4,5,,count,,,0.03,FALSE
+LI-2105,Capability,Education Count (6+),education_count,RANGE,6,1000000,,count,,,0.04,FALSE
+LI-2201,Capability,Languages Count (0),languages_count,RANGE,0,0,,count,,,0.00,FALSE
+LI-2202,Capability,Languages Count (1–2),languages_count,RANGE,1,2,,count,,,0.01,FALSE
+LI-2203,Capability,Languages Count (3–4),languages_count,RANGE,3,4,,count,,,0.02,FALSE
+LI-2204,Capability,Languages Count (5–6),languages_count,RANGE,5,6,,count,,,0.03,FALSE
+LI-2205,Capability,Languages Count (7+),languages_count,RANGE,7,1000000,,count,,,0.04,FALSE
+LI-2301,Capability,Followers (0–99),followers_count,RANGE,0,99,,count,,,-0.02,FALSE
+LI-2302,Capability,Followers (100–499),followers_count,RANGE,100,499,,count,,,0.01,FALSE
+LI-2303,Capability,Followers (500–999),followers_count,RANGE,500,999,,count,,,0.03,FALSE
+LI-2304,Capability,Followers (1000–4999),followers_count,RANGE,1000,4999,,count,,,0.04,FALSE
+LI-2305,Capability,Followers (5000+),followers_count,RANGE,5000,100000000,,count,,,0.06,FALSE
+LI-2401,Authenticity,Websites Listed (0),websites_count,RANGE,0,0,,count,,,0.00,FALSE
+LI-2402,Authenticity,Websites Listed (1),websites_count,RANGE,1,1,,count,,,0.01,FALSE
+LI-2403,Authenticity,Websites Listed (2–3),websites_count,RANGE,2,3,,count,,,0.02,FALSE
+LI-2404,Authenticity,Websites Listed (4–5),websites_count,RANGE,4,5,,count,,,0.03,FALSE
+LI-2405,Authenticity,Websites Listed (6+),websites_count,RANGE,6,1000000,,count,,,0.03,FALSE
+LI-1001-F,Authenticity,No Profile Image,profile_image_present,MISSING,,,,boolean,,,0.00,FALSE
+LI-1002,Authenticity,Background Photo Present,background_image_present,EXISTS,,,,boolean,,,0.02,FALSE
+LI-1002-F,Authenticity,No Background Photo,background_image_present,MISSING,,,,boolean,,,0.00,FALSE
+LI-1004-F,Authenticity,No About,about_present,MISSING,,,,boolean,,,0.00,FALSE
+LI-1006-F,Authenticity,No Location,location_present,MISSING,,,,boolean,,,0.00,FALSE
+LI-1007-F,Authenticity,No Country,country_present,MISSING,,,,boolean,,,0.00,FALSE
+LI-1008,Authenticity,Public Profile URL Present,public_profile_url_present,EXISTS,,,,boolean,,,0.02,FALSE
+LI-1008-F,Authenticity,No Public Profile URL,public_profile_url_present,MISSING,,,,boolean,,,0.00,FALSE
+LI-2012,Capability,Creator Mode On,creator_mode_on,EQ,,,TRUE,boolean,,,0.02,FALSE
+LI-2012-F,Capability,Creator Mode Off,creator_mode_on,EQ,,,FALSE,boolean,,,0.00,FALSE
+LI-2013,Capability,Open To Work,open_to_work,EQ,,,TRUE,boolean,,,0.01,FALSE
+LI-2013-F,Capability,Not Open To Work,open_to_work,EQ,,,FALSE,boolean,,,0.00,FALSE
+LI-2014,Capability,Provides Services,provides_services,EQ,,,TRUE,boolean,,,0.02,FALSE
+LI-2014-F,Capability,No Services,provides_services,EQ,,,FALSE,boolean,,,0.00,FALSE
+LI-2015,Capability,Premium Badge,premium_badge,EQ,,,TRUE,boolean,,,0.01,FALSE
+LI-2015-F,Capability,No Premium Badge,premium_badge,EQ,,,FALSE,boolean,,,0.00,FALSE
+LI-2017,Authenticity,Company Name Present,company_name_present,EXISTS,,,,boolean,,,0.03,FALSE
+LI-2017-F,Authenticity,No Company Name,company_name_present,MISSING,,,,boolean,,,0.00,FALSE
+LI-2018,Authenticity,Company Industry Present,company_industry_present,EXISTS,,,,boolean,,,0.02,FALSE
+LI-2018-F,Authenticity,No Company Industry,company_industry_present,MISSING,,,,boolean,,,0.00,FALSE
+LI-2019,Authenticity,Company Website Present,company_website_present,EXISTS,,,,boolean,,,0.02,FALSE
+LI-2019-F,Authenticity,No Company Website,company_website_present,MISSING,,,,boolean,,,0.00,FALSE
+LI-2020,Authenticity,Company Website HTTPS OK,company_website_https_ok,EQ,,,TRUE,boolean,,,0.02,FALSE
+LI-2020-F,Authenticity,Company Website Not HTTPS,company_website_https_ok,EQ,,,FALSE,boolean,,,0.00,FALSE
+LI-2004-01,Capability,Skills Count (0),skills_count,RANGE,0,0,,count,,,-0.03,FALSE
+LI-2004-02,Capability,Skills Count (1–9),skills_count,RANGE,1,9,,count,,,0.00,FALSE
+LI-2004-03,Capability,Skills Count (10–24),skills_count,RANGE,10,24,,count,,,0.02,FALSE
+LI-2004-04,Capability,Skills Count (25–49),skills_count,RANGE,25,49,,count,,,0.04,FALSE
+LI-2004-05,Capability,Skills Count (50+),skills_count,RANGE,50,1000000,,count,,,0.05,FALSE
+LI-2006-01,Capability,Honors & Awards (0),honors_awards_count,RANGE,0,0,,count,,,0.00,FALSE
+LI-2006-02,Capability,Honors & Awards (1–2),honors_awards_count,RANGE,1,2,,count,,,0.01,FALSE
+LI-2006-03,Capability,Honors & Awards (3–5),honors_awards_count,RANGE,3,5,,count,,,0.02,FALSE
+LI-2006-04,Capability,Honors & Awards (6–9),honors_awards_count,RANGE,6,9,,count,,,0.03,FALSE
+LI-2006-05,Capability,Honors & Awards (10+),honors_awards_count,RANGE,10,1000000,,count,,,0.04,FALSE
+LI-2009-01,Capability,Recommendations Received (0),recommendations_received_count,RANGE,0,0,,count,,,0.00,FALSE
+LI-2009-02,Capability,Recommendations Received (1–4),recommendations_received_count,RANGE,1,4,,count,,,0.02,FALSE
+LI-2009-03,Capability,Recommendations Received (5–9),recommendations_received_count,RANGE,5,9,,count,,,0.04,FALSE
+LI-2009-04,Capability,Recommendations Received (10–19),recommendations_received_count,RANGE,10,19,,count,,,0.05,FALSE
+LI-2009-05,Capability,Recommendations Received (20+),recommendations_received_count,RANGE,20,1000000,,count,,,0.06,FALSE
+LI-2010-01,Capability,Recommendations Given (0),recommendations_given_count,RANGE,0,0,,count,,,0.00,FALSE
+LI-2010-02,Capability,Recommendations Given (1–4),recommendations_given_count,RANGE,1,4,,count,,,0.01,FALSE
+LI-2010-03,Capability,Recommendations Given (5–9),recommendations_given_count,RANGE,5,9,,count,,,0.02,FALSE
+LI-2010-04,Capability,Recommendations Given (10–19),recommendations_given_count,RANGE,10,19,,count,,,0.03,FALSE
+LI-2010-05,Capability,Recommendations Given (20+),recommendations_given_count,RANGE,20,1000000,,count,,,0.04,FALSE
+LI-2011-01,Capability,Top Skill Endorsements (0),top_skill_endorsements_total,RANGE,0,0,,count,,,0.00,FALSE
+LI-2011-02,Capability,Top Skill Endorsements (1–24),top_skill_endorsements_total,RANGE,1,24,,count,,,0.02,FALSE
+LI-2011-03,Capability,Top Skill Endorsements (25–49),top_skill_endorsements_total,RANGE,25,49,,count,,,0.04,FALSE
+LI-2011-04,Capability,Top Skill Endorsements (50–99),top_skill_endorsements_total,RANGE,50,99,,count,,,0.05,FALSE
+LI-2011-05,Capability,Top Skill Endorsements (100+),top_skill_endorsements_total,RANGE,100,1000000,,count,,,0.06,FALSE
+LI-2016-01,Capability,Featured Items (0),featured_items_count,RANGE,0,0,,count,,,0.00,FALSE
+LI-2016-02,Capability,Featured Items (1–2),featured_items_count,RANGE,1,2,,count,,,0.02,FALSE
+LI-2016-03,Capability,Featured Items (3–5),featured_items_count,RANGE,3,5,,count,,,0.03,FALSE
+LI-2016-04,Capability,Featured Items (6–9),featured_items_count,RANGE,6,9,,count,,,0.04,FALSE
+LI-2016-05,Capability,Featured Items (10+),featured_items_count,RANGE,10,1000000,,count,,,0.05,FALSE
+LI-3001-01,Capability,Total Experience (<1y),total_experience_years,LT,,,1,years,,, -0.03,FALSE
+LI-3001-02,Capability,Total Experience (1–3y),total_experience_years,BETWEEN,1,3,,years,,,-0.01,FALSE
+LI-3001-03,Capability,Total Experience (4–7y),total_experience_years,BETWEEN,4,7,,years,,,0.01,FALSE
+LI-3001-04,Capability,Total Experience (8–14y),total_experience_years,BETWEEN,8,14,,years,,,0.03,FALSE
+LI-3001-05,Capability,Total Experience (15+y),total_experience_years,GTE,,,15,years,,,0.05,FALSE
+LI-3002-01,Risk,Job Changes (0 in 2y),job_changes_last2y_count,EQ,,,0,count,,,0.02,FALSE
+LI-3002-02,Risk,Job Changes (1 in 2y),job_changes_last2y_count,EQ,,,1,count,,,0.00,FALSE
+LI-3002-03,Risk,Job Changes (2–3 in 2y),job_changes_last2y_count,BETWEEN,2,3,,count,,,-0.02,FALSE
+LI-3002-04,Risk,Job Changes (4–5 in 2y),job_changes_last2y_count,BETWEEN,4,5,,count,,,-0.04,FALSE
+LI-3002-05,Risk,Job Changes (6+ in 2y),job_changes_last2y_count,GTE,,,6,count,,,-0.06,FALSE
+LI-3003-01,Risk,Experience Gap (0 mo),experience_gap_max_months,EQ,,,0,months,,,0.02,FALSE
+LI-3003-02,Risk,Experience Gap (1–3 mo),experience_gap_max_months,BETWEEN,1,3,,months,,,0.00,FALSE
+LI-3003-03,Risk,Experience Gap (4–6 mo),experience_gap_max_months,BETWEEN,4,6,,months,,,-0.01,FALSE
+LI-3003-04,Risk,Experience Gap (7–12 mo),experience_gap_max_months,BETWEEN,7,12,,months,,,-0.03,FALSE
+LI-3003-05,Risk,Experience Gap (13+ mo),experience_gap_max_months,GTE,,,13,months,,,-0.05,FALSE

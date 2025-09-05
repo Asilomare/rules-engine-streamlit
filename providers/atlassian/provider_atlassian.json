@@ -1,0 +1,3064 @@
+[
+  {
+    "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+    "id": "14028",
+    "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/14028",
+    "key": "HD-1009",
+    "renderedFields": {
+      "summary": null,
+      "issuetype": null,
+      "created": "01/Aug/25 4:42 PM",
+      "project": null,
+      "priority": null,
+      "timetracking": {},
+      "labels": null,
+      "votes": null,
+      "comment": {
+        "comments": [],
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/14028/comment",
+        "maxResults": 0,
+        "total": 0,
+        "startAt": 0
+      },
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "updated": "06/Aug/25 2:13 AM",
+      "status": null
+    },
+    "changelog": {
+      "startAt": 0,
+      "maxResults": 6,
+      "total": 6,
+      "histories": [
+        {
+          "id": "21024",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-08-06T02:13:31.265+0000",
+          "items": [
+            {
+              "field": "description",
+              "fieldtype": "jira",
+              "fieldId": "description",
+              "from": null,
+              "fromString": null,
+              "to": null,
+              "toString": "[^PX-Generative + Moderation + Gamification Infra Resources-060825-021203.pdf]\n\n"
+            }
+          ]
+        },
+        {
+          "id": "21000",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-08-05T21:17:27.564+0000",
+          "items": [
+            {
+              "field": "Story point estimate",
+              "fieldtype": "custom",
+              "fieldId": "customfield_10016",
+              "from": null,
+              "fromString": "2",
+              "to": null,
+              "toString": "1"
+            }
+          ]
+        },
+        {
+          "id": "20999",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-08-05T21:17:19.946+0000",
+          "items": [
+            {
+              "field": "Story point estimate",
+              "fieldtype": "custom",
+              "fieldId": "customfield_10016",
+              "from": null,
+              "fromString": null,
+              "to": null,
+              "toString": "2"
+            }
+          ]
+        },
+        {
+          "id": "20930",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-08-05T00:21:30.619+0000",
+          "items": [
+            {
+              "field": "Sprint",
+              "fieldtype": "custom",
+              "fieldId": "customfield_10020",
+              "from": "195",
+              "fromString": "July Sprint",
+              "to": "195, 228",
+              "toString": "July Sprint, August Sprint"
+            }
+          ]
+        },
+        {
+          "id": "20821",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-08-01T16:42:33.572+0000",
+          "items": [
+            {
+              "field": "summary",
+              "fieldtype": "jira",
+              "fieldId": "summary",
+              "from": null,
+              "fromString": "Add 3 new services to Infra: Moderation, Gamification, and whenever I create it, Generative services",
+              "to": null,
+              "toString": "Add 3 new services to Infra: Moderation, Gamification, and whenever I create it, Generative services, so start off by linking first 2 existing ones first "
+            }
+          ]
+        },
+        {
+          "id": "20820",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-08-01T16:42:17.460+0000",
+          "items": [
+            {
+              "field": "Sprint",
+              "fieldtype": "custom",
+              "fieldId": "customfield_10020",
+              "from": "",
+              "fromString": "",
+              "to": "195",
+              "toString": "July Sprint"
+            }
+          ]
+        }
+      ]
+    },
+    "fields": {
+      "summary": "Add 3 new services to Infra: Moderation, Gamification, and whenever I create it, Generative services, so start off by linking first 2 existing ones first ",
+      "issuetype": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issuetype/10011",
+        "id": "10011",
+        "description": "Tasks track small, distinct pieces of work.",
+        "iconUrl": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+        "name": "Task",
+        "subtask": false,
+        "avatarId": 10318,
+        "entityId": "bfd8a226-6bb8-4f71-9120-21484cc37368",
+        "hierarchyLevel": 0
+      },
+      "created": "2025-08-01T16:42:16.658+0000",
+      "project": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/project/10003",
+        "id": "10003",
+        "key": "HD",
+        "name": "Hurd",
+        "projectTypeKey": "software",
+        "simplified": true,
+        "avatarUrls": {
+          "48x48": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400",
+          "24x24": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=small",
+          "16x16": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=xsmall",
+          "32x32": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=medium"
+        }
+      },
+      "priority": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/priority/3",
+        "iconUrl": "https://project-x-dev.atlassian.net/images/icons/priorities/medium_new.svg",
+        "name": "Medium",
+        "id": "3"
+      },
+      "timetracking": {},
+      "labels": [],
+      "votes": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/HD-1009/votes",
+        "votes": 0,
+        "hasVoted": false
+      },
+      "comment": {
+        "comments": [],
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/14028/comment",
+        "maxResults": 0,
+        "total": 0,
+        "startAt": 0
+      },
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "updated": "2025-08-06T02:13:31.265+0000",
+      "status": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/status/10007",
+        "description": "",
+        "iconUrl": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/",
+        "name": "To Do",
+        "id": "10007",
+        "statusCategory": {
+          "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/statuscategory/2",
+          "id": 2,
+          "key": "new",
+          "colorName": "blue-gray",
+          "name": "To Do"
+        }
+      }
+    }
+  },
+  {
+    "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+    "id": "14131",
+    "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/14131",
+    "key": "HD-1027",
+    "renderedFields": {
+      "summary": null,
+      "issuetype": null,
+      "created": "05/Aug/25 9:20 PM",
+      "project": null,
+      "priority": null,
+      "timetracking": {},
+      "labels": null,
+      "votes": null,
+      "comment": {
+        "comments": [],
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/14131/comment",
+        "maxResults": 0,
+        "total": 0,
+        "startAt": 0
+      },
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "updated": "05/Aug/25 9:20 PM",
+      "status": null
+    },
+    "changelog": {
+      "startAt": 0,
+      "maxResults": 1,
+      "total": 1,
+      "histories": [
+        {
+          "id": "21008",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-08-05T21:20:56.686+0000",
+          "items": [
+            {
+              "field": "Sprint",
+              "fieldtype": "custom",
+              "fieldId": "customfield_10020",
+              "from": "",
+              "fromString": "",
+              "to": "228",
+              "toString": "August Sprint"
+            }
+          ]
+        }
+      ]
+    },
+    "fields": {
+      "summary": "Create Eventbridge rules for all 3 services",
+      "issuetype": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issuetype/10011",
+        "id": "10011",
+        "description": "Tasks track small, distinct pieces of work.",
+        "iconUrl": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+        "name": "Task",
+        "subtask": false,
+        "avatarId": 10318,
+        "entityId": "bfd8a226-6bb8-4f71-9120-21484cc37368",
+        "hierarchyLevel": 0
+      },
+      "created": "2025-08-05T21:20:56.022+0000",
+      "project": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/project/10003",
+        "id": "10003",
+        "key": "HD",
+        "name": "Hurd",
+        "projectTypeKey": "software",
+        "simplified": true,
+        "avatarUrls": {
+          "48x48": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400",
+          "24x24": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=small",
+          "16x16": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=xsmall",
+          "32x32": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=medium"
+        }
+      },
+      "priority": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/priority/3",
+        "iconUrl": "https://project-x-dev.atlassian.net/images/icons/priorities/medium_new.svg",
+        "name": "Medium",
+        "id": "3"
+      },
+      "timetracking": {},
+      "labels": [],
+      "votes": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/HD-1027/votes",
+        "votes": 0,
+        "hasVoted": false
+      },
+      "comment": {
+        "comments": [],
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/14131/comment",
+        "maxResults": 0,
+        "total": 0,
+        "startAt": 0
+      },
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "updated": "2025-08-05T21:20:56.686+0000",
+      "status": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/status/10007",
+        "description": "",
+        "iconUrl": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/",
+        "name": "To Do",
+        "id": "10007",
+        "statusCategory": {
+          "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/statuscategory/2",
+          "id": 2,
+          "key": "new",
+          "colorName": "blue-gray",
+          "name": "To Do"
+        }
+      }
+    }
+  },
+  {
+    "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+    "id": "14130",
+    "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/14130",
+    "key": "HD-1026",
+    "renderedFields": {
+      "summary": null,
+      "issuetype": null,
+      "created": "05/Aug/25 9:20 PM",
+      "project": null,
+      "priority": null,
+      "timetracking": {},
+      "labels": null,
+      "votes": null,
+      "comment": {
+        "comments": [],
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/14130/comment",
+        "maxResults": 0,
+        "total": 0,
+        "startAt": 0
+      },
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "updated": "05/Aug/25 9:20 PM",
+      "status": null
+    },
+    "changelog": {
+      "startAt": 0,
+      "maxResults": 1,
+      "total": 1,
+      "histories": [
+        {
+          "id": "21006",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-08-05T21:20:49.791+0000",
+          "items": [
+            {
+              "field": "Sprint",
+              "fieldtype": "custom",
+              "fieldId": "customfield_10020",
+              "from": "",
+              "fromString": "",
+              "to": "228",
+              "toString": "August Sprint"
+            }
+          ]
+        }
+      ]
+    },
+    "fields": {
+      "summary": "Create API GW for all 3 services",
+      "issuetype": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issuetype/10011",
+        "id": "10011",
+        "description": "Tasks track small, distinct pieces of work.",
+        "iconUrl": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+        "name": "Task",
+        "subtask": false,
+        "avatarId": 10318,
+        "entityId": "bfd8a226-6bb8-4f71-9120-21484cc37368",
+        "hierarchyLevel": 0
+      },
+      "created": "2025-08-05T21:20:49.138+0000",
+      "project": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/project/10003",
+        "id": "10003",
+        "key": "HD",
+        "name": "Hurd",
+        "projectTypeKey": "software",
+        "simplified": true,
+        "avatarUrls": {
+          "48x48": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400",
+          "24x24": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=small",
+          "16x16": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=xsmall",
+          "32x32": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=medium"
+        }
+      },
+      "priority": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/priority/3",
+        "iconUrl": "https://project-x-dev.atlassian.net/images/icons/priorities/medium_new.svg",
+        "name": "Medium",
+        "id": "3"
+      },
+      "timetracking": {},
+      "labels": [],
+      "votes": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/HD-1026/votes",
+        "votes": 0,
+        "hasVoted": false
+      },
+      "comment": {
+        "comments": [],
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/14130/comment",
+        "maxResults": 0,
+        "total": 0,
+        "startAt": 0
+      },
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "updated": "2025-08-05T21:20:49.791+0000",
+      "status": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/status/10007",
+        "description": "",
+        "iconUrl": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/",
+        "name": "To Do",
+        "id": "10007",
+        "statusCategory": {
+          "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/statuscategory/2",
+          "id": 2,
+          "key": "new",
+          "colorName": "blue-gray",
+          "name": "To Do"
+        }
+      }
+    }
+  },
+  {
+    "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+    "id": "14129",
+    "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/14129",
+    "key": "HD-1025",
+    "renderedFields": {
+      "summary": null,
+      "issuetype": null,
+      "created": "05/Aug/25 9:20 PM",
+      "project": null,
+      "priority": null,
+      "timetracking": {},
+      "labels": null,
+      "votes": null,
+      "comment": {
+        "comments": [],
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/14129/comment",
+        "maxResults": 0,
+        "total": 0,
+        "startAt": 0
+      },
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "updated": "05/Aug/25 9:20 PM",
+      "status": null
+    },
+    "changelog": {
+      "startAt": 0,
+      "maxResults": 1,
+      "total": 1,
+      "histories": [
+        {
+          "id": "21004",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-08-05T21:20:39.261+0000",
+          "items": [
+            {
+              "field": "Sprint",
+              "fieldtype": "custom",
+              "fieldId": "customfield_10020",
+              "from": "",
+              "fromString": "",
+              "to": "228",
+              "toString": "August Sprint"
+            }
+          ]
+        }
+      ]
+    },
+    "fields": {
+      "summary": "Create DDB tables for all 3 services",
+      "issuetype": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issuetype/10011",
+        "id": "10011",
+        "description": "Tasks track small, distinct pieces of work.",
+        "iconUrl": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+        "name": "Task",
+        "subtask": false,
+        "avatarId": 10318,
+        "entityId": "bfd8a226-6bb8-4f71-9120-21484cc37368",
+        "hierarchyLevel": 0
+      },
+      "created": "2025-08-05T21:20:38.588+0000",
+      "project": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/project/10003",
+        "id": "10003",
+        "key": "HD",
+        "name": "Hurd",
+        "projectTypeKey": "software",
+        "simplified": true,
+        "avatarUrls": {
+          "48x48": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400",
+          "24x24": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=small",
+          "16x16": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=xsmall",
+          "32x32": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=medium"
+        }
+      },
+      "priority": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/priority/3",
+        "iconUrl": "https://project-x-dev.atlassian.net/images/icons/priorities/medium_new.svg",
+        "name": "Medium",
+        "id": "3"
+      },
+      "timetracking": {},
+      "labels": [],
+      "votes": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/HD-1025/votes",
+        "votes": 0,
+        "hasVoted": false
+      },
+      "comment": {
+        "comments": [],
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/14129/comment",
+        "maxResults": 0,
+        "total": 0,
+        "startAt": 0
+      },
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "updated": "2025-08-05T21:20:39.261+0000",
+      "status": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/status/10007",
+        "description": "",
+        "iconUrl": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/",
+        "name": "To Do",
+        "id": "10007",
+        "statusCategory": {
+          "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/statuscategory/2",
+          "id": 2,
+          "key": "new",
+          "colorName": "blue-gray",
+          "name": "To Do"
+        }
+      }
+    }
+  },
+  {
+    "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+    "id": "14128",
+    "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/14128",
+    "key": "HD-1024",
+    "renderedFields": {
+      "summary": null,
+      "issuetype": null,
+      "created": "05/Aug/25 9:20 PM",
+      "project": null,
+      "priority": null,
+      "timetracking": {},
+      "labels": null,
+      "votes": null,
+      "comment": {
+        "comments": [],
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/14128/comment",
+        "maxResults": 0,
+        "total": 0,
+        "startAt": 0
+      },
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "updated": "05/Aug/25 9:20 PM",
+      "status": null
+    },
+    "changelog": {
+      "startAt": 0,
+      "maxResults": 1,
+      "total": 1,
+      "histories": [
+        {
+          "id": "21002",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-08-05T21:20:31.802+0000",
+          "items": [
+            {
+              "field": "Sprint",
+              "fieldtype": "custom",
+              "fieldId": "customfield_10020",
+              "from": "",
+              "fromString": "",
+              "to": "228",
+              "toString": "August Sprint"
+            }
+          ]
+        }
+      ]
+    },
+    "fields": {
+      "summary": "Create Lambdas for all 3 services",
+      "issuetype": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issuetype/10011",
+        "id": "10011",
+        "description": "Tasks track small, distinct pieces of work.",
+        "iconUrl": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+        "name": "Task",
+        "subtask": false,
+        "avatarId": 10318,
+        "entityId": "bfd8a226-6bb8-4f71-9120-21484cc37368",
+        "hierarchyLevel": 0
+      },
+      "created": "2025-08-05T21:20:31.168+0000",
+      "project": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/project/10003",
+        "id": "10003",
+        "key": "HD",
+        "name": "Hurd",
+        "projectTypeKey": "software",
+        "simplified": true,
+        "avatarUrls": {
+          "48x48": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400",
+          "24x24": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=small",
+          "16x16": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=xsmall",
+          "32x32": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=medium"
+        }
+      },
+      "priority": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/priority/3",
+        "iconUrl": "https://project-x-dev.atlassian.net/images/icons/priorities/medium_new.svg",
+        "name": "Medium",
+        "id": "3"
+      },
+      "timetracking": {},
+      "labels": [],
+      "votes": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/HD-1024/votes",
+        "votes": 0,
+        "hasVoted": false
+      },
+      "comment": {
+        "comments": [],
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/14128/comment",
+        "maxResults": 0,
+        "total": 0,
+        "startAt": 0
+      },
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "updated": "2025-08-05T21:20:31.802+0000",
+      "status": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/status/10007",
+        "description": "",
+        "iconUrl": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/",
+        "name": "To Do",
+        "id": "10007",
+        "statusCategory": {
+          "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/statuscategory/2",
+          "id": 2,
+          "key": "new",
+          "colorName": "blue-gray",
+          "name": "To Do"
+        }
+      }
+    }
+  },
+  {
+    "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+    "id": "13833",
+    "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/13833",
+    "key": "HD-986",
+    "renderedFields": {
+      "summary": null,
+      "issuetype": null,
+      "created": "25/Jul/25 2:14 AM",
+      "project": null,
+      "priority": null,
+      "timetracking": {},
+      "labels": null,
+      "votes": null,
+      "comment": {
+        "comments": [],
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/13833/comment",
+        "maxResults": 0,
+        "total": 0,
+        "startAt": 0
+      },
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "updated": "01/Aug/25 5:39 PM",
+      "status": null
+    },
+    "changelog": {
+      "startAt": 0,
+      "maxResults": 7,
+      "total": 7,
+      "histories": [
+        {
+          "id": "20832",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-08-01T17:39:43.500+0000",
+          "items": [
+            {
+              "field": "Rank",
+              "fieldtype": "custom",
+              "fieldId": "customfield_10019",
+              "from": "",
+              "fromString": "",
+              "to": "",
+              "toString": "Ranked higher"
+            }
+          ]
+        },
+        {
+          "id": "20831",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-08-01T17:39:43.099+0000",
+          "items": [
+            {
+              "field": "resolution",
+              "fieldtype": "jira",
+              "fieldId": "resolution",
+              "from": null,
+              "fromString": null,
+              "to": "10000",
+              "toString": "Done"
+            },
+            {
+              "field": "status",
+              "fieldtype": "jira",
+              "fieldId": "status",
+              "from": "10010",
+              "fromString": "IN REVIEW",
+              "to": "10009",
+              "toString": "Released"
+            }
+          ]
+        },
+        {
+          "id": "20828",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=712020%3Abdca4620-bcfa-460a-8e7e-49d3fe07234a",
+            "accountId": "712020:bdca4620-bcfa-460a-8e7e-49d3fe07234a",
+            "emailAddress": "harrison@x99.net",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+              "24x24": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+              "16x16": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+              "32x32": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png"
+            },
+            "displayName": "harrison o",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-08-01T17:25:28.991+0000",
+          "items": [
+            {
+              "field": "Rank",
+              "fieldtype": "custom",
+              "fieldId": "customfield_10019",
+              "from": "",
+              "fromString": "",
+              "to": "",
+              "toString": "Ranked higher"
+            }
+          ]
+        },
+        {
+          "id": "20827",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=712020%3Abdca4620-bcfa-460a-8e7e-49d3fe07234a",
+            "accountId": "712020:bdca4620-bcfa-460a-8e7e-49d3fe07234a",
+            "emailAddress": "harrison@x99.net",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+              "24x24": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+              "16x16": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+              "32x32": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png"
+            },
+            "displayName": "harrison o",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-08-01T17:25:28.607+0000",
+          "items": [
+            {
+              "field": "status",
+              "fieldtype": "jira",
+              "fieldId": "status",
+              "from": "10007",
+              "fromString": "To Do",
+              "to": "10010",
+              "toString": "IN REVIEW"
+            }
+          ]
+        },
+        {
+          "id": "20582",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-07-29T02:08:23.344+0000",
+          "items": [
+            {
+              "field": "summary",
+              "fieldtype": "jira",
+              "fieldId": "summary",
+              "from": null,
+              "fromString": "Get rid of Saved and Tracking services and all infra related to those packages, we are deprecating them now that Social service is live",
+              "to": null,
+              "toString": "Get rid of any Eventbridge rules related to Saved and Tracking services/packages, we are deprecating them now that Social service is live"
+            }
+          ]
+        },
+        {
+          "id": "20388",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-07-25T02:14:21.145+0000",
+          "items": [
+            {
+              "field": "summary",
+              "fieldtype": "jira",
+              "fieldId": "summary",
+              "from": null,
+              "fromString": "Get rid of Saved and Tracking services and all infra related to those packages",
+              "to": null,
+              "toString": "Get rid of Saved and Tracking services and all infra related to those packages, we are deprecating them now that Social service is live"
+            }
+          ]
+        },
+        {
+          "id": "20387",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-07-25T02:14:10.699+0000",
+          "items": [
+            {
+              "field": "Sprint",
+              "fieldtype": "custom",
+              "fieldId": "customfield_10020",
+              "from": "",
+              "fromString": "",
+              "to": "195",
+              "toString": "July Sprint"
+            }
+          ]
+        }
+      ]
+    },
+    "fields": {
+      "summary": "Get rid of any Eventbridge rules related to Saved and Tracking services/packages, we are deprecating them now that Social service is live",
+      "issuetype": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issuetype/10011",
+        "id": "10011",
+        "description": "Tasks track small, distinct pieces of work.",
+        "iconUrl": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+        "name": "Task",
+        "subtask": false,
+        "avatarId": 10318,
+        "entityId": "bfd8a226-6bb8-4f71-9120-21484cc37368",
+        "hierarchyLevel": 0
+      },
+      "created": "2025-07-25T02:14:10.009+0000",
+      "project": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/project/10003",
+        "id": "10003",
+        "key": "HD",
+        "name": "Hurd",
+        "projectTypeKey": "software",
+        "simplified": true,
+        "avatarUrls": {
+          "48x48": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400",
+          "24x24": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=small",
+          "16x16": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=xsmall",
+          "32x32": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=medium"
+        }
+      },
+      "priority": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/priority/3",
+        "iconUrl": "https://project-x-dev.atlassian.net/images/icons/priorities/medium_new.svg",
+        "name": "Medium",
+        "id": "3"
+      },
+      "timetracking": {},
+      "labels": [],
+      "votes": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/HD-986/votes",
+        "votes": 0,
+        "hasVoted": false
+      },
+      "comment": {
+        "comments": [],
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/13833/comment",
+        "maxResults": 0,
+        "total": 0,
+        "startAt": 0
+      },
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "updated": "2025-08-01T17:39:43.500+0000",
+      "status": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/status/10009",
+        "description": "",
+        "iconUrl": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/",
+        "name": "Released",
+        "id": "10009",
+        "statusCategory": {
+          "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
+        }
+      }
+    }
+  },
+  {
+    "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+    "id": "12885",
+    "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/12885",
+    "key": "HD-854",
+    "renderedFields": {
+      "summary": null,
+      "issuetype": null,
+      "created": "19/Jun/25 9:51 PM",
+      "project": null,
+      "priority": null,
+      "timetracking": {},
+      "labels": null,
+      "votes": null,
+      "comment": {
+        "comments": [],
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/12885/comment",
+        "maxResults": 0,
+        "total": 0,
+        "startAt": 0
+      },
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "updated": "01/Aug/25 5:39 PM",
+      "status": null
+    },
+    "changelog": {
+      "startAt": 0,
+      "maxResults": 6,
+      "total": 6,
+      "histories": [
+        {
+          "id": "20830",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-08-01T17:39:42.604+0000",
+          "items": [
+            {
+              "field": "Rank",
+              "fieldtype": "custom",
+              "fieldId": "customfield_10019",
+              "from": "",
+              "fromString": "",
+              "to": "",
+              "toString": "Ranked higher"
+            }
+          ]
+        },
+        {
+          "id": "20829",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-08-01T17:39:42.170+0000",
+          "items": [
+            {
+              "field": "resolution",
+              "fieldtype": "jira",
+              "fieldId": "resolution",
+              "from": null,
+              "fromString": null,
+              "to": "10000",
+              "toString": "Done"
+            },
+            {
+              "field": "status",
+              "fieldtype": "jira",
+              "fieldId": "status",
+              "from": "10010",
+              "fromString": "IN REVIEW",
+              "to": "10009",
+              "toString": "Released"
+            }
+          ]
+        },
+        {
+          "id": "20826",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=712020%3Abdca4620-bcfa-460a-8e7e-49d3fe07234a",
+            "accountId": "712020:bdca4620-bcfa-460a-8e7e-49d3fe07234a",
+            "emailAddress": "harrison@x99.net",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+              "24x24": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+              "16x16": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+              "32x32": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png"
+            },
+            "displayName": "harrison o",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-08-01T17:25:23.402+0000",
+          "items": [
+            {
+              "field": "status",
+              "fieldtype": "jira",
+              "fieldId": "status",
+              "from": "10008",
+              "fromString": "In Progress",
+              "to": "10010",
+              "toString": "IN REVIEW"
+            }
+          ]
+        },
+        {
+          "id": "19315",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-07-02T04:41:40.117+0000",
+          "items": [
+            {
+              "field": "Sprint",
+              "fieldtype": "custom",
+              "fieldId": "customfield_10020",
+              "from": "162",
+              "fromString": "June Sprint",
+              "to": "162, 195",
+              "toString": "June Sprint, July Sprint"
+            }
+          ]
+        },
+        {
+          "id": "19000",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=712020%3Abdca4620-bcfa-460a-8e7e-49d3fe07234a",
+            "accountId": "712020:bdca4620-bcfa-460a-8e7e-49d3fe07234a",
+            "emailAddress": "harrison@x99.net",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+              "24x24": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+              "16x16": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+              "32x32": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png"
+            },
+            "displayName": "harrison o",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-06-28T16:53:40.038+0000",
+          "items": [
+            {
+              "field": "status",
+              "fieldtype": "jira",
+              "fieldId": "status",
+              "from": "10007",
+              "fromString": "To Do",
+              "to": "10008",
+              "toString": "In Progress"
+            }
+          ]
+        },
+        {
+          "id": "18496",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-06-19T21:51:48.260+0000",
+          "items": [
+            {
+              "field": "Sprint",
+              "fieldtype": "custom",
+              "fieldId": "customfield_10020",
+              "from": "",
+              "fromString": "",
+              "to": "162",
+              "toString": "June Sprint"
+            }
+          ]
+        }
+      ]
+    },
+    "fields": {
+      "summary": "Whenever Zeta or Prod integ tests finish successfully (or fail), or when Zeta to Prod promotion happens, send discord notifications to Zeta/Prod channels with specific CommitId",
+      "issuetype": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issuetype/10011",
+        "id": "10011",
+        "description": "Tasks track small, distinct pieces of work.",
+        "iconUrl": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+        "name": "Task",
+        "subtask": false,
+        "avatarId": 10318,
+        "entityId": "bfd8a226-6bb8-4f71-9120-21484cc37368",
+        "hierarchyLevel": 0
+      },
+      "created": "2025-06-19T21:51:47.485+0000",
+      "project": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/project/10003",
+        "id": "10003",
+        "key": "HD",
+        "name": "Hurd",
+        "projectTypeKey": "software",
+        "simplified": true,
+        "avatarUrls": {
+          "48x48": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400",
+          "24x24": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=small",
+          "16x16": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=xsmall",
+          "32x32": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=medium"
+        }
+      },
+      "priority": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/priority/3",
+        "iconUrl": "https://project-x-dev.atlassian.net/images/icons/priorities/medium_new.svg",
+        "name": "Medium",
+        "id": "3"
+      },
+      "timetracking": {},
+      "labels": [],
+      "votes": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/HD-854/votes",
+        "votes": 0,
+        "hasVoted": false
+      },
+      "comment": {
+        "comments": [],
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/12885/comment",
+        "maxResults": 0,
+        "total": 0,
+        "startAt": 0
+      },
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "updated": "2025-08-01T17:39:42.604+0000",
+      "status": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/status/10009",
+        "description": "",
+        "iconUrl": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/",
+        "name": "Released",
+        "id": "10009",
+        "statusCategory": {
+          "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
+        }
+      }
+    }
+  },
+  {
+    "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+    "id": "13832",
+    "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/13832",
+    "key": "HD-985",
+    "renderedFields": {
+      "summary": null,
+      "issuetype": null,
+      "created": "25/Jul/25 2:13 AM",
+      "project": null,
+      "priority": null,
+      "timetracking": {},
+      "labels": null,
+      "votes": null,
+      "comment": {
+        "comments": [
+          {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/13832/comment/12555",
+            "id": "12555",
+            "author": {
+              "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+              "accountId": "631163c256010c40d446e203",
+              "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+                "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+                "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+                "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+              },
+              "displayName": "Taruna Kar",
+              "active": true,
+              "timeZone": "Etc/GMT",
+              "accountType": "atlassian"
+            },
+            "body": {
+              "type": "doc",
+              "version": 1,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "From my end, need to:"
+                    }
+                  ]
+                },
+                {
+                  "type": "orderedList",
+                  "attrs": {
+                    "order": 1
+                  },
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Edit DNS records with ACM certificates in Zeta and Prod"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Make Secrets of the private keys manually in SecretsManager console"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "updateAuthor": {
+              "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+              "accountId": "631163c256010c40d446e203",
+              "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+                "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+                "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+                "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+              },
+              "displayName": "Taruna Kar",
+              "active": true,
+              "timeZone": "Etc/GMT",
+              "accountType": "atlassian"
+            },
+            "created": "27/Jul/25 5:51 PM",
+            "updated": "27/Jul/25 5:51 PM",
+            "jsdPublic": true
+          },
+          {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/13832/comment/12556",
+            "id": "12556",
+            "author": {
+              "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+              "accountId": "631163c256010c40d446e203",
+              "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+                "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+                "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+                "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+              },
+              "displayName": "Taruna Kar",
+              "active": true,
+              "timeZone": "Etc/GMT",
+              "accountType": "atlassian"
+            },
+            "body": {
+              "type": "doc",
+              "version": 1,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "SecretsManager details (ignore the spaces in the ARNs, it's turning that secret part into an emoji and I cant figure out how to turn that setting off):"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Zeta: "
+                    },
+                    {
+                      "type": "text",
+                      "text": "https://739275462304-esphdziz.us-east-1.console.aws.amazon.com/secretsmanager/secret?name=HurdZetaCloudfrontPrivateKey&region=us-east-1",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://739275462304-esphdziz.us-east-1.console.aws.amazon.com/secretsmanager/secret?name=HurdZetaCloudfrontPrivateKey&region=us-east-1"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Name: HurdZetaCloudfrontPrivateKey"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "ARN: arn:aws:secretsmanager:us-east-1:739275462304:secret:HurdZetaCloudfrontPrivateKey-WYHdq0"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Prod: "
+                    },
+                    {
+                      "type": "text",
+                      "text": "https://361769558911-sqxgwzzq.us-east-1.console.aws.amazon.com/secretsmanager/secret?name=HurdProdCloudfrontPrivateKey&region=us-east-1",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://361769558911-sqxgwzzq.us-east-1.console.aws.amazon.com/secretsmanager/secret?name=HurdProdCloudfrontPrivateKey&region=us-east-1"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Name: HurdProdCloudfrontPrivateKey"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "ARN: arn:aws:secretsmanager:us-east-1:361769558911:secret:HurdProdCloudfrontPrivateKey-XsdVIY"
+                    }
+                  ]
+                }
+              ]
+            },
+            "updateAuthor": {
+              "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+              "accountId": "631163c256010c40d446e203",
+              "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+                "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+                "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+                "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+              },
+              "displayName": "Taruna Kar",
+              "active": true,
+              "timeZone": "Etc/GMT",
+              "accountType": "atlassian"
+            },
+            "created": "27/Jul/25 5:51 PM",
+            "updated": "27/Jul/25 5:51 PM",
+            "jsdPublic": true
+          }
+        ],
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/13832/comment",
+        "maxResults": 2,
+        "total": 2,
+        "startAt": 0
+      },
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "updated": "01/Aug/25 1:32 AM",
+      "status": null
+    },
+    "changelog": {
+      "startAt": 0,
+      "maxResults": 8,
+      "total": 8,
+      "histories": [
+        {
+          "id": "20757",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-08-01T01:32:19.837+0000",
+          "items": [
+            {
+              "field": "Rank",
+              "fieldtype": "custom",
+              "fieldId": "customfield_10019",
+              "from": "",
+              "fromString": "",
+              "to": "",
+              "toString": "Ranked higher"
+            }
+          ]
+        },
+        {
+          "id": "20756",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-08-01T01:32:19.346+0000",
+          "items": [
+            {
+              "field": "resolution",
+              "fieldtype": "jira",
+              "fieldId": "resolution",
+              "from": null,
+              "fromString": null,
+              "to": "10000",
+              "toString": "Done"
+            },
+            {
+              "field": "status",
+              "fieldtype": "jira",
+              "fieldId": "status",
+              "from": "10010",
+              "fromString": "IN REVIEW",
+              "to": "10009",
+              "toString": "Released"
+            }
+          ]
+        },
+        {
+          "id": "20683",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-07-30T20:40:18.894+0000",
+          "items": [
+            {
+              "field": "status",
+              "fieldtype": "jira",
+              "fieldId": "status",
+              "from": "10008",
+              "fromString": "In Progress",
+              "to": "10010",
+              "toString": "IN REVIEW"
+            }
+          ]
+        },
+        {
+          "id": "20526",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-07-27T16:00:19.962+0000",
+          "items": [
+            {
+              "field": "Rank",
+              "fieldtype": "custom",
+              "fieldId": "customfield_10019",
+              "from": "",
+              "fromString": "",
+              "to": "",
+              "toString": "Ranked higher"
+            }
+          ]
+        },
+        {
+          "id": "20525",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-07-27T16:00:19.026+0000",
+          "items": [
+            {
+              "field": "Rank",
+              "fieldtype": "custom",
+              "fieldId": "customfield_10019",
+              "from": "",
+              "fromString": "",
+              "to": "",
+              "toString": "Ranked higher"
+            }
+          ]
+        },
+        {
+          "id": "20524",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-07-27T16:00:18.582+0000",
+          "items": [
+            {
+              "field": "status",
+              "fieldtype": "jira",
+              "fieldId": "status",
+              "from": "10007",
+              "fromString": "To Do",
+              "to": "10008",
+              "toString": "In Progress"
+            }
+          ]
+        },
+        {
+          "id": "20385",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-07-25T02:13:35.991+0000",
+          "items": [
+            {
+              "field": "priority",
+              "fieldtype": "jira",
+              "fieldId": "priority",
+              "from": "3",
+              "fromString": "Medium",
+              "to": "2",
+              "toString": "High"
+            }
+          ]
+        },
+        {
+          "id": "20380",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-07-25T02:13:10.523+0000",
+          "items": [
+            {
+              "field": "Sprint",
+              "fieldtype": "custom",
+              "fieldId": "customfield_10020",
+              "from": "",
+              "fromString": "",
+              "to": "195",
+              "toString": "July Sprint"
+            }
+          ]
+        }
+      ]
+    },
+    "fields": {
+      "summary": "Integrate Cloudfront into Hurd Infra (see required CFN resources document sent in Discord channel)",
+      "issuetype": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issuetype/10011",
+        "id": "10011",
+        "description": "Tasks track small, distinct pieces of work.",
+        "iconUrl": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+        "name": "Task",
+        "subtask": false,
+        "avatarId": 10318,
+        "entityId": "bfd8a226-6bb8-4f71-9120-21484cc37368",
+        "hierarchyLevel": 0
+      },
+      "created": "2025-07-25T02:13:09.908+0000",
+      "project": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/project/10003",
+        "id": "10003",
+        "key": "HD",
+        "name": "Hurd",
+        "projectTypeKey": "software",
+        "simplified": true,
+        "avatarUrls": {
+          "48x48": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400",
+          "24x24": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=small",
+          "16x16": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=xsmall",
+          "32x32": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=medium"
+        }
+      },
+      "priority": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/priority/2",
+        "iconUrl": "https://project-x-dev.atlassian.net/images/icons/priorities/high_new.svg",
+        "name": "High",
+        "id": "2"
+      },
+      "timetracking": {},
+      "labels": [],
+      "votes": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/HD-985/votes",
+        "votes": 0,
+        "hasVoted": false
+      },
+      "comment": {
+        "comments": [
+          {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/13832/comment/12555",
+            "id": "12555",
+            "author": {
+              "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+              "accountId": "631163c256010c40d446e203",
+              "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+                "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+                "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+                "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+              },
+              "displayName": "Taruna Kar",
+              "active": true,
+              "timeZone": "Etc/GMT",
+              "accountType": "atlassian"
+            },
+            "body": {
+              "type": "doc",
+              "version": 1,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "From my end, need to:"
+                    }
+                  ]
+                },
+                {
+                  "type": "orderedList",
+                  "attrs": {
+                    "order": 1
+                  },
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Edit DNS records with ACM certificates in Zeta and Prod"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Make Secrets of the private keys manually in SecretsManager console"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "updateAuthor": {
+              "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+              "accountId": "631163c256010c40d446e203",
+              "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+                "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+                "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+                "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+              },
+              "displayName": "Taruna Kar",
+              "active": true,
+              "timeZone": "Etc/GMT",
+              "accountType": "atlassian"
+            },
+            "created": "2025-07-27T17:51:01.560+0000",
+            "updated": "2025-07-27T17:51:01.560+0000",
+            "jsdPublic": true
+          },
+          {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/13832/comment/12556",
+            "id": "12556",
+            "author": {
+              "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+              "accountId": "631163c256010c40d446e203",
+              "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+                "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+                "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+                "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+              },
+              "displayName": "Taruna Kar",
+              "active": true,
+              "timeZone": "Etc/GMT",
+              "accountType": "atlassian"
+            },
+            "body": {
+              "type": "doc",
+              "version": 1,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "SecretsManager details (ignore the spaces in the ARNs, it's turning that secret part into an emoji and I cant figure out how to turn that setting off):"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Zeta: "
+                    },
+                    {
+                      "type": "text",
+                      "text": "https://739275462304-esphdziz.us-east-1.console.aws.amazon.com/secretsmanager/secret?name=HurdZetaCloudfrontPrivateKey&region=us-east-1",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://739275462304-esphdziz.us-east-1.console.aws.amazon.com/secretsmanager/secret?name=HurdZetaCloudfrontPrivateKey&region=us-east-1"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Name: HurdZetaCloudfrontPrivateKey"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "ARN: arn:aws:secretsmanager:us-east-1:739275462304:secret:HurdZetaCloudfrontPrivateKey-WYHdq0"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Prod: "
+                    },
+                    {
+                      "type": "text",
+                      "text": "https://361769558911-sqxgwzzq.us-east-1.console.aws.amazon.com/secretsmanager/secret?name=HurdProdCloudfrontPrivateKey&region=us-east-1",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://361769558911-sqxgwzzq.us-east-1.console.aws.amazon.com/secretsmanager/secret?name=HurdProdCloudfrontPrivateKey&region=us-east-1"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Name: HurdProdCloudfrontPrivateKey"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "ARN: arn:aws:secretsmanager:us-east-1:361769558911:secret:HurdProdCloudfrontPrivateKey-XsdVIY"
+                    }
+                  ]
+                }
+              ]
+            },
+            "updateAuthor": {
+              "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+              "accountId": "631163c256010c40d446e203",
+              "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+                "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+                "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+                "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+              },
+              "displayName": "Taruna Kar",
+              "active": true,
+              "timeZone": "Etc/GMT",
+              "accountType": "atlassian"
+            },
+            "created": "2025-07-27T17:51:18.037+0000",
+            "updated": "2025-07-27T17:51:33.941+0000",
+            "jsdPublic": true
+          }
+        ],
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/13832/comment",
+        "maxResults": 2,
+        "total": 2,
+        "startAt": 0
+      },
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "updated": "2025-08-01T01:32:19.837+0000",
+      "status": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/status/10009",
+        "description": "",
+        "iconUrl": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/",
+        "name": "Released",
+        "id": "10009",
+        "statusCategory": {
+          "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
+        }
+      }
+    }
+  },
+  {
+    "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+    "id": "13240",
+    "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/13240",
+    "key": "HD-922",
+    "renderedFields": {
+      "summary": null,
+      "issuetype": null,
+      "created": "04/Jul/25 2:50 AM",
+      "project": null,
+      "priority": null,
+      "timetracking": {},
+      "labels": null,
+      "votes": null,
+      "comment": {
+        "comments": [],
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/13240/comment",
+        "maxResults": 0,
+        "total": 0,
+        "startAt": 0
+      },
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "updated": "29/Jul/25 2:08 AM",
+      "status": null
+    },
+    "changelog": {
+      "startAt": 0,
+      "maxResults": 11,
+      "total": 11,
+      "histories": [
+        {
+          "id": "20586",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-07-29T02:08:59.428+0000",
+          "items": [
+            {
+              "field": "Rank",
+              "fieldtype": "custom",
+              "fieldId": "customfield_10019",
+              "from": "",
+              "fromString": "",
+              "to": "",
+              "toString": "Ranked higher"
+            }
+          ]
+        },
+        {
+          "id": "20585",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-07-29T02:08:58.344+0000",
+          "items": [
+            {
+              "field": "Rank",
+              "fieldtype": "custom",
+              "fieldId": "customfield_10019",
+              "from": "",
+              "fromString": "",
+              "to": "",
+              "toString": "Ranked higher"
+            }
+          ]
+        },
+        {
+          "id": "20584",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-07-29T02:08:57.901+0000",
+          "items": [
+            {
+              "field": "resolution",
+              "fieldtype": "jira",
+              "fieldId": "resolution",
+              "from": null,
+              "fromString": null,
+              "to": "10000",
+              "toString": "Done"
+            },
+            {
+              "field": "status",
+              "fieldtype": "jira",
+              "fieldId": "status",
+              "from": "10010",
+              "fromString": "IN REVIEW",
+              "to": "10009",
+              "toString": "Released"
+            }
+          ]
+        },
+        {
+          "id": "20523",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-07-27T15:59:36.666+0000",
+          "items": [
+            {
+              "field": "status",
+              "fieldtype": "jira",
+              "fieldId": "status",
+              "from": "10008",
+              "fromString": "In Progress",
+              "to": "10010",
+              "toString": "IN REVIEW"
+            }
+          ]
+        },
+        {
+          "id": "19690",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=712020%3Abdca4620-bcfa-460a-8e7e-49d3fe07234a",
+            "accountId": "712020:bdca4620-bcfa-460a-8e7e-49d3fe07234a",
+            "emailAddress": "harrison@x99.net",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+              "24x24": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+              "16x16": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+              "32x32": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png"
+            },
+            "displayName": "harrison o",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-07-08T22:16:07.031+0000",
+          "items": [
+            {
+              "field": "Rank",
+              "fieldtype": "custom",
+              "fieldId": "customfield_10019",
+              "from": "",
+              "fromString": "",
+              "to": "",
+              "toString": "Ranked lower"
+            }
+          ]
+        },
+        {
+          "id": "19689",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=712020%3Abdca4620-bcfa-460a-8e7e-49d3fe07234a",
+            "accountId": "712020:bdca4620-bcfa-460a-8e7e-49d3fe07234a",
+            "emailAddress": "harrison@x99.net",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+              "24x24": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+              "16x16": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+              "32x32": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png"
+            },
+            "displayName": "harrison o",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-07-08T22:16:06.713+0000",
+          "items": [
+            {
+              "field": "status",
+              "fieldtype": "jira",
+              "fieldId": "status",
+              "from": "10010",
+              "fromString": "IN REVIEW",
+              "to": "10008",
+              "toString": "In Progress"
+            }
+          ]
+        },
+        {
+          "id": "19688",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=712020%3Abdca4620-bcfa-460a-8e7e-49d3fe07234a",
+            "accountId": "712020:bdca4620-bcfa-460a-8e7e-49d3fe07234a",
+            "emailAddress": "harrison@x99.net",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+              "24x24": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+              "16x16": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+              "32x32": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png"
+            },
+            "displayName": "harrison o",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-07-08T22:15:58.985+0000",
+          "items": [
+            {
+              "field": "Rank",
+              "fieldtype": "custom",
+              "fieldId": "customfield_10019",
+              "from": "",
+              "fromString": "",
+              "to": "",
+              "toString": "Ranked higher"
+            }
+          ]
+        },
+        {
+          "id": "19687",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=712020%3Abdca4620-bcfa-460a-8e7e-49d3fe07234a",
+            "accountId": "712020:bdca4620-bcfa-460a-8e7e-49d3fe07234a",
+            "emailAddress": "harrison@x99.net",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+              "24x24": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+              "16x16": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+              "32x32": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png"
+            },
+            "displayName": "harrison o",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-07-08T22:15:58.575+0000",
+          "items": [
+            {
+              "field": "status",
+              "fieldtype": "jira",
+              "fieldId": "status",
+              "from": "10007",
+              "fromString": "To Do",
+              "to": "10010",
+              "toString": "IN REVIEW"
+            }
+          ]
+        },
+        {
+          "id": "19680",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-07-08T20:55:27.992+0000",
+          "items": [
+            {
+              "field": "priority",
+              "fieldtype": "jira",
+              "fieldId": "priority",
+              "from": "3",
+              "fromString": "Medium",
+              "to": "2",
+              "toString": "High"
+            }
+          ]
+        },
+        {
+          "id": "19679",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-07-08T20:55:24.538+0000",
+          "items": [
+            {
+              "field": "Rank",
+              "fieldtype": "custom",
+              "fieldId": "customfield_10019",
+              "from": "",
+              "fromString": "",
+              "to": "",
+              "toString": "Ranked higher"
+            }
+          ]
+        },
+        {
+          "id": "19483",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-07-04T02:50:28.135+0000",
+          "items": [
+            {
+              "field": "Sprint",
+              "fieldtype": "custom",
+              "fieldId": "customfield_10020",
+              "from": "",
+              "fromString": "",
+              "to": "195",
+              "toString": "July Sprint"
+            }
+          ]
+        }
+      ]
+    },
+    "fields": {
+      "summary": "Fix/Verify whatever is wrong with Prod Canary notifications, have not seen a single one in the past month",
+      "issuetype": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issuetype/10012",
+        "id": "10012",
+        "description": "Bugs track problems or errors.",
+        "iconUrl": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/2/universal_avatar/view/type/issuetype/avatar/10303?size=medium",
+        "name": "Bug",
+        "subtask": false,
+        "avatarId": 10303,
+        "entityId": "109eef04-699f-4de0-b482-b2f834a2b26f",
+        "hierarchyLevel": 0
+      },
+      "created": "2025-07-04T02:50:27.483+0000",
+      "project": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/project/10003",
+        "id": "10003",
+        "key": "HD",
+        "name": "Hurd",
+        "projectTypeKey": "software",
+        "simplified": true,
+        "avatarUrls": {
+          "48x48": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400",
+          "24x24": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=small",
+          "16x16": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=xsmall",
+          "32x32": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=medium"
+        }
+      },
+      "priority": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/priority/2",
+        "iconUrl": "https://project-x-dev.atlassian.net/images/icons/priorities/high_new.svg",
+        "name": "High",
+        "id": "2"
+      },
+      "timetracking": {},
+      "labels": [],
+      "votes": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/HD-922/votes",
+        "votes": 0,
+        "hasVoted": false
+      },
+      "comment": {
+        "comments": [],
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/13240/comment",
+        "maxResults": 0,
+        "total": 0,
+        "startAt": 0
+      },
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "updated": "2025-07-29T02:08:59.428+0000",
+      "status": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/status/10009",
+        "description": "",
+        "iconUrl": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/",
+        "name": "Released",
+        "id": "10009",
+        "statusCategory": {
+          "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
+        }
+      }
+    }
+  },
+  {
+    "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+    "id": "12880",
+    "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/12880",
+    "key": "HD-849",
+    "renderedFields": {
+      "summary": null,
+      "issuetype": null,
+      "created": "19/Jun/25 1:30 AM",
+      "project": null,
+      "priority": null,
+      "timetracking": {},
+      "labels": null,
+      "votes": null,
+      "comment": {
+        "comments": [
+          {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/12880/comment/12030",
+            "id": "12030",
+            "author": {
+              "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=712020%3Abdca4620-bcfa-460a-8e7e-49d3fe07234a",
+              "accountId": "712020:bdca4620-bcfa-460a-8e7e-49d3fe07234a",
+              "emailAddress": "harrison@x99.net",
+              "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+                "24x24": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+                "16x16": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+                "32x32": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png"
+              },
+              "displayName": "harrison o",
+              "active": true,
+              "timeZone": "Etc/GMT",
+              "accountType": "atlassian"
+            },
+            "body": {
+              "type": "doc",
+              "version": 1,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "need clarification on this "
+                    },
+                    {
+                      "type": "mention",
+                      "attrs": {
+                        "id": "631163c256010c40d446e203",
+                        "text": "@Taruna Kar",
+                        "accessLevel": "",
+                        "localId": "8570ebd2-ef27-4b82-af4b-4ff7fd90bffb"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                }
+              ]
+            },
+            "updateAuthor": {
+              "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=712020%3Abdca4620-bcfa-460a-8e7e-49d3fe07234a",
+              "accountId": "712020:bdca4620-bcfa-460a-8e7e-49d3fe07234a",
+              "emailAddress": "harrison@x99.net",
+              "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+                "24x24": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+                "16x16": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+                "32x32": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png"
+              },
+              "displayName": "harrison o",
+              "active": true,
+              "timeZone": "Etc/GMT",
+              "accountType": "atlassian"
+            },
+            "created": "28/Jun/25 4:47 PM",
+            "updated": "28/Jun/25 4:47 PM",
+            "jsdPublic": true
+          }
+        ],
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/12880/comment",
+        "maxResults": 1,
+        "total": 1,
+        "startAt": 0
+      },
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "updated": "29/Jul/25 2:08 AM",
+      "status": null
+    },
+    "changelog": {
+      "startAt": 0,
+      "maxResults": 6,
+      "total": 6,
+      "histories": [
+        {
+          "id": "20583",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-07-29T02:08:49.232+0000",
+          "items": [
+            {
+              "field": "Sprint",
+              "fieldtype": "custom",
+              "fieldId": "customfield_10020",
+              "from": "162, 195",
+              "fromString": "June Sprint, July Sprint",
+              "to": "162",
+              "toString": "June Sprint"
+            }
+          ]
+        },
+        {
+          "id": "19673",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-07-08T20:54:03.719+0000",
+          "items": [
+            {
+              "field": "Rank",
+              "fieldtype": "custom",
+              "fieldId": "customfield_10019",
+              "from": "",
+              "fromString": "",
+              "to": "",
+              "toString": "Ranked lower"
+            }
+          ]
+        },
+        {
+          "id": "19672",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-07-08T20:54:01.215+0000",
+          "items": [
+            {
+              "field": "priority",
+              "fieldtype": "jira",
+              "fieldId": "priority",
+              "from": "3",
+              "fromString": "Medium",
+              "to": "5",
+              "toString": "Lowest"
+            }
+          ]
+        },
+        {
+          "id": "19314",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-07-02T04:41:40.097+0000",
+          "items": [
+            {
+              "field": "Sprint",
+              "fieldtype": "custom",
+              "fieldId": "customfield_10020",
+              "from": "162",
+              "fromString": "June Sprint",
+              "to": "162, 195",
+              "toString": "June Sprint, July Sprint"
+            }
+          ]
+        },
+        {
+          "id": "18453",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-06-19T01:30:37.120+0000",
+          "items": [
+            {
+              "field": "summary",
+              "fieldtype": "jira",
+              "fieldId": "summary",
+              "from": null,
+              "fromString": "Add our HurdOpsTools package into the Infra",
+              "to": null,
+              "toString": "Add our HurdOpsTools package into the Infra (we're going to start using Zapier Integrations)"
+            }
+          ]
+        },
+        {
+          "id": "18452",
+          "author": {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=631163c256010c40d446e203",
+            "accountId": "631163c256010c40d446e203",
+            "avatarUrls": {
+              "48x48": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "24x24": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "16x16": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png",
+              "32x32": "https://secure.gravatar.com/avatar/a893253f1be9107fde780f8d4277a605?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTK-5.png"
+            },
+            "displayName": "Taruna Kar",
+            "active": true,
+            "timeZone": "Etc/GMT",
+            "accountType": "atlassian"
+          },
+          "created": "2025-06-19T01:30:23.793+0000",
+          "items": [
+            {
+              "field": "Sprint",
+              "fieldtype": "custom",
+              "fieldId": "customfield_10020",
+              "from": "",
+              "fromString": "",
+              "to": "162",
+              "toString": "June Sprint"
+            }
+          ]
+        }
+      ]
+    },
+    "fields": {
+      "summary": "Add our HurdOpsTools package into the Infra (we're going to start using Zapier Integrations)",
+      "issuetype": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issuetype/10011",
+        "id": "10011",
+        "description": "Tasks track small, distinct pieces of work.",
+        "iconUrl": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+        "name": "Task",
+        "subtask": false,
+        "avatarId": 10318,
+        "entityId": "bfd8a226-6bb8-4f71-9120-21484cc37368",
+        "hierarchyLevel": 0
+      },
+      "created": "2025-06-19T01:30:23.091+0000",
+      "project": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/project/10003",
+        "id": "10003",
+        "key": "HD",
+        "name": "Hurd",
+        "projectTypeKey": "software",
+        "simplified": true,
+        "avatarUrls": {
+          "48x48": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400",
+          "24x24": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=small",
+          "16x16": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=xsmall",
+          "32x32": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=medium"
+        }
+      },
+      "priority": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/priority/5",
+        "iconUrl": "https://project-x-dev.atlassian.net/images/icons/priorities/lowest_new.svg",
+        "name": "Lowest",
+        "id": "5"
+      },
+      "timetracking": {},
+      "labels": [],
+      "votes": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/HD-849/votes",
+        "votes": 0,
+        "hasVoted": false
+      },
+      "comment": {
+        "comments": [
+          {
+            "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/12880/comment/12030",
+            "id": "12030",
+            "author": {
+              "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=712020%3Abdca4620-bcfa-460a-8e7e-49d3fe07234a",
+              "accountId": "712020:bdca4620-bcfa-460a-8e7e-49d3fe07234a",
+              "emailAddress": "harrison@x99.net",
+              "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+                "24x24": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+                "16x16": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+                "32x32": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png"
+              },
+              "displayName": "harrison o",
+              "active": true,
+              "timeZone": "Etc/GMT",
+              "accountType": "atlassian"
+            },
+            "body": {
+              "type": "doc",
+              "version": 1,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "need clarification on this "
+                    },
+                    {
+                      "type": "mention",
+                      "attrs": {
+                        "id": "631163c256010c40d446e203",
+                        "text": "@Taruna Kar",
+                        "accessLevel": "",
+                        "localId": "8570ebd2-ef27-4b82-af4b-4ff7fd90bffb"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                }
+              ]
+            },
+            "updateAuthor": {
+              "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/user?accountId=712020%3Abdca4620-bcfa-460a-8e7e-49d3fe07234a",
+              "accountId": "712020:bdca4620-bcfa-460a-8e7e-49d3fe07234a",
+              "emailAddress": "harrison@x99.net",
+              "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+                "24x24": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+                "16x16": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png",
+                "32x32": "https://secure.gravatar.com/avatar/39f50a9be4a57b9eca24db697db219c3?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHO-2.png"
+              },
+              "displayName": "harrison o",
+              "active": true,
+              "timeZone": "Etc/GMT",
+              "accountType": "atlassian"
+            },
+            "created": "2025-06-28T16:47:34.502+0000",
+            "updated": "2025-06-28T16:47:34.502+0000",
+            "jsdPublic": true
+          }
+        ],
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/issue/12880/comment",
+        "maxResults": 1,
+        "total": 1,
+        "startAt": 0
+      },
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "updated": "2025-07-29T02:08:49.232+0000",
+      "status": {
+        "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/status/10007",
+        "description": "",
+        "iconUrl": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/",
+        "name": "To Do",
+        "id": "10007",
+        "statusCategory": {
+          "self": "https://api.atlassian.com/ex/jira/4992644d-d0c1-40c0-ba0e-bfa8aa9a3cca/rest/api/3/statuscategory/2",
+          "id": 2,
+          "key": "new",
+          "colorName": "blue-gray",
+          "name": "To Do"
+        }
+      }
+    }
+  }
+]

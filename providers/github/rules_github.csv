@@ -1,0 +1,55 @@
+id,category,label,metric,operator,value_low,value_high,value_exact,unit,window_value,window_unit,weight,is_gate
+GH-3000,Authenticity,Profile Reachable,user_reachable,EXISTS,,,,boolean,,,0.04,FALSE
+GH-3001,Maturity,Public Repos (0),public_repos_count,RANGE,0,0,,count,,,0,FALSE
+GH-3002,Maturity,Public Repos (1–2),public_repos_count,RANGE,1,2,,count,,,0.02,FALSE
+GH-3003,Maturity,Public Repos (3–5),public_repos_count,RANGE,3,5,,count,,,0.04,FALSE
+GH-3004,Maturity,Public Repos (6–10),public_repos_count,RANGE,6,10,,count,,,0.06,FALSE
+GH-3005,Maturity,Public Repos (11+),public_repos_count,RANGE,11,1000000,,count,,,0.08,FALSE
+GH-3010,Contribution,Non-Fork Ratio (≤0.19),non_fork_ratio,RANGE,0,0.19,,ratio,,,0,FALSE
+GH-3011,Contribution,Non-Fork Ratio (0.20–0.49),non_fork_ratio,RANGE,0.2,0.49,,ratio,,,0.02,FALSE
+GH-3012,Contribution,Non-Fork Ratio (0.50–0.69),non_fork_ratio,RANGE,0.5,0.69,,ratio,,,0.04,FALSE
+GH-3013,Contribution,Non-Fork Ratio (0.70–0.89),non_fork_ratio,RANGE,0.7,0.89,,ratio,,,0.06,FALSE
+GH-3014,Contribution,Non-Fork Ratio (0.90–1.00),non_fork_ratio,RANGE,0.9,1,,ratio,,,0.08,FALSE
+GH-3020,Activity,Recent Repos Pushed (0 in 90d),recent_repos_pushed_count,RANGE,0,0,,count,90,days,0,FALSE
+GH-3021,Activity,Recent Repos Pushed (1 in 90d),recent_repos_pushed_count,RANGE,1,1,,count,90,days,0.02,FALSE
+GH-3022,Activity,Recent Repos Pushed (2–3 in 90d),recent_repos_pushed_count,RANGE,2,3,,count,90,days,0.04,FALSE
+GH-3023,Activity,Recent Repos Pushed (4–7 in 90d),recent_repos_pushed_count,RANGE,4,7,,count,90,days,0.06,FALSE
+GH-3024,Activity,Recent Repos Pushed (8+ in 90d),recent_repos_pushed_count,RANGE,8,1000000,,count,90,days,0.08,FALSE
+GH-3030,Reputation,Stars Total (0),stars_total_sum,RANGE,0,0,,count,,,0,FALSE
+GH-3031,Reputation,Stars Total (1–9),stars_total_sum,RANGE,1,9,,count,,,0.02,FALSE
+GH-3032,Reputation,Stars Total (10–49),stars_total_sum,RANGE,10,49,,count,,,0.04,FALSE
+GH-3033,Reputation,Stars Total (50–199),stars_total_sum,RANGE,50,199,,count,,,0.06,FALSE
+GH-3034,Reputation,Stars Total (200+),stars_total_sum,RANGE,200,1000000,,count,,,0.08,FALSE
+GH-3040,Reputation,Max Repo Stars (0),max_repo_stars,RANGE,0,0,,count,,,0,FALSE
+GH-3041,Reputation,Max Repo Stars (1–9),max_repo_stars,RANGE,1,9,,count,,,0.02,FALSE
+GH-3042,Reputation,Max Repo Stars (10–49),max_repo_stars,RANGE,10,49,,count,,,0.04,FALSE
+GH-3043,Reputation,Max Repo Stars (50–199),max_repo_stars,RANGE,50,199,,count,,,0.06,FALSE
+GH-3044,Reputation,Max Repo Stars (200+),max_repo_stars,RANGE,200,1000000,,count,,,0.08,FALSE
+GH-3050,Breadth,Language Diversity (0–1),language_distinct_count,RANGE,0,1,,count,,,0,FALSE
+GH-3051,Breadth,Language Diversity (2),language_distinct_count,RANGE,2,2,,count,,,0.02,FALSE
+GH-3052,Breadth,Language Diversity (3),language_distinct_count,RANGE,3,3,,count,,,0.04,FALSE
+GH-3053,Breadth,Language Diversity (4–5),language_distinct_count,RANGE,4,5,,count,,,0.06,FALSE
+GH-3054,Breadth,Language Diversity (6+),language_distinct_count,RANGE,6,1000000,,count,,,0.08,FALSE
+GH-3060,Activity,Commits by Author (0 in 90d),commits_by_author_count,RANGE,0,0,,count,90,days,0,FALSE
+GH-3061,Activity,Commits by Author (1–4 in 90d),commits_by_author_count,RANGE,1,4,,count,90,days,0.02,FALSE
+GH-3062,Activity,Commits by Author (5–19 in 90d),commits_by_author_count,RANGE,5,19,,count,90,days,0.04,FALSE
+GH-3063,Activity,Commits by Author (20–49 in 90d),commits_by_author_count,RANGE,20,49,,count,90,days,0.06,FALSE
+GH-3064,Activity,Commits by Author (50+ in 90d),commits_by_author_count,RANGE,50,1000000,,count,90,days,0.08,FALSE
+GH-3070,Collaboration,PR/Issue Involvement (0 in 180d),pr_issue_involvement_count,RANGE,0,0,,count,180,days,0,FALSE
+GH-3071,Collaboration,PR/Issue Involvement (1–2 in 180d),pr_issue_involvement_count,RANGE,1,2,,count,180,days,0.02,FALSE
+GH-3072,Collaboration,PR/Issue Involvement (3–5 in 180d),pr_issue_involvement_count,RANGE,3,5,,count,180,days,0.04,FALSE
+GH-3073,Collaboration,PR/Issue Involvement (6–14 in 180d),pr_issue_involvement_count,RANGE,6,14,,count,180,days,0.06,FALSE
+GH-3074,Collaboration,PR/Issue Involvement (15+ in 180d),pr_issue_involvement_count,RANGE,15,1000000,,count,180,days,0.08,FALSE
+GH-3080,Authorship,Authored Issues/PRs (0 in 365d),authored_items_count,RANGE,0,0,,count,365,days,0,FALSE
+GH-3081,Authorship,Authored Issues/PRs (1–2 in 365d),authored_items_count,RANGE,1,2,,count,365,days,0.02,FALSE
+GH-3082,Authorship,Authored Issues/PRs (3–5 in 365d),authored_items_count,RANGE,3,5,,count,365,days,0.04,FALSE
+GH-3083,Authorship,Authored Issues/PRs (6–14 in 365d),authored_items_count,RANGE,6,14,,count,365,days,0.06,FALSE
+GH-3084,Authorship,Authored Issues/PRs (15+ in 365d),authored_items_count,RANGE,15,1000000,,count,365,days,0.08,FALSE
+GH-3090,Maintenance,Owner Repos Updated (0 in 365d),owner_repos_updated_count,RANGE,0,0,,count,365,days,0,FALSE
+GH-3091,Maintenance,Owner Repos Updated (1 in 365d),owner_repos_updated_count,RANGE,1,1,,count,365,days,0.02,FALSE
+GH-3092,Maintenance,Owner Repos Updated (2–3 in 365d),owner_repos_updated_count,RANGE,2,3,,count,365,days,0.04,FALSE
+GH-3093,Maintenance,Owner Repos Updated (4–7 in 365d),owner_repos_updated_count,RANGE,4,7,,count,365,days,0.06,FALSE
+GH-3094,Maintenance,Owner Repos Updated (8+ in 365d),owner_repos_updated_count,RANGE,8,1000000,,count,365,days,0.08,FALSE
+GH-3100,Code Footprint,Indexed Code Files (0),indexed_code_files_total,RANGE,0,0,,count,,,0,FALSE
+GH-3101,Code Footprint,Indexed Code Files (1–99),indexed_code_files_total,RANGE,1,99,,count,,,0.02,FALSE
+GH-3102,Code Footprint,Indexed Code Files (100–499),indexed_code_files_total,RANGE,100,499,,count,,,0.04,FALSE

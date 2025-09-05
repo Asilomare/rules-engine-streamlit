@@ -1,0 +1,57 @@
+{
+    "fetched_at": 1756910059.795993,
+    "user_id": "30910522",
+    "profile": {
+      "items": [
+        {
+          "badge_counts": {
+            "bronze": 0,
+            "silver": 0,
+            "gold": 0
+          },
+          "account_id": 42759612,
+          "is_employee": false,
+          "last_access_date": 1756909507,
+          "reputation_change_year": 0,
+          "reputation_change_quarter": 0,
+          "reputation_change_month": 0,
+          "reputation_change_week": 0,
+          "reputation_change_day": 0,
+          "reputation": 1,
+          "creation_date": 1751038130,
+          "user_type": "registered",
+          "user_id": 30910522,
+          "link": "https://stackoverflow.com/users/30910522/harrison-oliver",
+          "profile_image": "https://www.gravatar.com/avatar/8de3e6be925221c8301a37ea220c1a31?s=256&d=identicon&r=PG&f=y&so-version=2",
+          "display_name": "Harrison Oliver"
+        }
+      ],
+      "has_more": false,
+      "quota_max": 10000,
+      "quota_remaining": 9998
+    },
+    "answers": {
+      "items": []
+    },
+    "questions": {
+      "items": []
+    },
+    "tags": {
+      "items": []
+    },
+    "reputation_history": {
+      "items": []
+    },
+    "badges": {
+      "items": []
+    },
+    "favorites": {
+      "items": []
+    },
+    "comments": {
+      "items": []
+    },
+    "timeline": {
+      "items": []
+    }
+  }

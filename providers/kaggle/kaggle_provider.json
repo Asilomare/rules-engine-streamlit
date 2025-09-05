@@ -1,0 +1,138 @@
+{
+    "pageType": "USER_PROFILE",
+    "userProfile": {
+      "userId": 21894542,
+      "displayName": "Brenda Flynn",
+      "country": "United States",
+      "region": "Massachusetts",
+      "city": "Stoneham",
+      "gitHubUserName": "",
+      "twitterUserName": "",
+      "linkedInUrl": "",
+      "websiteUrl": "",
+      "occupation": "Program Manager",
+      "organization": "Kaggle",
+      "bio": "I work with ML model publishers to ensure their models are available on the Kaggle platform from Day 0. I create and manage relationships with the publishers to help show the real world uses and adoption of the published models. With my team, I make sure Kaggle developers have access to world class and cutting edge AI models without delay!",
+      "userLastActive": "2025-08-28T21:03:54.647Z",
+      "userJoinDate": "2024-07-29T20:35:30.380Z",
+      "performanceTier": "STAFF",
+      "performanceTierCategory": "USER_ACHIEVEMENT_TYPE_COMPETITIONS",
+      "userAvatarUrl": "https://storage.googleapis.com/kaggle-avatars/images/21894542-kg.JPG?t=2024-12-17-15-48-11",
+      "achievementSummaries": [
+        {
+          "tier": "CONTRIBUTOR",
+          "summaryType": "USER_ACHIEVEMENT_TYPE_COMPETITIONS",
+          "rankOutOf": 202367
+        },
+        {
+          "tier": "CONTRIBUTOR",
+          "summaryType": "USER_ACHIEVEMENT_TYPE_DATASETS",
+          "rankOutOf": 8979
+        },
+        {
+          "tier": "CONTRIBUTOR",
+          "summaryType": "USER_ACHIEVEMENT_TYPE_NOTEBOOKS",
+          "rankOutOf": 52050
+        }
+      ],
+      "totalUsersFollowingMe": 46,
+      "userName": "flynnbrenda",
+      "tagline": "Model Partnerships Lead",
+      "pronouns": "she/her",
+      "totalKernels": 1,
+      "totalDatasets": 1,
+      "totalDiscussions": 188,
+      "totalModels": 7,
+      "badges": [
+        {
+          "badge": {
+            "badgeId": 49,
+            "name": "1 Year on Kaggle",
+            "description": "Active on Kaggle for more than 1 year.",
+            "imageUrl": "https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F163e0f27360ae958da99dde2a68f7e00%2FBadge-46.svg?generation=1727468408101916&alt=media",
+            "badgeType": "REGULAR",
+            "issuedUserCount": 5471019
+          },
+          "count": 1,
+          "achievedTime": "2025-01-05T21:27:22.398723300Z"
+        },
+        {
+          "badge": {
+            "badgeId": 17,
+            "name": "Dataset Creator",
+            "description": "Created a dataset. It\u2019s easy to create a dataset on Kaggle and doing so is a great way to start a data science portfolio, share reproducible research, or work with collaborators on a project.",
+            "imageUrl": "https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F28e0e70842ce6972f4d68f5b6ecd549a%2FBadge-12.svg?generation=1727462988946700&alt=media",
+            "badgeType": "REGULAR",
+            "issuedUserCount": 1255244
+          },
+          "count": 1,
+          "achievedTime": "2025-03-18T16:46:54.335949600Z"
+        },
+        {
+          "badge": {
+            "badgeId": 42,
+            "name": "Collector",
+            "description": "Created a collection. Collections are folders of items you can find inside the 'Your Work' section. They can be used to organize your own files or to keep track of content from across Kaggle.",
+            "imageUrl": "https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2Fbd815f5d633db594d07a22a6e3f1067e%2FBadge-43.svg?generation=1727468286042063&alt=media",
+            "badgeType": "REGULAR",
+            "issuedUserCount": 217864
+          },
+          "count": 1,
+          "achievedTime": "2024-10-23T07:22:21.514544300Z"
+        },
+        {
+          "badge": {
+            "badgeId": 45,
+            "name": "Agent of Discord",
+            "description": "Joined the Kaggle Discord and linked your account. Discord is a popular chatroom platform that is more casual than traditional forums. You can join the Kaggle server here: discord.gg/kaggle",
+            "imageUrl": "https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F0b96fc543a2faf02467b3dcd5833feff%2FBadge-45.svg?generation=1727468334875991&alt=media",
+            "badgeType": "REGULAR",
+            "issuedUserCount": 45028
+          },
+          "count": 1,
+          "achievedTime": "2024-09-10T17:11:00.896879Z"
+        },
+        {
+          "badge": {
+            "badgeId": 100,
+            "name": "Founding Benchmark Task Author",
+            "description": "Contributed a task to a Kaggle Benchmark as an early-access member. Your task evaluating AI model capabilities helped to improve Kaggle Benchmarks and demonstrate the product before its launch.",
+            "imageUrl": "https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F495305%2Fe0bc1d7c1052d2b4ba27f9d2b3f2fc92%2FBadge-61.svg?generation=1752013222838026&alt=media",
+            "badgeType": "REGULAR",
+            "issuedUserCount": 40,
+            "rarityIndex": 1
+          },
+          "count": 1,
+          "achievedTime": "2025-07-23T17:44:29.210782200Z"
+        },
+        {
+          "badge": {
+            "badgeId": 56,
+            "name": "7 Day Login Streak",
+            "description": "Logged in to Kaggle 7 days in a row.",
+            "imageUrl": "https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F6e139e7278fc9c33210e39baf918967f%2FBadge-53.svg?generation=1727468684057299&alt=media",
+            "badgeType": "REGULAR",
+            "issuedUserCount": 566148
+          },
+          "count": 1,
+          "achievedTime": "2025-04-01T16:11:19.627557400Z"
+        }
+      ],
+      "visibilitySettings": {
+        "hiddenSections": [
+          "PROFILE_SECTION_ACTIVITY"
+        ]
+      },
+      "totalHostedCompetitions": 1,
+      "progressionOptOut": false,
+      "locationSharingOptOut": false,
+      "organizations": [
+        {
+          "name": "Kaggle",
+          "id": 4,
+          "slug": "kaggle"
+        }
+      ],
+      "totalWriteUps": 1
+    }
+  }

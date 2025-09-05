@@ -1,0 +1,69 @@
+id,category,label,metric,operator,value_low,value_high,value_exact,unit,window_value,window_unit,weight,is_gate
+FV-2001,Authenticity,Profile Activated,profile_activated,EQ,,,TRUE,boolean,,,0.05,FALSE
+FV-2002,Authenticity,Profile Image Present,profile_image_present,EXISTS,,,,boolean,,,0.03,FALSE
+FV-2003,Authenticity,Verified Seller,verified_seller,EQ,,,TRUE,boolean,,,0.05,FALSE
+FV-2004,Authenticity,Notable Clients Present,notable_clients_present,EXISTS,,,,boolean,,,0.04,FALSE
+FV-2005,Authenticity,Intro Video Present,intro_video_present,EXISTS,,,,boolean,,,0.03,FALSE
+FV-2010a,Professional,Languages Count (0),languages_count,RANGE,0,0,,count,,,0.04,FALSE
+FV-2010b,Professional,Languages Count (1),languages_count,RANGE,1,1,,count,,,0.04,FALSE
+FV-2010c,Professional,Languages Count (2–3),languages_count,RANGE,2,3,,count,,,0.04,FALSE
+FV-2010d,Professional,Languages Count (4–5),languages_count,RANGE,4,5,,count,,,0.04,FALSE
+FV-2010e,Professional,Languages Count (6+),languages_count,RANGE,6,1000000,,count,,,0.04,FALSE
+FV-2011a,Professional,Skills Count (0),skills_count,RANGE,0,0,,count,,,0.05,FALSE
+FV-2011b,Professional,Skills Count (1–2),skills_count,RANGE,1,2,,count,,,0.05,FALSE
+FV-2011c,Professional,Skills Count (3–5),skills_count,RANGE,3,5,,count,,,0.05,FALSE
+FV-2011d,Professional,Skills Count (6–9),skills_count,RANGE,6,9,,count,,,0.05,FALSE
+FV-2011e,Professional,Skills Count (10+),skills_count,RANGE,10,1000000,,count,,,0.05,FALSE
+FV-2012a,Professional,Certifications Count (0),certifications_count,RANGE,0,0,,count,,,0.04,FALSE
+FV-2012b,Professional,Certifications Count (1),certifications_count,RANGE,1,1,,count,,,0.04,FALSE
+FV-2012c,Professional,Certifications Count (2–3),certifications_count,RANGE,2,3,,count,,,0.04,FALSE
+FV-2012d,Professional,Certifications Count (4–5),certifications_count,RANGE,4,5,,count,,,0.04,FALSE
+FV-2012e,Professional,Certifications Count (6+),certifications_count,RANGE,6,1000000,,count,,,0.04,FALSE
+FV-2013a,Professional,Educations Count (0),educations_count,RANGE,0,0,,count,,,0.03,FALSE
+FV-2013b,Professional,Educations Count (1),educations_count,RANGE,1,1,,count,,,0.03,FALSE
+FV-2013c,Professional,Educations Count (2),educations_count,RANGE,2,2,,count,,,0.03,FALSE
+FV-2013d,Professional,Educations Count (3–4),educations_count,RANGE,3,4,,count,,,0.03,FALSE
+FV-2013e,Professional,Educations Count (5+),educations_count,RANGE,5,1000000,,count,,,0.03,FALSE
+FV-2020a,Commerce,Hourly Rate (No Rate),hourly_rate_cents,RANGE,0,0,,cents,,,0.07,FALSE
+FV-2020b,Commerce,Hourly Rate ($0.01–$24.99),hourly_rate_cents,RANGE,1,2499,,cents,,,0.07,FALSE
+FV-2020c,Commerce,Hourly Rate ($25–$49.99),hourly_rate_cents,RANGE,2500,4999,,cents,,,0.07,FALSE
+FV-2020d,Commerce,Hourly Rate ($50–$99.99),hourly_rate_cents,RANGE,5000,9999,,cents,,,0.07,FALSE
+FV-2020e,Commerce,Hourly Rate ($100+),hourly_rate_cents,RANGE,10000,100000000,,cents,,,0.07,FALSE
+FV-2030a,Supply,Approved Gigs (0),approved_gigs_count,RANGE,0,0,,count,,,0.06,FALSE
+FV-2030b,Supply,Approved Gigs (1–5),approved_gigs_count,RANGE,1,5,,count,,,0.06,FALSE
+FV-2030c,Supply,Approved Gigs (6–20),approved_gigs_count,RANGE,6,20,,count,,,0.06,FALSE
+FV-2030d,Supply,Approved Gigs (21–50),approved_gigs_count,RANGE,21,50,,count,,,0.06,FALSE
+FV-2030e,Supply,Approved Gigs (51+),approved_gigs_count,RANGE,51,1000000,,count,,,0.06,FALSE
+FV-2040a,Portfolio,Portfolio Projects (0),portfolio_projects_count,RANGE,0,0,,count,,,0.05,FALSE
+FV-2040b,Portfolio,Portfolio Projects (1–2),portfolio_projects_count,RANGE,1,2,,count,,,0.05,FALSE
+FV-2040c,Portfolio,Portfolio Projects (3–5),portfolio_projects_count,RANGE,3,5,,count,,,0.05,FALSE
+FV-2040d,Portfolio,Portfolio Projects (6–10),portfolio_projects_count,RANGE,6,10,,count,,,0.05,FALSE
+FV-2040e,Portfolio,Portfolio Projects (11+),portfolio_projects_count,RANGE,11,1000000,,count,,,0.05,FALSE
+FV-2050a,Reputation,Rating Score (<4.0),rating_score,LT,,,4,score,,,0.07,FALSE
+FV-2050b,Reputation,Rating Score (4.0–4.5),rating_score,RANGE,4,4.5,,score,,,0.07,FALSE
+FV-2050c,Reputation,Rating Score (4.6–4.8),rating_score,RANGE,4.6,4.8,,score,,,0.07,FALSE
+FV-2050d,Reputation,Rating Score (4.81–4.95),rating_score,RANGE,4.81,4.95,,score,,,0.07,FALSE
+FV-2050e,Reputation,Rating Score (>4.95),rating_score,GT,,,4.95,score,,,0.07,FALSE
+FV-2051a,Reputation,Rating Count (0–10),rating_count,RANGE,0,10,,count,,,0.05,FALSE
+FV-2051b,Reputation,Rating Count (11–100),rating_count,RANGE,11,100,,count,,,0.05,FALSE
+FV-2051c,Reputation,"Rating Count (101–1,000)",rating_count,RANGE,101,1000,,count,,,0.05,FALSE
+FV-2051d,Reputation,"Rating Count (1,001–5,000)",rating_count,RANGE,1001,5000,,count,,,0.05,FALSE
+FV-2051e,Reputation,"Rating Count (>5,000)",rating_count,GT,,,5000,count,,,0.05,FALSE
+FV-2052a,Responsiveness,Response Time (≤1h),response_time_hours,RANGE,0,1,,hours,,,0.05,FALSE
+FV-2052b,Responsiveness,Response Time (2–3h),response_time_hours,RANGE,2,3,,hours,,,0.05,FALSE
+FV-2052c,Responsiveness,Response Time (4–12h),response_time_hours,RANGE,4,12,,hours,,,0.05,FALSE
+FV-2052d,Responsiveness,Response Time (13–24h),response_time_hours,RANGE,13,24,,hours,,,0.05,FALSE
+FV-2052e,Responsiveness,Response Time (>24h),response_time_hours,GT,,,24,hours,,,0.05,FALSE
+FV-2060,Status,Seller Is Active,seller_is_active,EQ,,,TRUE,boolean,,,0.04,FALSE
+FV-2061,Status,Vacation Mode,vacation_mode,EQ,,,TRUE,boolean,,,0.05,FALSE
+FV-2070a,Reputation,Buyer Reviews Total (0–10),buyer_reviews_total_count,RANGE,0,10,,count,,,0.05,FALSE
+FV-2070b,Reputation,Buyer Reviews Total (11–100),buyer_reviews_total_count,RANGE,11,100,,count,,,0.05,FALSE
+FV-2070c,Reputation,"Buyer Reviews Total (101–1,000)",buyer_reviews_total_count,RANGE,101,1000,,count,,,0.05,FALSE
+FV-2070d,Reputation,"Buyer Reviews Total (1,001–5,000)",buyer_reviews_total_count,RANGE,1001,5000,,count,,,0.05,FALSE
+FV-2070e,Reputation,"Buyer Reviews Total (>5,000)",buyer_reviews_total_count,GT,,,5000,count,,,0.05,FALSE
+FV-2071a,Reputation,Buyer Average Rating (<4.0),buyer_average_rating,LT,,,4,score,,,0.06,FALSE
+FV-2071b,Reputation,Buyer Average Rating (4.0–4.5),buyer_average_rating,RANGE,4,4.5,,score,,,0.06,FALSE
+FV-2071c,Reputation,Buyer Average Rating (4.6–4.8),buyer_average_rating,RANGE,4.6,4.8,,score,,,0.06,FALSE
+FV-2071d,Reputation,Buyer Average Rating (4.81–4.95),buyer_average_rating,RANGE,4.81,4.95,,score,,,0.06,FALSE
+FV-2071e,Reputation,Buyer Average Rating (>4.95),buyer_average_rating,GT,,,4.95,score,,,0.06,FALSE
+

@@ -1,0 +1,138 @@
+{
+  "fetched_at": "2025-09-04T16:26:21.677148Z",
+  "user": {
+    "login": "Asilomare",
+    "id": 104533101,
+    "name": "Harrison O",
+    "html_url": "https://github.com/Asilomare",
+    "created_at": "2022-04-27T21:32:30Z",
+    "avatar_url": "https://avatars.githubusercontent.com/u/104533101?v=4"
+  },
+  "repos": [
+    {
+      "full_name": "Asilomare/Brainrot-frontend",
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "fork": false,
+      "pushed_at": "2025-06-19T03:20:06Z"
+    },
+    {
+      "full_name": "Asilomare/Brainrot-Backend",
+      "language": "Python",
+      "stargazers_count": 0,
+      "fork": false,
+      "pushed_at": "2025-06-18T03:42:27Z"
+    },
+    {
+      "full_name": "Asilomare/Media-Icon",
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "fork": false,
+      "pushed_at": "2025-06-01T00:43:10Z"
+    },
+    {
+      "full_name": "Asilomare/Nebula",
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "fork": false,
+      "pushed_at": "2025-04-10T23:12:51Z"
+    },
+    {
+      "full_name": "Asilomare/RedditVideoMakerBot",
+      "language": "Python",
+      "stargazers_count": 0,
+      "fork": true,
+      "pushed_at": "2024-10-01T18:29:29Z"
+    },
+    {
+      "full_name": "Asilomare/Text-To-Video-AI",
+      "language": null,
+      "stargazers_count": 0,
+      "fork": true,
+      "pushed_at": "2024-09-27T04:14:32Z"
+    },
+    {
+      "full_name": "Asilomare/torpy",
+      "language": "Python",
+      "stargazers_count": 0,
+      "fork": true,
+      "pushed_at": "2024-07-13T08:32:07Z"
+    },
+    {
+      "full_name": "Asilomare/CDK-OAuth-Cognito-APIGateway",
+      "language": "Python",
+      "stargazers_count": 1,
+      "fork": false,
+      "pushed_at": "2023-05-10T23:40:20Z"
+    },
+    {
+      "full_name": "Asilomare/CDK-ML-Document-processing",
+      "language": "Python",
+      "stargazers_count": 0,
+      "fork": false,
+      "pushed_at": "2023-05-13T23:51:33Z"
+    },
+    {
+      "full_name": "Asilomare/Research-Project-Oyster-Noise-Cancelllation",
+      "language": null,
+      "stargazers_count": 0,
+      "fork": false,
+      "pushed_at": "2023-05-11T21:47:54Z"
+    },
+    {
+      "full_name": "Asilomare/Research-Project-Osyter-Image-Analysis",
+      "language": null,
+      "stargazers_count": 0,
+      "fork": false,
+      "pushed_at": "2023-05-11T20:43:03Z"
+    },
+    {
+      "full_name": "Asilomare/slack-export-viewer",
+      "language": null,
+      "stargazers_count": 0,
+      "fork": true,
+      "pushed_at": "2022-10-03T06:21:37Z"
+    },
+    {
+      "full_name": "Asilomare/CDK-LoadBalanced-EC2-Apache",
+      "language": "Python",
+      "stargazers_count": 0,
+      "fork": false,
+      "pushed_at": "2023-05-11T14:49:09Z"
+    },
+    {
+      "full_name": "Asilomare/cdk-loadbalanced-fargate-flask",
+      "language": "Python",
+      "stargazers_count": 0,
+      "fork": false,
+      "pushed_at": "2023-01-12T16:19:21Z"
+    },
+    {
+      "full_name": "Asilomare/AWS-CDK-CI-CD-Docker-CodePipeline",
+      "language": "Python",
+      "stargazers_count": 0,
+      "fork": false,
+      "pushed_at": "2023-03-30T13:18:43Z"
+    },
+    {
+      "full_name": "Asilomare/AWS-CDK-vpc-ec2-network",
+      "language": "Python",
+      "stargazers_count": 0,
+      "fork": false,
+      "pushed_at": "2023-01-12T16:23:28Z"
+    }
+  ],
+  "computed_metrics": {
+    "public_repos_count": 16,
+    "non_fork_ratio": 0.75,
+    "recent_repos_pushed_90d": 2,
+    "stars_total_sum": 1,
+    "max_repo_stars": 1,
+    "language_distinct_count": 3,
+    "owner_repos_updated_365d": 6,
+    "commits_by_author_90d": 14,
+    "pr_issue_involvement_180d": 0,
+    "authored_items_365d": 1,
+    "indexed_code_files_total": 201
+  }
+}

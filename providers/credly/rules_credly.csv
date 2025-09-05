@@ -1,0 +1,45 @@
+id,category,label,metric,operator,value_low,value_high,value_exact,unit,window_value,window_unit,weight,is_gate
+CR-1001,Technical,Badge Count (0),badge_count,RANGE,0,0,,count,,,0.00,FALSE
+CR-1002,Technical,Badge Count (1–5),badge_count,RANGE,1,5,,count,,,0.02,FALSE
+CR-1003,Technical,Badge Count (6–10),badge_count,RANGE,6,10,,count,,,0.04,FALSE
+CR-1004,Technical,Badge Count (11–20),badge_count,RANGE,11,20,,count,,,0.06,FALSE
+CR-1005,Technical,Badge Count (21–50),badge_count,RANGE,21,50,,count,,,0.08,FALSE
+CR-1006,Technical,Badge Count (51+),badge_count,RANGE,51,1000000,,count,,,0.10,FALSE
+CR-1010,Technical,Latest Badge Age (<3 months),latest_badge_age_months,RANGE,0,3,,months,,,0.06,FALSE
+CR-1011,Technical,Latest Badge Age (3–12 months),latest_badge_age_months,RANGE,3,12,,months,,,0.04,FALSE
+CR-1012,Technical,Latest Badge Age (13–24 months),latest_badge_age_months,RANGE,13,24,,months,,,0.02,FALSE
+CR-1013,Technical,Latest Badge Age (25–36 months),latest_badge_age_months,RANGE,25,36,,months,,,0.00,FALSE
+CR-1014,Technical,Latest Badge Age (36+ months),latest_badge_age_months,RANGE,37,1000000,,months,,,-0.02,FALSE
+CR-1020,Authenticity,Issuer Diversity (1),issuer_primary_entity_distinct_count,RANGE,1,1,,count,,,-0.02,FALSE
+CR-1021,Authenticity,Issuer Diversity (2–3),issuer_primary_entity_distinct_count,RANGE,2,3,,count,,,0.00,FALSE
+CR-1022,Authenticity,Issuer Diversity (4–7),issuer_primary_entity_distinct_count,RANGE,4,7,,count,,,0.02,FALSE
+CR-1023,Authenticity,Issuer Diversity (8–15),issuer_primary_entity_distinct_count,RANGE,8,15,,count,,,0.04,FALSE
+CR-1024,Authenticity,Issuer Diversity (16+),issuer_primary_entity_distinct_count,RANGE,16,1000000,,count,,,0.06,FALSE
+CR-1030,Risk,Expired Badges (0),expired_count,RANGE,0,0,,count,,,0.02,FALSE
+CR-1031,Risk,Expired Badges (1–2),expired_count,RANGE,1,2,,count,,,0.00,FALSE
+CR-1032,Risk,Expired Badges (3–5),expired_count,RANGE,3,5,,count,,,-0.02,FALSE
+CR-1033,Risk,Expired Badges (6–10),expired_count,RANGE,6,10,,count,,,-0.04,FALSE
+CR-1034,Risk,Expired Badges (11+),expired_count,RANGE,11,1000000,,count,,,-0.06,FALSE
+CR-1040,Risk,Revoked Badges (0),revoked_count,RANGE,0,0,,count,,,0.03,FALSE
+CR-1041,Risk,Revoked Badges (1–2),revoked_count,RANGE,1,2,,count,,,-0.03,FALSE
+CR-1042,Risk,Revoked Badges (3–5),revoked_count,RANGE,3,5,,count,,,-0.05,FALSE
+CR-1043,Risk,Revoked Badges (6–10),revoked_count,RANGE,6,10,,count,,,-0.07,FALSE
+CR-1044,Risk,Revoked Badges (11+),revoked_count,RANGE,11,1000000,,count,,,-0.09,FALSE
+CR-1050,Technical,Unique Skills (0),skills_unique_count,RANGE,0,0,,count,,,-0.04,FALSE
+CR-1051,Technical,Unique Skills (1–5),skills_unique_count,RANGE,1,5,,count,,,-0.01,FALSE
+CR-1052,Technical,Unique Skills (6–10),skills_unique_count,RANGE,6,10,,count,,,0.01,FALSE
+CR-1053,Technical,Unique Skills (11–20),skills_unique_count,RANGE,11,20,,count,,,0.03,FALSE
+CR-1054,Technical,Unique Skills (21–50),skills_unique_count,RANGE,21,50,,count,,,0.05,FALSE
+CR-1055,Technical,Unique Skills (51+),skills_unique_count,RANGE,51,1000000,,count,,,0.07,FALSE
+CR-1060,Authenticity,Evidence Coverage (0%),evidence_badge_ratio,RANGE,0,0,,percent,,,0.00,FALSE
+CR-1061,Authenticity,Evidence Coverage (1–25%),evidence_badge_ratio,RANGE,1,25,,percent,,,0.01,FALSE
+CR-1062,Authenticity,Evidence Coverage (26–50%),evidence_badge_ratio,RANGE,26,50,,percent,,,0.02,FALSE
+CR-1063,Authenticity,Evidence Coverage (51–75%),evidence_badge_ratio,RANGE,51,75,,percent,,,0.03,FALSE
+CR-1064,Authenticity,Evidence Coverage (76–100%),evidence_badge_ratio,RANGE,76,100,,percent,,,0.05,FALSE
+CR-1070,Authenticity,Badge Image Present,badge_image_present,EXISTS,,,,boolean,,,0.01,FALSE
+CR-1071,Authenticity,Issuer Present,badge_issuer_present,EXISTS,,,,boolean,,,0.02,FALSE
+CR-1072,Authenticity,Issue Date Present,badge_date_present,EXISTS,,,,boolean,,,0.02,FALSE
+CR-1080,Risk,Badge Expired,badge_is_expired,EXISTS,,,,boolean,,,-0.04,FALSE
+CR-1081,Risk,Badge Revoked,badge_is_revoked,EXISTS,,,,boolean,,,-0.07,FALSE
+CR-1082,Risk,Issue Date in the Future,badge_issue_in_future,EXISTS,,,,boolean,,,-0.05,FALSE
+CR-1083,Risk,Expiry Before Issue Date,badge_expiry_before_issue,EXISTS,,,,boolean,,,-0.04,FALSE

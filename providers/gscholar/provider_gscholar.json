@@ -1,0 +1,405 @@
+{
+    "search_metadata": {
+      "id": "68b7a06e9f8abc76ec40dbbb",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/181b44b024c2427f/68b7a06e9f8abc76ec40dbbb.json",
+      "created_at": "2025-09-03 01:57:02 UTC",
+      "processed_at": "2025-09-03 01:57:02 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=PNu8FaUAAAAJ&hl=en",
+      "raw_html_file": "https://serpapi.com/searches/181b44b024c2427f/68b7a06e9f8abc76ec40dbbb.html",
+      "total_time_taken": 4.55
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "PNu8FaUAAAAJ",
+      "hl": "en"
+    },
+    "author": {
+      "name": "Jeremy Curuksu",
+      "affiliations": "AWS, NYU",
+      "email": "Verified email at amazon.com",
+      "website": "https://jcur.github.io/publications/",
+      "interests": [
+        {
+          "title": "Dynamic Systems",
+          "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:dynamic_systems",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adynamic_systems"
+        },
+        {
+          "title": "Optimization",
+          "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:optimization",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aoptimization"
+        },
+        {
+          "title": "Reinforcement Learning",
+          "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:reinforcement_learning",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Areinforcement_learning"
+        },
+        {
+          "title": "Biology",
+          "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:biology",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abiology"
+        },
+        {
+          "title": "Mathematics",
+          "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:mathematics",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amathematics"
+        }
+      ],
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=PNu8FaUAAAAJ&citpid=1"
+    },
+    "articles": [
+      {
+        "title": "Local and global effects of strong DNA bending induced during molecular dynamics simulations",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PNu8FaUAAAAJ&citation_for_view=PNu8FaUAAAAJ:u5HHmVD_uO8C",
+        "citation_id": "PNu8FaUAAAAJ:u5HHmVD_uO8C",
+        "authors": "J Curuksu, M Zacharias, R Lavery, K Zakrzewska",
+        "publication": "Nucleic acids research 37 (11), 3766-3773, 2009",
+        "cited_by": {
+          "value": 92,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15472976331556771290",
+          "serpapi_link": "https://serpapi.com/search.json?cites=15472976331556771290&engine=google_scholar&hl=en",
+          "cites_id": "15472976331556771290"
+        },
+        "year": "2009"
+      },
+      {
+        "title": "Graph-based sampling for approximating global helical topologies of RNA",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PNu8FaUAAAAJ&citation_for_view=PNu8FaUAAAAJ:2osOgNQ5qMEC",
+        "citation_id": "PNu8FaUAAAAJ:2osOgNQ5qMEC",
+        "authors": "N Kim, C Laing, S Elmetwaly, S Jung, J Curuksu, T Schlick",
+        "publication": "Proceedings of the National Academy of Sciences 111 (11), 4079-4084, 2014",
+        "cited_by": {
+          "value": 70,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4702275154048533971",
+          "serpapi_link": "https://serpapi.com/search.json?cites=4702275154048533971&engine=google_scholar&hl=en",
+          "cites_id": "4702275154048533971"
+        },
+        "year": "2014"
+      },
+      {
+        "title": "Data driven",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PNu8FaUAAAAJ&citation_for_view=PNu8FaUAAAAJ:hqOjcs7Dif8C",
+        "citation_id": "PNu8FaUAAAAJ:hqOjcs7Dif8C",
+        "authors": "J Curuksu",
+        "publication": "Springer Nature, Management for Professionals, 2018",
+        "cited_by": {
+          "value": 69,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15040268934222946200",
+          "serpapi_link": "https://serpapi.com/search.json?cites=15040268934222946200&engine=google_scholar&hl=en",
+          "cites_id": "15040268934222946200"
+        },
+        "year": "2018"
+      },
+      {
+        "title": "Enhanced conformational sampling of nucleic acids by a new Hamiltonian replica exchange molecular dynamics approach",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PNu8FaUAAAAJ&citation_for_view=PNu8FaUAAAAJ:u-x6o8ySG0sC",
+        "citation_id": "PNu8FaUAAAAJ:u-x6o8ySG0sC",
+        "authors": "J Curuksu, M Zacharias",
+        "publication": "The Journal of chemical physics 130 (10), 2009",
+        "cited_by": {
+          "value": 43,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15505720307365898956",
+          "serpapi_link": "https://serpapi.com/search.json?cites=15505720307365898956&engine=google_scholar&hl=en",
+          "cites_id": "15505720307365898956"
+        },
+        "year": "2009"
+      },
+      {
+        "title": "Magnitude and direction of DNA bending induced by screw-axis orientation: influence of sequence, mismatches and abasic sites",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PNu8FaUAAAAJ&citation_for_view=PNu8FaUAAAAJ:d1gkVwhDpl0C",
+        "citation_id": "PNu8FaUAAAAJ:d1gkVwhDpl0C",
+        "authors": "J Curuksu, K Zakrzewska, M Zacharias",
+        "publication": "Nucleic acids research 36 (7), 2268-2283, 2008",
+        "cited_by": {
+          "value": 43,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14968732590041904562",
+          "serpapi_link": "https://serpapi.com/search.json?cites=14968732590041904562&engine=google_scholar&hl=en",
+          "cites_id": "14968732590041904562"
+        },
+        "year": "2008"
+      },
+      {
+        "title": "Elbow flexibility of the kt38 RNA kink-turn motif investigated by free-energy molecular dynamics simulations",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PNu8FaUAAAAJ&citation_for_view=PNu8FaUAAAAJ:9yKSN-GCB0IC",
+        "citation_id": "PNu8FaUAAAAJ:9yKSN-GCB0IC",
+        "authors": "J Curuksu, J Sponer, M Zacharias",
+        "publication": "Biophysical journal 97 (7), 2004-2013, 2009",
+        "cited_by": {
+          "value": 34,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4486794167336188430",
+          "serpapi_link": "https://serpapi.com/search.json?cites=4486794167336188430&engine=google_scholar&hl=en",
+          "cites_id": "4486794167336188430"
+        },
+        "year": "2009"
+      },
+      {
+        "title": "Analysis of the management consulting industry",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PNu8FaUAAAAJ&citation_for_view=PNu8FaUAAAAJ:0EnyYjriUFMC",
+        "citation_id": "PNu8FaUAAAAJ:0EnyYjriUFMC",
+        "authors": "J Curuksu",
+        "publication": "In Data Driven: An Introduction to Management Consulting in the 21st Century \u2026, 2018",
+        "cited_by": {
+          "value": 15,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15718407857975516359",
+          "serpapi_link": "https://serpapi.com/search.json?cites=15718407857975516359&engine=google_scholar&hl=en",
+          "cites_id": "15718407857975516359"
+        },
+        "year": "2018"
+      },
+      {
+        "title": "Spectral analysis of DNA superhelical dynamics from molecular minicircle simulations",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PNu8FaUAAAAJ&citation_for_view=PNu8FaUAAAAJ:_kc_bZDykSQC",
+        "citation_id": "PNu8FaUAAAAJ:_kc_bZDykSQC",
+        "authors": "J Curuksu",
+        "publication": "The Journal of Chemical Physics 159 (10), 2023",
+        "cited_by": {
+          "value": 4,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9682997050717726213",
+          "serpapi_link": "https://serpapi.com/search.json?cites=9682997050717726213&engine=google_scholar&hl=en",
+          "cites_id": "9682997050717726213"
+        },
+        "year": "2023"
+      },
+      {
+        "title": "Adaptive conformational sampling based on replicas",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PNu8FaUAAAAJ&citation_for_view=PNu8FaUAAAAJ:IjCSPb-OGe4C",
+        "citation_id": "PNu8FaUAAAAJ:IjCSPb-OGe4C",
+        "authors": "J Curuksu",
+        "publication": "Journal of mathematical biology 64 (6), 917-931, 2012",
+        "cited_by": {
+          "value": 4,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6858714541410883897",
+          "serpapi_link": "https://serpapi.com/search.json?cites=6858714541410883897&engine=google_scholar&hl=en",
+          "cites_id": "6858714541410883897"
+        },
+        "year": "2012"
+      },
+      {
+        "title": "Molecular Dynamics and Advanced Sampling Simulations of Nucleic Acids",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PNu8FaUAAAAJ&citation_for_view=PNu8FaUAAAAJ:zYLM7Y9cAGgC",
+        "citation_id": "PNu8FaUAAAAJ:zYLM7Y9cAGgC",
+        "authors": "J Curuksu, S Kannan, M Zacharias",
+        "publication": "Handbook of Computational Chemistry, 1155-1173, 2012",
+        "cited_by": {
+          "value": 2,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7309027962441476188,2011879373372626254",
+          "serpapi_link": "https://serpapi.com/search.json?cites=7309027962441476188%2C2011879373372626254&engine=google_scholar&hl=en",
+          "cites_id": "7309027962441476188,2011879373372626254"
+        },
+        "year": "2012"
+      },
+      {
+        "title": "Conformational sampling by molecular mechanics and dynamics simulations applied to the flexibility of Nucleic acid",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PNu8FaUAAAAJ&citation_for_view=PNu8FaUAAAAJ:qjMakFHDy7sC",
+        "citation_id": "PNu8FaUAAAAJ:qjMakFHDy7sC",
+        "authors": "J Curuksu",
+        "publication": "PhD Thesis, Computational Biophysics, Paris Diderot University (Paris 7), 2009",
+        "cited_by": {
+          "value": 1,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9083501148129944594,11956463136747752811",
+          "serpapi_link": "https://serpapi.com/search.json?cites=9083501148129944594%2C11956463136747752811&engine=google_scholar&hl=en",
+          "cites_id": "9083501148129944594,11956463136747752811"
+        },
+        "year": "2009"
+      },
+      {
+        "title": "Fine-tune large language models with reinforcement learning from human or AI feedback",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PNu8FaUAAAAJ&citation_for_view=PNu8FaUAAAAJ:e5wmG9Sq2KIC",
+        "citation_id": "PNu8FaUAAAAJ:e5wmG9Sq2KIC",
+        "authors": "J Curuksu",
+        "publication": "AWS Machine Learning Blog, 2025",
+        "cited_by": {
+          "value": null
+        },
+        "year": "2025"
+      },
+      {
+        "title": "From Fine-Grain to Coarse-Grain Modeling: Estimating Kinetic Parameters of DNA Molecules",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PNu8FaUAAAAJ&citation_for_view=PNu8FaUAAAAJ:mB3voiENLucC",
+        "citation_id": "PNu8FaUAAAAJ:mB3voiENLucC",
+        "authors": "J Curuksu",
+        "publication": "Acta Biotheoretica 72 (4), 15, 2024",
+        "cited_by": {
+          "value": null
+        },
+        "year": "2024"
+      },
+      {
+        "title": "Policy optimization to align the fidelity and efficiency of reasoning agents in multi-turn dialogues",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PNu8FaUAAAAJ&citation_for_view=PNu8FaUAAAAJ:R3hNpaxXUhUC",
+        "citation_id": "PNu8FaUAAAAJ:R3hNpaxXUhUC",
+        "authors": "J Curuksu",
+        "cited_by": {
+          "value": null
+        },
+        "year": "2024"
+      },
+      {
+        "title": "Fine tuning language models to align fidelity and efficiency of generative retrieval in multi-turn dialogues",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PNu8FaUAAAAJ&citation_for_view=PNu8FaUAAAAJ:hC7cP41nSMkC",
+        "citation_id": "PNu8FaUAAAAJ:hC7cP41nSMkC",
+        "authors": "J Curuksu",
+        "publication": "NeurIPS 2024 Workshop on Fine-Tuning in Modern Machine Learning: Principles \u2026, 2024",
+        "cited_by": {
+          "value": null
+        },
+        "year": "2024"
+      },
+      {
+        "title": "Policy optimization to align the validity, coherence and efficiency of reasoning agents in multi-turn dialogues",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PNu8FaUAAAAJ&citation_for_view=PNu8FaUAAAAJ:ZeXyd9-uunAC",
+        "citation_id": "PNu8FaUAAAAJ:ZeXyd9-uunAC",
+        "authors": "J Curuksu",
+        "publication": "NeurIPS 2024 Workshop on Open-World Agents, 2024",
+        "cited_by": {
+          "value": null
+        },
+        "year": "2024"
+      },
+      {
+        "title": "Quantifying and reducing bias in treatment effect estimates from multi-armed bandits",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PNu8FaUAAAAJ&citation_for_view=PNu8FaUAAAAJ:mVmsd5A6BfQC",
+        "citation_id": "PNu8FaUAAAAJ:mVmsd5A6BfQC",
+        "authors": "J Rigby, J Curuksu",
+        "publication": "SIOP 2024, Society for Industrial and Organizational Psychology, Chicago, USA, 2024",
+        "cited_by": {
+          "value": null
+        },
+        "year": "2024"
+      },
+      {
+        "title": "Workforce Planning Policy Optimization with Trajectory Transfomer",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PNu8FaUAAAAJ&citation_for_view=PNu8FaUAAAAJ:aqlVkmm33-oC",
+        "citation_id": "PNu8FaUAAAAJ:aqlVkmm33-oC",
+        "authors": "J Rigby, P Zhu, N Yousefi, J Curuksu",
+        "publication": "12th Amazon Machine Learning Conference, 2024",
+        "cited_by": {
+          "value": null
+        },
+        "year": "2024"
+      },
+      {
+        "title": "Policy optimization of language models to align fidelity and efficiency of generative retrieval in multi-turn dialogues",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PNu8FaUAAAAJ&citation_for_view=PNu8FaUAAAAJ:qxL8FJ1GzNcC",
+        "citation_id": "PNu8FaUAAAAJ:qxL8FJ1GzNcC",
+        "authors": "J Curuksu",
+        "publication": "KDD 2024 Workshop on Generative AI for Recommender Systems and Personalization, 2024",
+        "cited_by": {
+          "value": null
+        },
+        "year": "2024"
+      },
+      {
+        "title": "Measuring the Markov property in offline reinforcement learning",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PNu8FaUAAAAJ&citation_for_view=PNu8FaUAAAAJ:Wp0gIr-vW9MC",
+        "citation_id": "PNu8FaUAAAAJ:Wp0gIr-vW9MC",
+        "authors": "C Prosper, J Curuksu",
+        "publication": "INFORMS 2023 Conference, 2023",
+        "cited_by": {
+          "value": null
+        },
+        "year": "2023"
+      }
+    ],
+    "cited_by": {
+      "table": [
+        {
+          "citations": {
+            "all": 377,
+            "since_2020": 155
+          }
+        },
+        {
+          "h_index": {
+            "all": 7,
+            "since_2020": 6
+          }
+        },
+        {
+          "i10_index": {
+            "all": 7,
+            "since_2020": 6
+          }
+        }
+      ],
+      "graph": [
+        {
+          "year": 2009,
+          "citations": 5
+        },
+        {
+          "year": 2010,
+          "citations": 12
+        },
+        {
+          "year": 2011,
+          "citations": 14
+        },
+        {
+          "year": 2012,
+          "citations": 27
+        },
+        {
+          "year": 2013,
+          "citations": 11
+        },
+        {
+          "year": 2014,
+          "citations": 28
+        },
+        {
+          "year": 2015,
+          "citations": 27
+        },
+        {
+          "year": 2016,
+          "citations": 21
+        },
+        {
+          "year": 2017,
+          "citations": 32
+        },
+        {
+          "year": 2018,
+          "citations": 21
+        },
+        {
+          "year": 2019,
+          "citations": 21
+        },
+        {
+          "year": 2020,
+          "citations": 24
+        },
+        {
+          "year": 2021,
+          "citations": 33
+        },
+        {
+          "year": 2022,
+          "citations": 27
+        },
+        {
+          "year": 2023,
+          "citations": 24
+        },
+        {
+          "year": 2024,
+          "citations": 29
+        },
+        {
+          "year": 2025,
+          "citations": 18
+        }
+      ]
+    },
+    "public_access": {
+      "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=PNu8FaUAAAAJ",
+      "available": 1,
+      "not_available": 1
+    },
+    "serpapi_pagination": {
+      "next": "https://serpapi.com/search.json?author_id=PNu8FaUAAAAJ&engine=google_scholar_author&hl=en&start=20"
+    }
+  }
